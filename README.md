@@ -5,7 +5,7 @@
 ReActRAG indexes documents with an LLM, searches them through an iterative Reason+Act loop, and generates grounded answers — every stage driven by YAML schemas you define. Swap documents, datasets, or domains without touching Python code.
 
 Inspired by [PageIndex](https://github.com/VectifyAI/PageIndex).
-
+Inspired by [ReAct](https://github.com/ysymyth/ReAct).
 ---
 
 ## Results
