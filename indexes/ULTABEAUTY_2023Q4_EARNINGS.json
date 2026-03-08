@@ -1,0 +1,321 @@
+{
+  "doc_name": "ULTABEAUTY_2023Q4_EARNINGS",
+  "source_file": "ULTABEAUTY_2023Q4_EARNINGS.md",
+  "total_pages": 9,
+  "total_chunks": 9,
+  "indexed_at": "2026-03-08T12:05:22.053606+00:00",
+  "doc_summary": "This document reports Ulta Beauty's financial results for the fourth quarter and fiscal year ended January 28, 2023. It highlights strong sales growth, profitability, and member growth, with key metrics including net sales, comparable sales, and earnings per share.",
+  "doc_meta": {
+    "doc_type": "earnings report",
+    "primary_subject": "Ulta Beauty, Inc.",
+    "time_period": "Fiscal 2022 Fourth Quarter",
+    "doc_summary": "This document reports Ulta Beauty's financial results for the fourth quarter and fiscal year ended January 28, 2023. It highlights strong sales growth, profitability, and member growth, with key metrics including net sales, comparable sales, and earnings per share."
+  },
+  "sections": [
+    {
+      "section_title": "Ulta Beauty Fourth Quarter Fiscal 2022 Results",
+      "key_topics": [
+        "Financial Performance",
+        "Sales Growth",
+        "Profitability",
+        "Company Milestones",
+        "Retail Industry Trends"
+      ],
+      "entities": [
+        "Ulta Beauty",
+        "Dave Kimbell",
+        "NASDAQ: ULTA",
+        "BOLINGBROOK, Ill.",
+        "Fiscal 2022",
+        "January 28, 2023",
+        "January 29, 2022",
+        "January 30, 2021"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides Ulta Beauty's fourth quarter fiscal 2022 financial results, including net sales of $3.2 billion, a 15.6% increase in comparable sales, and a net income of $340.8 million.",
+      "chunk_id": "chunk_0000",
+      "chunk_index": 0,
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_title": "Financial Performance for Fiscal 2022",
+      "key_topics": [
+        "Net Sales Growth",
+        "Gross Profit Analysis",
+        "Operating Income",
+        "Earnings Per Share",
+        "Tax Rate Changes"
+      ],
+      "entities": [
+        "Fourth Quarter of Fiscal 2022",
+        "$3.2 billion",
+        "$2.7 billion",
+        "18.2%",
+        "15.6%",
+        "13.6%",
+        "1.8%",
+        "$1.2 billion",
+        "$1.0 billion",
+        "23.6%",
+        "23.8%",
+        "$447.6 million",
+        "$375.6 million",
+        "24.6%",
+        "22.9%",
+        "$340.8 million",
+        "$289.4 million",
+        "$6.68",
+        "$5.41",
+        "Full Year of Fiscal 2022",
+        "$10.2 billion",
+        "$8.6 billion",
+        "37.9%",
+        "10.8%",
+        "4.3%",
+        "$4.0 billion",
+        "$3.4 billion",
+        "23.5%",
+        "23.9%",
+        "$1.6 billion",
+        "$1.3 billion",
+        "24.4%",
+        "23.9%",
+        "$1.2 billion",
+        "$985.8 million"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial performance data for the Fourth Quarter and Full Year of Fiscal 2022, including net sales growth of 18.2% to $3.2 billion, gross profit of $1.2 billion, operating income of $447.6 million, and diluted earnings per share of $6.68.",
+      "chunk_id": "chunk_0001",
+      "chunk_index": 1,
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Operational Updates",
+      "key_topics": [
+        "Operating Income",
+        "Net Sales",
+        "Share Repurchase Program",
+        "Store Expansion",
+        "Fiscal Outlook",
+        "Tax Rate"
+      ],
+      "entities": [
+        "fiscal 2021",
+        "fiscal 2022",
+        "January 28, 2023",
+        "March 2022",
+        "Garden Grove, CA",
+        "Glendale, AZ",
+        "Hartsdale, NY",
+        "Hollister, CA",
+        "Indianapolis, IN",
+        "Liverpool, NY",
+        "Nanuet, NY",
+        "Oklahoma City, OK",
+        "Richmond, TX",
+        "Rock Springs, WY",
+        "Tullahoma, TN",
+        "Woburn, MA",
+        "FY23",
+        "1,355 stores",
+        "14.2 million square feet",
+        "10.95 billion",
+        "11.05 billion",
+        "24.70",
+        "25.40",
+        "900 million",
+        "24.6%",
+        "400 million",
+        "475 million",
+        "245 million",
+        "250 million"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on operating income growth (26.3%), net sales projections for FY23 ($10.95 billion to $11.05 billion), store expansion plans (25-30 new stores), and financial metrics like diluted earnings per share ($24.70 to $25.40).",
+      "chunk_id": "chunk_0002",
+      "chunk_index": 2,
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_title": "Fiscal 2023 Outlook and Conference Call Details",
+      "key_topics": [
+        "Fiscal Outlook",
+        "Financial Projections",
+        "Corporate Communications",
+        "Investor Relations",
+        "Business Performance"
+      ],
+      "entities": [
+        "Ulta Beauty",
+        "NASDAQ: ULTA",
+        "March 9, 2023",
+        "(877) 704-4453",
+        "https://ulta.com/investor",
+        "(844) 512‑2921",
+        "13735500",
+        "Fiscal 2023",
+        "Fourth Quarter of Fiscal 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides the fiscal 2023 outlook with net sales projections of $10.95 billion to $11.05 billion, a 4% to 5% comparable sales growth, and details about the conference call on March 9, 2023.",
+      "chunk_id": "chunk_0003",
+      "chunk_index": 3,
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_title": "Risk Factors and Strategic Considerations",
+      "key_topics": [
+        "Strategic Planning",
+        "Financial Risks",
+        "Operational Risks",
+        "Compliance and Security",
+        "Market Competition",
+        "Regulatory Filings"
+      ],
+      "entities": [
+        "Project SOAR",
+        "Securities and Exchange Commission",
+        "10-K",
+        "10-Q",
+        "www.sec.gov"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk is best suited to answer questions about the company's risk factors, including cybersecurity threats, supply chain challenges, compliance with privacy laws, and references to specific SEC filings like the 10-K for the fiscal year ended January 29, 2022.",
+      "chunk_id": "chunk_0004",
+      "chunk_index": 4,
+      "page_range": [
+        5,
+        5
+      ]
+    },
+    {
+      "section_title": "Financial Statements and Income Data",
+      "key_topics": [
+        "Financial Statements",
+        "Income Analysis",
+        "Sales Performance",
+        "Expense Breakdown",
+        "Earnings Per Share"
+      ],
+      "entities": [
+        "Ulta Beauty, Inc.",
+        "Form 10-K",
+        "Form 10-Q",
+        "SEC",
+        "January 28, 2023",
+        "January 29, 2022",
+        "www.sec.gov"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides consolidated income statements for Ulta Beauty, Inc. for 13 weeks ended January 28, 2023, and 52 weeks ended January 28, 2023, including net sales, cost of sales, gross profit, operating income, and net income per share values.",
+      "chunk_id": "chunk_0005",
+      "chunk_index": 5,
+      "page_range": [
+        6,
+        6
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Balance Sheet Data",
+      "key_topics": [
+        "Financial Statements",
+        "Income Statement",
+        "Balance Sheet",
+        "Revenue and Expenses",
+        "Share Information",
+        "Asset and Liability Details"
+      ],
+      "entities": [
+        "Ulta Beauty, Inc.",
+        "January 28, 2023",
+        "January 29, 2022",
+        "Exhibit 3"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides financial data including pre-opening expenses, operating income, net income, and balance sheet details for Ulta Beauty, Inc. as of January 28, 2023, and January 29, 2022, with specific values such as $1,242,408 net income and $5,370,411 total assets.",
+      "chunk_id": "chunk_0006",
+      "chunk_index": 6,
+      "page_range": [
+        7,
+        7
+      ]
+    },
+    {
+      "section_title": "Financial Statements and Store Operations",
+      "key_topics": [
+        "Balance Sheet",
+        "Cash Flow Statement",
+        "Store Operations",
+        "Liabilities",
+        "Equity",
+        "Financial Performance"
+      ],
+      "entities": [
+        "Ulta Beauty, Inc.",
+        "Exhibit 4",
+        "Exhibit 5",
+        "January 28, 2023",
+        "January 29, 2022",
+        "Fiscal 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides financial data including accrued liabilities, deferred revenue, operating lease liabilities, and cash flow details for Ulta Beauty, Inc. for the 52 weeks ended January 28, 2023, and January 29, 2022, as well as store count updates for the fiscal 2022 quarters.",
+      "chunk_id": "chunk_0007",
+      "chunk_index": 7,
+      "page_range": [
+        8,
+        8
+      ]
+    },
+    {
+      "section_title": "Financial and Operational Data for Ulta Beauty, Inc. in Fiscal 2022",
+      "key_topics": [
+        "Cash and cash equivalents",
+        "Store operations",
+        "Sales by category",
+        "Gross square footage",
+        "Fiscal year data"
+      ],
+      "entities": [
+        "Ulta Beauty, Inc.",
+        "Exhibit 5",
+        "Exhibit 6",
+        "Kiley Rawlins, CFA",
+        "Eileen Ziesemer",
+        "businesswire.com",
+        "708-305-4479"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides cash and cash equivalents at the beginning and end of the year, store count changes, gross square footage, and sales percentages by category for Ulta Beauty, Inc. in Fiscal 2022.",
+      "chunk_id": "chunk_0008",
+      "chunk_index": 8,
+      "page_range": [
+        9,
+        9
+      ]
+    }
+  ],
+  "_chunk_texts": {
+    "chunk_0000": "March 9, 2023\nUlta Beauty Announces Fourth Quarter\nFiscal 2022 Results\nNet Sales of $3.2 Billion Compared to $2.7 Billion in the Year-Ago Quarter\nComparable Sales Increased 15.6%\nNet Income of $340.8 Million or $6.68 Per Diluted Share\nBOLINGBROOK, Ill.--(BUSINESS WIRE)-- Ulta Beauty, Inc. (NASDAQ: ULTA) today\nannounced financial results for the thirteen-week period (“fourth quarter”) and fifty-two-week\nperiod (“fiscal year”) ended January 28, 2023 compared to the same periods ended January\n29, 2022.\n13 Weeks Ended 52 Weeks Ended\nJanuary\n28,\nJanuary\n29,\nJanuary\n30,\nJanuary\n28,\nJanuary\n29,\nJanuary\n30,\n(Dollars in millions, except per share data) 2023 2022 2021 2023 2022 2021\nNet sales $ 3,226.8 $ 2,729.4 $ 2,198.7 $ 10,208.6 $ 8,630.9 $ 6,152.0\nComparable sales 15.6% 21.4% (4.8%) 15.6% 37.9% (17.9%)\nGross profit (as a percentage of net sales) 37.6% 37.6% 35.1% 39.6% 39.0% 31.7%\nSelling, general and administrative expenses $ 762.7 $ 650.0 $ 514.1 $ 2,395.3 $ 2,061.5 $ 1,583.0\nOperating income (as a percentage of net sales) 13.9% 13.8% 10.2% 16.1% 15.0% 3.9%\nDiluted earnings per share $ 6.68 $ 5.41 $ 3.03 $ 24.01 $ 17.98 $ 3.11\nNew store openings, net 12 6 2 47 44 10\n“Ulta Beauty’s strong fourth quarter results punctuate an exceptional year with record sales,\nprofitability, and member growth, reflecting robust demand and best-in-class execution,” said\nDave Kimbell, chief executive officer. “For the first time in our 33-year history, Ulta Beauty’s\nannual revenue surpassed ten billion dollars, our annual net income exceeded one billion\ndollars, and we exceeded 40 million Ultamate Rewards members. These milestone\nachievements demonstrate the power of Ulta Beauty’s highly differentiated model, the health\nof the growing beauty category, and our winning culture and outstanding teams.”\nKimbell continued, “As we move into fiscal 2023, we remain optimistic about the strength and\nresiliency of the beauty category, and I am excited about the opportunities ahead to continue\nto expand our leadership position, capture market share gains, and drive long term value for\nall our stakeholders.”\nFor the Fourth Quarter of Fiscal 2022\nNet sales increased 18.2% to $3.2 billion compared to $2.7 billion in the fourth quarter\nof fiscal 2021 primarily due to the favorable impact from the continued resilience of the\nbeauty category, retail price increases, and the impact of new brands and product\ninnovation compared to the fourth quarter of fiscal 2021.\n\n---",
+    "chunk_0001": "\nto expand our leadership position, capture market share gains, and drive long term value for\nall our stakeholders.”\nFor the Fourth Quarter of Fiscal 2022\nNet sales increased 18.2% to $3.2 billion compared to $2.7 billion in the fourth quarter\nof fiscal 2021 primarily due to the favorable impact from the continued resilience of the\nbeauty category, retail price increases, and the impact of new brands and product\ninnovation compared to the fourth quarter of fiscal 2021.\n\n---Comparable sales (sales for stores open at least 14 months and e-commerce sales)\nincreased 15.6% compared to an increase of 21.4% in the fourth quarter of fiscal 2021,\ndriven by a 13.6% increase in transactions and a 1.8% increase in average ticket.\nGross profit increased 18.0% to $1.2 billion compared to $1.0 billion in the fourth\nquarter of fiscal 2021. As a percentage of net sales, gross profit of 37.6% was flat\ncompared to the fourth quarter of fiscal 2021, primarily due to leverage of fixed costs,\nfavorable channel mix shifts, and strong growth in other revenue, offset by higher\ninventory shrink.\nSelling, general and administrative (SG&A) expenses increased 17.3% to $762.7\nmillion compared to $650.0 million in the fourth quarter of fiscal 2021. As a percentage\nof net sales, SG&A expenses decreased to 23.6% compared to 23.8% in the fourth\nquarter of fiscal 2021, primarily due to leverage of marketing expenses and incentive\ncompensation due to higher sales, partially offset by deleverage of store payroll and\nbenefits due to wage investments and deleverage in corporate overhead due to\nstrategic investments.\nOperating income increased 19.2% to $447.6 million, or 13.9% of net sales, compared\nto $375.6 million, or 13.8% of net sales, in the fourth quarter of fiscal 2021.\nThe tax rate increased to 24.6% compared to 22.9% in the fourth quarter of fiscal\n2021.\nNet income increased 17.8% to $340.8 million compared to $289.4 million in the fourth\nquarter of fiscal 2021.\nDiluted earnings per share increased 23.5% to $6.68, including a $0.02 benefit due to\nincome tax accounting for stock-based compensation, compared to $5.41 including a\n$0.05 benefit due to income tax accounting for stock-based compensation, in the fourth\nquarter of fiscal 2021.\nFor the Full Year of Fiscal 2022\nNet sales increased 18.3% to $10.2 billion compared to $8.6 billion in fiscal 2021,\nprimarily due to the favorable impact from the continued resilience of the beauty\ncategory, retail price increases, the impact of new brands and product innovation,\nincreased social occasions, and fewer COVID-19 limitations compared to fiscal 2021.\nComparable sales increased 15.6% compared to an increase of 37.9% in fiscal 2021,\ndriven by a 10.8% increase in transactions and a 4.3% increase in average ticket.\nGross profit increased 20.1% to $4.0 billion compared to $3.4 billion in fiscal 2021. As\na percentage of net sales, gross profit increased to 39.6% compared to 39.0% in fiscal\n2021, primarily due to leverage of fixed costs, strong growth in other revenue, and\nfavorable channel mix shifts, partially offset by higher inventory shrink and lower\nmerchandise margin.\nSG&A expenses increased 16.2% to $2.4 billion compared to $2.1 billion in fiscal\n2021. As a percentage of net sales, SG&A expenses decreased to 23.5% compared to\n23.9% in fiscal 2021, primarily due to lower marketing expenses and leverage of\nincentive compensation due to higher sales, partially offset by deleverage of corporate\noverhead due to strategic investments and deleverage of store payroll and benefits\ndue to wage investments.\nOperating income increased 26.3% to $1.6 billion, or 16.1% of net sales, compared to\n$1.3 billion, or 15.0% of net sales, in fiscal 2021.\nThe tax rate increased to 24.4% compared to 23.9% in fiscal 2021.\nNet income increased 26.0% to $1.2 billion compared to $985.8 million in fiscal 2021.\n\n---",
+    "chunk_0002": "\nincentive compensation due to higher sales, partially offset by deleverage of corporate\noverhead due to strategic investments and deleverage of store payroll and benefits\ndue to wage investments.\nOperating income increased 26.3% to $1.6 billion, or 16.1% of net sales, compared to\n$1.3 billion, or 15.0% of net sales, in fiscal 2021.\nThe tax rate increased to 24.4% compared to 23.9% in fiscal 2021.\nNet income increased 26.0% to $1.2 billion compared to $985.8 million in fiscal 2021.\n\n---Diluted earnings per share increased 33.5% to $24.01, including a $0.07 benefit due to\nincome tax accounting for stock-based compensation, compared to $17.98 including a\n$0.13 benefit due to income tax accounting for stock-based compensation, in fiscal\n2021.\nBalance Sheet\nCash and cash equivalents at the end of the fourth quarter of fiscal 2022 were $737.9\nmillion.\nMerchandise inventories, net at the end of the fourth quarter of fiscal 2022 totaled $1.6\nbillion compared to $1.5 billion at the end of the fourth quarter of fiscal 2021. The $104.2\nmillion increase was primarily due to the opening of 47 new stores since January 29, 2022,\ninventory to support new brand launches and brand expansions, and inventory cost\nincreases.\nShare Repurchase Program\nDuring the fourth quarter of fiscal 2022, the Company repurchased 722,457 shares of its\ncommon stock at a cost of $328.1 million. During fiscal 2022, the Company repurchased 2.2\nmillion shares of its common stock at a cost of $900.0 million. As of January 28, 2023, $1.1\nbillion remained available under the $2.0 billion share repurchase program announced in\nMarch 2022.\nStore Update\nReal estate activity in the fourth quarter of fiscal 2022 included 12 new stores located in\nGarden Grove, CA; Glendale, AZ; Hartsdale, NY; Hollister, CA; Indianapolis, IN; Liverpool,\nNY; Nanuet, NY; Oklahoma City, OK; Richmond, TX; Rock Springs, WY; Tullahoma, TN;\nand Woburn, MA. In addition, the Company relocated one store and remodeled 12 stores.\nDuring fiscal 2022, the Company opened 47 new stores, relocated 12 stores, and remodeled\n20 stores.\nAt the end of the fourth quarter of fiscal 2022, the Company operated 1,355 stores totaling\n14.2 million square feet.\nFiscal 2023 Outlook\nFor fiscal 2023, the Company plans to:\nFY23 Outlook\nNet sales $10.95 billion to $11.05 billion\nComparable sales 4% to 5%\nNew stores, net 25-30\nRemodel and relocation projects 20-30\nOperating margin 14.7% to 15.0%\nDiluted earnings per share $24.70 to $25.40\nShare repurchases approximately $900 million\nEffective tax rate approximately 24.6%\nCapital expenditures $400 million to $475 million\nDepreciation and amortization expense $245 million to $250 million\n\n---",
+    "chunk_0003": "\n14.2 million square feet.\nFiscal 2023 Outlook\nFor fiscal 2023, the Company plans to:\nFY23 Outlook\nNet sales $10.95 billion to $11.05 billion\nComparable sales 4% to 5%\nNew stores, net 25-30\nRemodel and relocation projects 20-30\nOperating margin 14.7% to 15.0%\nDiluted earnings per share $24.70 to $25.40\nShare repurchases approximately $900 million\nEffective tax rate approximately 24.6%\nCapital expenditures $400 million to $475 million\nDepreciation and amortization expense $245 million to $250 million\n\n---Conference Call Information\nA conference call to discuss fourth quarter of fiscal 2022 results is scheduled for today,\nMarch 9, 2023, at 4:30 p.m. ET / 3:30 p.m. CT. Investors and analysts interested in\nparticipating in the call are invited to dial (877) 704-4453. The conference call will also be\nwebcast live at https://ulta.com/investor. A replay of the webcast will remain available for 90\ndays. A replay of the conference call will be available until 11:59 p.m. ET on March 23, 2023\nand can be accessed by dialing (844) 512‑2921 and entering conference ID number\n13735500.\nAbout Ulta Beauty\nAt Ulta Beauty (NASDAQ: ULTA), the possibilities are beautiful. Ulta Beauty is the largest\nU.S. beauty retailer and the premier beauty destination for cosmetics, fragrance, skin care\nproducts, hair care products and salon services. In 1990, the Company reinvented the\nbeauty retail experience by offering a new way to shop for beauty – bringing together All\nThings Beauty, All in One Place®. Today, Ulta Beauty operates 1,355 retail stores across 50\nstates and also distributes its products through its website, which includes a collection of\ntips, tutorials, and social content. For more information, visit www.ulta.com.\nForward‑Looking Statements\nThis press release contains forward-looking statements within the meaning of Section 21E\nof the Securities Exchange Act of 1934, as amended, and the safe harbor provisions of the\nPrivate Securities Litigation Reform Act of 1995, which reflect the company’s current views\nwith respect to, among other things, future events and financial performance. These\nstatements can be identified by the use of forward-looking words such as “outlook,”\n“believes,” “expects,” “plans,” “estimates,” “targets,” “strategies” or other comparable words.\nAny forward-looking statements contained in this press release are based upon the\ncompany’s historical performance and on current plans, estimates and expectations. The\ninclusion of this forward-looking information should not be regarded as a representation by\nthe company or any other person that the future plans, estimates, targets, strategies or\nexpectations contemplated by the company will be achieved. Such forward-looking\nstatements are subject to various risks and uncertainties, which include, without limitation:\nchanges in the overall level of consumer spending and volatility in the economy,\nincluding as a result of the COVID-19 pandemic and geo-political events;\nthe impact of current inflationary cost pressures on payroll, benefits, supply chain, and\nother operating costs;\nour ability to sustain our growth plans and successfully implement our long-range\nstrategic and financial plan;\nthe ability to execute our operational excellence priorities, including continuous\nimprovement, Project SOAR (our replacement enterprise resource planning platform),\nand supply chain optimization;\nepidemics, pandemics or natural disasters that have and could continue to negatively\nimpact sales;\nour ability to gauge beauty trends and react to changing consumer preferences in a\ntimely manner;\nthe possibility that we may be unable to compete effectively in our highly competitive\nmarkets;\n\n---",
+    "chunk_0004": "\nstrategic and financial plan;\nthe ability to execute our operational excellence priorities, including continuous\nimprovement, Project SOAR (our replacement enterprise resource planning platform),\nand supply chain optimization;\nepidemics, pandemics or natural disasters that have and could continue to negatively\nimpact sales;\nour ability to gauge beauty trends and react to changing consumer preferences in a\ntimely manner;\nthe possibility that we may be unable to compete effectively in our highly competitive\nmarkets;\n\n---the possibility that cybersecurity or information security breaches and other disruptions\ncould compromise our information or result in the unauthorized disclosure of\nconfidential information;\nthe possibility of material disruptions to our information systems;\nthe failure to maintain satisfactory compliance with applicable privacy and data\nprotection laws and regulations;\nthe possibility that the capacity of our distribution and order fulfillment infrastructure\nand the performance of our distribution centers and fast fulfillment centers may not be\nadequate to support our expected future growth plans;\nchanges in the wholesale cost of our products;\na decline in operating results that has and may continue to lead to asset impairment\nand store closure charges;\nthe possibility that new store openings and existing locations may be impacted by\ndeveloper or co-tenant issues;\nour ability to attract and retain key executive personnel;\nthe impact of climate change on our business operations and/or supply chain;\nour ability to successfully execute our common stock repurchase program or\nimplement future common stock repurchase programs; and\nother risk factors detailed in the company’s public filings with the Securities and\nExchange Commission (the SEC), including risk factors contained in its Annual Report\non Form 10‑K for the fiscal year ended January 29, 2022, as such may be amended or\nsupplemented in its subsequently filed Quarterly Reports on Form 10-Q.\nThe company’s filings with the SEC are available atw ww.sec.gov. Except to the extent\nrequired by the federal securities laws, the Company does not undertake to publicly update\nor revise its forward-looking statements, whether as a result of new information, future\nevents or otherwise.\n\n---",
+    "chunk_0005": "\non Form 10‑K for the fiscal year ended January 29, 2022, as such may be amended or\nsupplemented in its subsequently filed Quarterly Reports on Form 10-Q.\nThe company’s filings with the SEC are available atw ww.sec.gov. Except to the extent\nrequired by the federal securities laws, the Company does not undertake to publicly update\nor revise its forward-looking statements, whether as a result of new information, future\nevents or otherwise.\n\n---Exhibit 1\nUlta Beauty, Inc.\nConsolidated Statements of Income\n(In thousands, except per share data)\n13 Weeks Ended\nJanuary 28, January 29,\n2023 2022\n(Unaudited) (Unaudited)\nNet sales $ 3,226,773 100.0% $ 2,729,388 100.0%\nCost of sales 2,014,270 62.4% 1,702,059 62.4%\nGross profit 1,212,503 37.6% 1,027,329 37.6%\nSelling, general and administrative expenses 762,706 23.6% 649,968 23.8%\nPre-opening expenses 2,179 0.1% 1,739 0.1%\nOperating income 447,618 13.9% 375,622 13.8%\nInterest (income) expense, net (4,378) (0.1%) 467 0.1%\nIncome before income taxes 451,996 14.0% 375,155 13.7%\nIncome tax expense 111,245 3.4% 85,789 3.1%\nNet income $ 340,751 10.6% $ 289,366 10.6%\nNet income per common share:\nBasic $ 6.73 $ 5.44\nDiluted $ 6.68 $ 5.41\nWeighted average common shares outstanding:\nBasic 50,624 53,163\nDiluted 50,976 53,519\nExhibit 2\nUlta Beauty, Inc.\nConsolidated Statements of Income\n(In thousands, except per share data)\n52 Weeks Ended\nJanuary 28, January 29,\n2023 2022\n(Unaudited)\nNet sales $ 10,208,580 100.0% $ 8,630,889 100.0%\nCost of sales 6,164,070 60.4% 5,262,335 61.0%\nGross profit 4,044,510 39.6% 3,368,554 39.0%\nSelling, general and administrative expenses 2,395,299 23.5% 2,061,545 23.9%\nPre-opening expenses 10,601 0.1% 9,517 0.1%\nOperating income 1,638,610 16.1% 1,297,492 15.0%\nInterest (income) expense, net (4,934) 0.0% 1,663 0.0%\nIncome before income taxes 1,643,544 16.1% 1,295,829 15.0%\nIncome tax expense 401,136 3.9% 309,992 3.6%\nNet income $ 1,242,408 12.2% $ 985,837 11.4%\nNet income per common share:\nBasic $ 24.17 $ 18.09\nDiluted $ 24.01 $ 17.98\nWeighted average common shares outstanding:\nBasic 51,403 54,482\nDiluted 51,738 54,841\n\n---",
+    "chunk_0006": "\nPre-opening expenses 10,601 0.1% 9,517 0.1%\nOperating income 1,638,610 16.1% 1,297,492 15.0%\nInterest (income) expense, net (4,934) 0.0% 1,663 0.0%\nIncome before income taxes 1,643,544 16.1% 1,295,829 15.0%\nIncome tax expense 401,136 3.9% 309,992 3.6%\nNet income $ 1,242,408 12.2% $ 985,837 11.4%\nNet income per common share:\nBasic $ 24.17 $ 18.09\nDiluted $ 24.01 $ 17.98\nWeighted average common shares outstanding:\nBasic 51,403 54,482\nDiluted 51,738 54,841\n\n---Exhibit 3\nUlta Beauty, Inc.\nCondensed Consolidated Balance Sheets\n(In thousands)\nJanuary 28, January 29,\n2023 2022\n(Unaudited)\nAssets\nCurrent assets:\nCash and cash equivalents $ 737,877 $ 431,560\nReceivables, net 199,422 233,682\nMerchandise inventories, net 1,603,451 1,499,218\nPrepaid expenses and other current assets 130,246 110,814\nPrepaid income taxes 38,308 5,909\nTotal current assets 2,709,304 2,281,183\nProperty and equipment, net 1,009,273 914,476\nOperating lease assets 1,561,263 1,482,256\nGoodwill 10,870 10,870\nOther intangible assets, net 1,312 1,538\nDeferred compensation plan assets 35,382 38,409\nOther long-term assets 43,007 35,647\nTotal assets $ 5,370,411 $ 4,764,379\nLiabilities and stockholders’ equity\nCurrent liabilities:\nAccounts payable $ 559,527 $ 552,730\nAccrued liabilities 444,278 364,797\nDeferred revenue 394,677 353,579\nCurrent operating lease liabilities 283,293 274,118\nAccrued income taxes — 12,786\nTotal current liabilities 1,681,775 1,558,010\nNon-current operating lease liabilities 1,619,883 1,572,638\nDeferred income taxes 55,346 39,693\nOther long-term liabilities 53,596 58,665\nTotal liabilities 3,410,600 3,229,006\nCommitments and contingencies\nTotal stockholders’ equity 1,959,811 1,535,373\nTotal liabilities and stockholders’ equity $ 5,370,411 $ 4,764,379\n\n---",
+    "chunk_0007": "\nAccrued liabilities 444,278 364,797\nDeferred revenue 394,677 353,579\nCurrent operating lease liabilities 283,293 274,118\nAccrued income taxes — 12,786\nTotal current liabilities 1,681,775 1,558,010\nNon-current operating lease liabilities 1,619,883 1,572,638\nDeferred income taxes 55,346 39,693\nOther long-term liabilities 53,596 58,665\nTotal liabilities 3,410,600 3,229,006\nCommitments and contingencies\nTotal stockholders’ equity 1,959,811 1,535,373\nTotal liabilities and stockholders’ equity $ 5,370,411 $ 4,764,379\n\n---Exhibit 4\nUlta Beauty, Inc.\nCondensed Consolidated Statements of Cash Flows\n(In thousands)\n52 Weeks Ended\nJanuary 28, January 29,\n2023 2022\n(Unaudited)\nOperating activities\nNet income $ 1,242,408 $ 985,837\nAdjustments to reconcile net income to net cash provided by operating activities:\nDepreciation and amortization 241,372 268,460\nNon-cash lease expense 301,912 276,229\nDeferred income taxes 15,653 (25,666)\nStock-based compensation expense 43,044 47,259\nLoss on disposal of property and equipment 6,688 5,358\nChange in operating assets and liabilities:\nReceivables 34,260 (40,573)\nMerchandise inventories (104,233) (331,003)\nPrepaid expenses and other current assets (19,432) (3,412)\nIncome taxes (45,182) (35,652)\nAccounts payable 8,309 66,156\nAccrued liabilities 48,249 58,598\nDeferred revenue 41,098 79,196\nOperating lease liabilities (324,500) (303,914)\nOther assets and liabilities (7,731) 12,392\nNet cash provided by operating activities 1,481,915 1,059,265\nInvesting activities\nCapital expenditures (312,126) (172,187)\nOther investments (2,458) (4,297)\nNet cash used in investing activities (314,584) (176,484)\nFinancing activities\nRepurchase of common shares (900,033) (1,521,925)\nStock options exercised 46,011 40,386\nPurchase of treasury shares (6,992) (15,677)\nNet cash used in financing activities (861,014) (1,497,216)\nEffect of exchange rate changes on cash and cash equivalents — (56)\nNet increase (decrease) in cash and cash equivalents 306,317 (614,491)\nCash and cash equivalents at beginning of year 431,560 1,046,051\nCash and cash equivalents at end of year $ 737,877 $ 431,560\nExhibit 5\nUlta Beauty, Inc.\nStore Update\nTotal stores open Number of stores Number of stores Total stores\nat beginning of the opened during the closed during the open at\nFiscal 2022 quarter quarter quarter end of the quarter\n1\nst\nQuarter\n1,308 10 0 1,318\n2\nnd\nQuarter\n1,318 7 0 1,325\n3\nrd\nQuarter\n1,325 18 0 1,343\n4\nth\nQuarter\n1,343 12 0 1,355\n\n---",
+    "chunk_0008": "\nCash and cash equivalents at beginning of year 431,560 1,046,051\nCash and cash equivalents at end of year $ 737,877 $ 431,560\nExhibit 5\nUlta Beauty, Inc.\nStore Update\nTotal stores open Number of stores Number of stores Total stores\nat beginning of the opened during the closed during the open at\nFiscal 2022 quarter quarter quarter end of the quarter\n1\nst\nQuarter\n1,308 10 0 1,318\n2\nnd\nQuarter\n1,318 7 0 1,325\n3\nrd\nQuarter\n1,325 18 0 1,343\n4\nth\nQuarter\n1,343 12 0 1,355\n\n---Gross square feet for\nTotal gross square stores opened or Gross square feet for Total gross square\nfeet at beginning of expanded during the stores closed feet at end of the\nFiscal 2022 the quarter quarter during the quarter quarter\n1\nst\nQuarter\n13,770,438 90,905 0 13,861,343\n2\nnd\nQuarter\n13,861,343 61,257 0 13,922,600\n3\nrd\nQuarter\n13,922,600 151,730 0 14,074,330\n4\nth\nQuarter\n14,074,330 126,073 0 14,200,403\nExhibit 6\nUlta Beauty, Inc.\nSales by Category\nThe following tables set forth the approximate percentage of net sales by primary category:\n13 Weeks Ended\nJanuary 28, January 29,\n2023 2022\nCosmetics 40% 41%\nHaircare products and styling tools 20% 20%\nSkincare 16% 15%\nFragrance and bath 18% 18%\nServices 3% 3%\nAccessories and other 3% 3%\n100% 100%\n52 Weeks Ended\nJanuary 28, January 29,\n2023 2022\nCosmetics 42% 43%\nHaircare products and styling tools 21% 20%\nSkincare 17% 17%\nFragrance and bath 14% 14%\nServices 3% 3%\nAccessories and other 3% 3%\n100% 100%\nView source version on businesswire.com:\nhttps://www.businesswire.com/news/home/20230309005603/en/\nInvestor Contacts:\nKiley Rawlins, CFA\nVice President, Investor Relations\nkrawlins@ulta.com\nMedia Contact:\nEileen Ziesemer\nVice President, Public Relations\neziesemer@ulta.com\n(708) 305-4479\nSource: Ulta Beauty, Inc."
+  }
+}

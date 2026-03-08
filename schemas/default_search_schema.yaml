@@ -1,0 +1,69 @@
+# GraphIndex Default Search Schema
+# Configures the ReAct search agent: system prompt template, enabled tools,
+# agent behavior parameters, and extra scoring rules.
+# Edit this file to customize the search strategy for your domain.
+
+# Which tools the agent can use. Order is significant only for documentation.
+# Remove "calculate" if your domain doesn't need math.
+# Remove "list_sections" to force the agent to always use search_index first.
+enabled_tools:
+  - search_index
+  - read_chunks
+  - list_sections
+  - calculate
+  - finish
+
+# System prompt template for the ReAct agent.
+# {tool_descriptions} is automatically replaced with descriptions of enabled_tools.
+# You can add domain-specific instructions, constraints, or examples here.
+system_prompt_template: |
+  You are an expert analyst with access to a structured document index.
+  Your task is to find the information needed to answer a question.
+
+  Available tools:
+  {tool_descriptions}
+
+  STRATEGY:
+  1. Start with search_index to find relevant sections, OR list_sections for a full overview
+  2. Use read_chunks to read the actual text content of promising sections
+  3. Use calculate if numerical computation is needed (always prefer this over mental math)
+  4. If your first search fails, try alternative query terms before giving up
+  5. Call finish when you have gathered sufficient information
+
+  RULES:
+  - Always read actual chunk content before extracting any numbers — never fabricate values
+  - finish.context should include all key numbers and text found, verbatim where possible
+  - finish.confidence: "high" = found complete answer, "medium" = partial, "low" = not found
+  - finish.chunks_read: list the chunk IDs you actually read content from
+
+# Agent behavior parameters (override config.py defaults)
+max_steps: 12
+top_k: 5
+
+# Extra scoring rules applied on top of IndexSchema field weights.
+# Use these to boost specific section types for your domain's common query patterns.
+# Format: if query contains match_keyword, add boost to sections where boost_field is truthy.
+extra_score_rules:
+  - match_keyword: "calculate"
+    boost_field: "has_numeric_data"
+    boost: 8
+  - match_keyword: "number"
+    boost_field: "has_numeric_data"
+    boost: 5
+  - match_keyword: "percent"
+    boost_field: "has_numeric_data"
+    boost: 5
+  - match_keyword: "margin"
+    boost_field: "has_numeric_data"
+    boost: 5
+
+# --- Domain-specific examples (commented out) ---
+# Legal documents — boost sections with legal citations:
+#   - match_keyword: "statute"
+#     boost_field: "legal_citations"
+#     boost: 10
+#
+# Technical docs — boost code sections for API questions:
+#   - match_keyword: "function"
+#     boost_field: "api_endpoints"
+#     boost: 10

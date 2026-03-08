@@ -1,0 +1,36 @@
+# GraphIndex Default Query Schema
+# Maps input dataset fields to the pipeline's internal field names.
+# Adapt this file to work with any JSONL dataset format.
+
+# Required: which field in the input JSONL contains the question/query text
+question_field: "question"
+
+# Required: which field in the input JSONL identifies the source document.
+# The value will have .md stripped if present, and be used to look up indexes/{value}.json
+doc_field: "expected_md"
+
+# Optional: ground truth answer field (used during evaluation/scoring)
+answer_field: "answer"
+
+# Optional: unique record identifier for result tracking
+id_field: "financebench_id"
+
+# Optional: additional fields passed as context to the answerer LLM.
+# Useful for passing metadata like question type, difficulty, category, etc.
+extra_context_fields:
+  - "question_type"
+
+# --- Examples for other dataset formats ---
+# Natural Questions style:
+#   question_field: "question_text"
+#   doc_field: "document_title"
+#   answer_field: "annotations.short_answers[0].text"
+#   id_field: "example_id"
+#   extra_context_fields: []
+#
+# Custom RAG eval:
+#   question_field: "query"
+#   doc_field: "source_doc"
+#   answer_field: "ground_truth"
+#   id_field: "id"
+#   extra_context_fields: ["difficulty", "category"]

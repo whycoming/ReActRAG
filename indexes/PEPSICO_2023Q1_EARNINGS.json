@@ -1,0 +1,479 @@
+{
+  "doc_name": "PEPSICO_2023Q1_EARNINGS",
+  "source_file": "PEPSICO_2023Q1_EARNINGS.md",
+  "total_pages": 16,
+  "total_chunks": 15,
+  "indexed_at": "2026-03-08T12:05:02.100994+00:00",
+  "doc_summary": "PepsiCo reports first-quarter 2023 financial results, including net revenue growth and EPS. The company raises its full-year 2023 guidance for organic revenue and core constant currency EPS.",
+  "doc_meta": {
+    "doc_type": "earnings report",
+    "primary_subject": "PepsiCo, Inc.",
+    "time_period": "Q1 2023",
+    "doc_summary": "PepsiCo reports first-quarter 2023 financial results, including net revenue growth and EPS. The company raises its full-year 2023 guidance for organic revenue and core constant currency EPS."
+  },
+  "sections": [
+    {
+      "section_title": "PepsiCo First-Quarter 2023 Financial Results and Guidance",
+      "key_topics": [
+        "Financial Performance",
+        "Earnings Report",
+        "Guidance Update"
+      ],
+      "entities": [
+        "PepsiCo",
+        "Ramon Laguarta",
+        "NASDAQ: PEP",
+        "April 25, 2023",
+        "Q1 2023 Form 10-Q",
+        "Securities and Exchange Commission (SEC)"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides PepsiCo's first-quarter 2023 financial results, including a 10.2% net revenue growth, $1.40 EPS, and updated full-year guidance of 8% organic revenue growth and 9% core constant currency EPS increase.",
+      "chunk_id": "chunk_0000",
+      "chunk_index": 0,
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_title": "First-Quarter 2023 Performance Summary",
+      "key_topics": [
+        "Revenue Volume",
+        "GAAP Reporting",
+        "Operating Profit",
+        "EPS",
+        "Foreign Exchange Impact",
+        "Organic Revenue Growth"
+      ],
+      "entities": [
+        "PepsiCo",
+        "Form 10-Q",
+        "Securities and Exchange Commission",
+        "Q1 2023",
+        "Frito-Lay North America",
+        "Quaker Foods North America",
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific, Australia and New Zealand and China Region",
+        "Core Constant Currency"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides numeric data on revenue volume changes, operating profit percentages, EPS changes, and foreign exchange impacts for various regions and business segments in the first quarter of 2023.",
+      "chunk_id": "chunk_0001",
+      "chunk_index": 1,
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_title": "Guidance and Outlook, Financial Metrics, and Event Details",
+      "key_topics": [
+        "Non-GAAP Financial Measures",
+        "Organic Revenue Growth",
+        "Core Constant Currency EPS",
+        "Shareholder Returns",
+        "Foreign Exchange Impact",
+        "Investor Communications"
+      ],
+      "entities": [
+        "PepsiCo",
+        "2023",
+        "April 25, 2023",
+        "www.pepsico.com/investors",
+        "investor@pepsico.com",
+        "pepsicomediarelations@pepsico.com"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides guidance for fiscal year 2023, including 8% organic revenue growth, 9% core constant currency EPS growth, a 20% core annual effective tax rate, $7.7 billion in total cash returns to shareholders, and a 2-percentage-point foreign exchange headwind.",
+      "chunk_id": "chunk_0002",
+      "chunk_index": 2,
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_title": "PepsiCo's First Quarter 2023 Financial Results and Business Update",
+      "key_topics": [
+        "Financial Performance",
+        "Income Statement",
+        "Business Operations",
+        "Revenue Analysis",
+        "Operating Profit"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "Frito-Lay North America",
+        "Quaker Foods North America",
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific, Australia and New Zealand and China Region",
+        "PAI Partners",
+        "Tropicana",
+        "Naked",
+        "3/25/2023",
+        "3/19/2022",
+        "www.pepsico.com/investors",
+        "investor@pepsico.com",
+        "pepsicomediarelations@pepsico.com"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides PepsiCo's first quarter 2023 financial results, including net revenue of $17,846 million, operating profit of $2,629 million, and detailed segment performance data.",
+      "chunk_id": "chunk_0003",
+      "chunk_index": 3,
+      "page_range": [
+        4,
+        5
+      ]
+    },
+    {
+      "section_title": "PepsiCo, Inc. and Subsidiaries - Condensed Consolidated Statement of Cash Flows",
+      "key_topics": [
+        "Financial Statements",
+        "Cash Flow Analysis",
+        "Operating Activities",
+        "Investing Activities",
+        "Corporate Finance"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "Frito-Lay North America",
+        "Quaker Foods North America",
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific, Australia and New Zealand and China Region",
+        "Corporate unallocated expenses",
+        "Juice Transaction"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data on PepsiCo's operating and investing activities for the 12 weeks ended 3/25/2023 and 3/19/2022, including net cash used for operating activities ($-392 million and $-174 million) and net cash (used for)/provided by investing activities ($-532 million and $2,955 million).",
+      "chunk_id": "chunk_0004",
+      "chunk_index": 4,
+      "page_range": [
+        6,
+        6
+      ]
+    },
+    {
+      "section_title": "Condensed Consolidated Statement of Cash Flows (continued)",
+      "key_topics": [
+        "Cash Flows",
+        "Investing Activities",
+        "Financing Activities",
+        "Cash and Cash Equivalents",
+        "Supplemental Non-Cash Activity"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "Juice Transaction",
+        "3/25/2023",
+        "3/19/2022",
+        "A - 3",
+        "A - 4"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed numeric data on cash flows, including net cash used for investing activities (-532) and net cash provided by financing activities (777), as well as specific values like proceeds from long-term debt (2,986) and cash dividends paid (1,608).",
+      "chunk_id": "chunk_0005",
+      "chunk_index": 5,
+      "page_range": [
+        7,
+        7
+      ]
+    },
+    {
+      "section_title": "Financial Statements and Cash Flow Data",
+      "key_topics": [
+        "Cash Flow",
+        "Balance Sheet",
+        "Financial Reporting",
+        "Accounting",
+        "Corporate Finance"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "3/25/2023",
+        "12/31/2022",
+        "A - 4",
+        "A - 5"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides cash flow data for PepsiCo, including net cash provided by financing activities, changes in cash and cash equivalents, and details of the balance sheet as of 3/25/2023 and 12/31/2022.",
+      "chunk_id": "chunk_0006",
+      "chunk_index": 6,
+      "page_range": [
+        8,
+        8
+      ]
+    },
+    {
+      "section_title": "Equity and Non-GAAP Measures",
+      "key_topics": [
+        "Equity Components",
+        "Non-GAAP Financial Measures",
+        "Financial Reporting",
+        "Corporate Finance",
+        "Accounting Standards"
+      ],
+      "entities": [
+        "PepsiCo",
+        "U.S. Generally Accepted Accounting Principles",
+        "GAAP",
+        "Form 10-Q",
+        "Form 10-K",
+        "Q1 2023",
+        "December 31, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains numeric data on PepsiCo's equity components, including stock at par value, capital in excess of par value, retained earnings, and total equity, as well as details on non-GAAP financial measures like organic revenue growth and core results.",
+      "chunk_id": "chunk_0007",
+      "chunk_index": 7,
+      "page_range": [
+        9,
+        9
+      ]
+    },
+    {
+      "section_title": "Expenses, Charges, and Financial Guidance",
+      "key_topics": [
+        "Acquisition and Divestiture Charges",
+        "Impairment Charges",
+        "Tax Related Items",
+        "Organic Revenue Growth",
+        "Financial Guidance"
+      ],
+      "entities": [
+        "PepsiCo Beverages North America",
+        "Europe",
+        "Juice Transaction",
+        "Russia-Ukraine conflict",
+        "Internal Revenue Service (IRS)",
+        "Tax Cuts and Jobs Act (TCJ Act)"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk provides details on expenses related to acquisitions, divestitures, impairment charges, tax-related items, and financial guidance for 2023, including the impact of foreign exchange and the exclusion of certain factors from guidance metrics.",
+      "chunk_id": "chunk_0008",
+      "chunk_index": 8,
+      "page_range": [
+        10,
+        10
+      ]
+    },
+    {
+      "section_title": "Reconciliation of GAAP and Non-GAAP Information",
+      "key_topics": [
+        "Effective Tax Rate",
+        "Non-GAAP Measures",
+        "Revenue Growth",
+        "Foreign Exchange Impact",
+        "Commodity Derivatives"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "Frito-Lay North America",
+        "Quaker Foods North America",
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific",
+        "Australia",
+        "New Zealand",
+        "China Region",
+        "A-7",
+        "A-8"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides the reconciliation of GAAP and non-GAAP information, including organic revenue growth rates for various regions and the impact of foreign exchange and acquisitions/divestitures on net revenue.",
+      "chunk_id": "chunk_0009",
+      "chunk_index": 9,
+      "page_range": [
+        11,
+        11
+      ]
+    },
+    {
+      "section_title": "Reconciliation of GAAP and Non-GAAP Information (continued)",
+      "key_topics": [
+        "Financial Performance",
+        "GAAP vs. Non-GAAP Measures",
+        "Year-over-Year Growth Rates",
+        "Revenue Analysis",
+        "Corporate Financials"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "Frito-Lay North America",
+        "Quaker Foods North America",
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific",
+        "Australia and New Zealand",
+        "China Region",
+        "Corporate",
+        "A-6",
+        "A-7",
+        "12 Weeks Ended March 25, 2023"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides year-over-year growth rates for various PepsiCo segments, including specific percentages like 23% for Frito-Lay North America and -86% for PepsiCo Beverages North America, along with non-GAAP and core percentage changes.",
+      "chunk_id": "chunk_0010",
+      "chunk_index": 10,
+      "page_range": [
+        12,
+        12
+      ]
+    },
+    {
+      "section_title": "Reconciliation of GAAP and Non-GAAP Information",
+      "key_topics": [
+        "Financial Reconciliation",
+        "Non-GAAP Measures",
+        "Tax Rates",
+        "Operating Profit",
+        "Net Income"
+      ],
+      "entities": [
+        "PepsiCo",
+        "GAAP",
+        "Non-GAAP",
+        "A-6",
+        "A-7",
+        "12 Weeks Ended March 25, 2023",
+        "March 19, 2022",
+        "Juice Transaction",
+        "Effective tax rate"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides a reconciliation of GAAP and non-GAAP financial measures for PepsiCo, including operating profit, net income, and effective tax rates for the 12 weeks ended March 25, 2023, and March 19, 2022, with specific numeric values such as $1.40 for Net Income Attributable to PepsiCo per common share - diluted in 2023 and 21.9% effective tax rate.",
+      "chunk_id": "chunk_0011",
+      "chunk_index": 11,
+      "page_range": [
+        13,
+        13
+      ]
+    },
+    {
+      "section_title": "Reconciliation of GAAP and Non-GAAP Information (continued)",
+      "key_topics": [
+        "Income Taxes",
+        "Effective Tax Rate",
+        "Operating Profit",
+        "Non-GAAP Measures",
+        "Items Affecting Comparability"
+      ],
+      "entities": [
+        "PepsiCo, Inc.",
+        "Frito-Lay North America",
+        "Quaker Foods North America",
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific, Australia and New Zealand and China Region",
+        "Corporate unallocated expenses",
+        "12 Weeks Ended March 25, 2023",
+        "12 Weeks Ended March 19, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides a reconciliation of GAAP and non-GAAP operating profit for various divisions of PepsiCo, including specific numeric values for reported GAAP measures, mark-to-market net impact, restructuring and impairment charges, acquisition and divestiture-related charges, and core non-GAAP measures for the periods ending March 25, 2023, and March 19, 2022.",
+      "chunk_id": "chunk_0012",
+      "chunk_index": 12,
+      "page_range": [
+        14,
+        14
+      ]
+    },
+    {
+      "section_title": "PepsiCo Financial Reconciliation and Non-GAAP Measures",
+      "key_topics": [
+        "Financial Reconciliation",
+        "Non-GAAP Measures",
+        "Gross Margin Growth",
+        "Operating Margin Performance",
+        "Earnings Per Share (EPS) Reconciliation"
+      ],
+      "entities": [
+        "PepsiCo Beverages North America",
+        "Latin America",
+        "Europe",
+        "Africa, Middle East and South Asia",
+        "Asia Pacific, Australia and New Zealand and China Region",
+        "Corporate unallocated expenses",
+        "PepsiCo, Inc. and Subsidiaries",
+        "GAAP",
+        "Non-GAAP",
+        "Mark-to-market",
+        "Restructuring and impairment charges",
+        "Impairment and other charges/credits",
+        "Acquisition and divestiture-related charges",
+        "Gain associated with the Juice Transaction",
+        "Pension and retiree medical-related impact",
+        "IRS audit",
+        "TCJ Act"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides a reconciliation of GAAP and non-GAAP financial measures, including gross margin growth (112 bps reported, 51 bps core), operating margin performance (-1,778 bps reported, 93 bps core), and diluted EPS reconciliation ($6.42 reported, $6.79 core).",
+      "chunk_id": "chunk_0013",
+      "chunk_index": 13,
+      "page_range": [
+        15,
+        15
+      ]
+    },
+    {
+      "section_title": "Acquisition and Divestiture-Related Charges and Financial Measures",
+      "key_topics": [
+        "Acquisition and divestiture charges",
+        "Non-GAAP financial measures",
+        "Impairment charges",
+        "Tax benefits",
+        "Pension and retiree medical impact",
+        "Forward-looking statements"
+      ],
+      "entities": [
+        "PepsiCo",
+        "Juice Transaction",
+        "IRS audit",
+        "TCJ Act",
+        "Form 10-K",
+        "Form 10-Q",
+        "Form 8-K"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides specific numeric values related to acquisition and divestiture charges, such as $0.05, $2.08, $2.12, $0.17, $0.23, and $0.06, as well as the non-GAAP core diluted EPS of $6.79.",
+      "chunk_id": "chunk_0014",
+      "chunk_index": 14,
+      "page_range": [
+        16,
+        16
+      ]
+    }
+  ],
+  "_chunk_texts": {
+    "chunk_0000": "PepsiCo Reports First-Quarter 2023 Results; Raises Full-Year\nGuidance\nReported (GAAP) First-Quarter 2023 Results\nFirst-Quarter\nNet revenue growth 10.2%\nForeign exchange impact on net revenue (2.5)%\nEarnings per share (EPS) $1.40\nEPS change (54)%\nForeign exchange impact on EPS (2)%\nOrganic/Core (non-GAAP)1\nFirst-Quarter 2023 Results\nFirst-Quarter\nOrganic revenue growth 14.3%\nCore EPS $1.50\nCore constant currency EPS change 18%\nPURCHASE, N.Y. - April 25, 2023 - PepsiCo, Inc. (NASDAQ: PEP) today reported results for\nthe first quarter 2023.\n“We are very pleased with our performance and business momentum as our categories and\ngeographies remained resilient during the first quarter. Given our strong start to the year, we\nnow expect our full-year 2023 organic revenue to increase 8 percent (previously 6 percent) and\ncore constant currency EPS to increase 9 percent (previously 8 percent),” said Chairman and\nCEO Ramon Laguarta.\nLaguarta continued, “Our results demonstrate that the investments we have made to become an\neven Faster, even Stronger, and even Better organization by Winning with pep+ are laying the\nfoundation for durable and sustainable growth. We remain committed to our strategic agenda\nand will continue to invest in our people, brands, supply chain, go-to-market systems, and\ndigitization initiatives to build competitive advantages and win in the marketplace.”\n1 Please refer to the Glossary for the definitions of non-GAAP financial measures, including “Organic revenue growth,” “Core” and “Constant currency,”\nand to “Guidance and Outlook” for additional information regarding PepsiCo’s full-year 2023 financial guidance. PepsiCo provides guidance on a non￾GAAP basis as we cannot predict certain elements which are included in reported GAAP results, including the impact of foreign exchange and\ncommodity mark-to-market net impacts. Please refer to PepsiCo’s Quarterly Report on Form 10-Q for the 12 weeks ended March 25, 2023 (Q1 2023\nForm 10-Q) filed with the Securities and Exchange Commission (SEC) for additional information regarding PepsiCo’s financial results.\n1\n\n---",
+    "chunk_0001": "\ncommodity mark-to-market net impacts. Please refer to PepsiCo’s Quarterly Report on Form 10-Q for the 12 weeks ended March 25, 2023 (Q1 2023\nForm 10-Q) filed with the Securities and Exchange Commission (SEC) for additional information regarding PepsiCo’s financial results.\n1\n\n---Summary First-Quarter 2023 Performance\nRevenue Volume(a)\nGAAP\nReported\n% Change\nPercentage Point Impact\nOrganic\n% Change\n% Change\nForeign\nExchange\nTranslation\nAcquisitions\nand\nDivestitures\nConvenient\nFoods Beverages\nFrito-Lay North America 15 — — 16 —\nQuaker Foods North America 9 1 — 10 (5)\nPepsiCo Beverages North\nAmerica 8 — 3 12 (2)\nLatin America 21 (6) 1 16 1 5\nEurope 5 5 4 14 (5) (11)\nAfrica, Middle East and South\nAsia 2 28 — 29 (8) 15\nAsia Pacific, Australia and New\nZealand and China Region (1) 6 — 4 4 2\nTotal 10 2.5 2 14 (3) 1\nOperating Profit and EPS\nGAAP Reported\n% Change\nPercentage Point Impact\nCore Constant\nCurrency\n% Change\nItems Affecting\nComparability\nForeign\nExchange\nTranslation\nFrito-Lay North America 23 — — 24\nQuaker Foods North America 18 — — 19\nPepsiCo Beverages North America (86) 95 1 10\nLatin America 13 (1) (6) 6\nEurope n/m n/m 11 159\nAfrica, Middle East and South Asia (6) (6) 23 11\nAsia Pacific, Australia and New Zealand and\nChina Region 5.5 — 6 11\nCorporate unallocated expenses 132 (102) — 30\nTotal (50) 67 2 19\nEPS (54) 70 2 18\n(a) Excludes the impact of acquisitions and divestitures. In certain instances, the volume change shown here differs from the\nimpact of organic volume on net revenue growth disclosed in the Organic Revenue Growth Rates table on page A-8, due to\nthe impacts of product mix, nonconsolidated joint venture volume, and, for our franchise-owned beverage businesses,\ntemporary timing differences between bottler case sales (BCS) and concentrate shipments and equivalents (CSE). We\nreport net revenue from our franchise-owned beverage businesses based on CSE. The volume sold by our nonconsolidated\njoint ventures has no direct impact on our net revenue.\nn/m - Not meaningful due to the impact of impairment and other charges in 2022.\nNote: Amounts may not sum due to rounding.\nOrganic revenue and core constant currency results are non-GAAP financial measures. Please refer to the reconciliation of\nGAAP and non-GAAP information in the attached exhibits and to the Glossary for definitions of “Organic revenue growth,” “Core”\nand “Constant currency.”\n2\n\n---",
+    "chunk_0002": "\njoint ventures has no direct impact on our net revenue.\nn/m - Not meaningful due to the impact of impairment and other charges in 2022.\nNote: Amounts may not sum due to rounding.\nOrganic revenue and core constant currency results are non-GAAP financial measures. Please refer to the reconciliation of\nGAAP and non-GAAP information in the attached exhibits and to the Glossary for definitions of “Organic revenue growth,” “Core”\nand “Constant currency.”\n2\n\n---Guidance and Outlook\nThe Company provides guidance on a non-GAAP basis as we cannot predict certain elements which are\nincluded in reported GAAP results, including the impact of foreign exchange translation and commodity\nmark-to-market net impacts.\nFor fiscal year 2023, the Company now expects to deliver 8 percent organic revenue growth (previously 6\npercent), and 9 percent core constant currency EPS growth (previously 8 percent).\nConsistent with its previous guidance for 2023, the Company continues to expect:\n• A core annual effective tax rate of 20 percent; and\n• Total cash returns to shareholders of approximately $7.7 billion, comprised of dividends of $6.7\nbillion and share repurchases of $1.0 billion.\nIn addition, the Company continues to expect an approximate 2-percentage-point foreign exchange\ntranslation headwind to impact reported net revenue and core EPS growth based on current market\nconsensus rates.\nThis assumption and the guidance above imply 2023 core EPS of $7.27 (previously $7.20), a 7 percent\nincrease (previously 6 percent) compared to 2022 core EPS of $6.79.\nPrepared Management Remarks and Live Question and Answer Webcast\nAt approximately 6:30 a.m. (Eastern time) on April 25, 2023, the Company will post prepared\nmanagement remarks (in pdf format) of its first quarter 2023 results and business update, including its\noutlook for 2023, at www.pepsico.com/investors. At 8:15 a.m. (Eastern time) on April 25, 2023, the\nCompany will host a live question and answer session with investors and financial analysts. Further\ndetails will be accessible on the Company’s website at www.pepsico.com/investors.\nContacts: Investor Relations Communications\ninvestor@pepsico.com pepsicomediarelations@pepsico.com\n3\n\n---",
+    "chunk_0003": "\nmanagement remarks (in pdf format) of its first quarter 2023 results and business update, including its\noutlook for 2023, at www.pepsico.com/investors. At 8:15 a.m. (Eastern time) on April 25, 2023, the\nCompany will host a live question and answer session with investors and financial analysts. Further\ndetails will be accessible on the Company’s website at www.pepsico.com/investors.\nContacts: Investor Relations Communications\ninvestor@pepsico.com pepsicomediarelations@pepsico.com\n3\n\n---PepsiCo, Inc. and Subsidiaries\nCondensed Consolidated Statement of Income\n(in millions except per share amounts, unaudited)\n12 Weeks Ended\n3/25/2023 3/19/2022\nNet Revenue $ 17,846 $ 16,200\nCost of sales 7,988 7,433\nGross profit 9,858 8,767\nSelling, general and administrative expenses (a) 7,229 6,580\nGain associated with the Juice Transaction (b)\n— (3,322)\nImpairment of intangible assets (c)\n— 242\nOperating Profit 2,629 5,267\nOther pension and retiree medical benefits income 61 134\nNet interest expense and other (200) (240)\nIncome before income taxes 2,490 5,161\nProvision for income taxes 546 888\nNet income 1,944 4,273\nLess: Net income attributable to noncontrolling interests 12 12\nNet Income Attributable to PepsiCo $ 1,932 $ 4,261\nDiluted\nNet income attributable to PepsiCo per common share $ 1.40 $ 3.06\nWeighted-average common shares outstanding 1,384 1,391\n(a) The increase in selling, general and administrative expenses for the 12 weeks ended March 25, 2023, as compared to the 12 weeks ended March 19, 2022,\nprimarily reflects higher selling and distribution costs.\n(b) In the 12 weeks ended March 19, 2022, we sold our Tropicana, Naked and other select juice brands to PAI Partners for $3.5 billion in cash and a 39%\nnoncontrolling interest in a joint venture operating across North America and Europe (Juice Transaction).\n(c) In the 12 weeks ended March 19, 2022, we recorded pre-tax impairment charges of $242 million, primarily related to the repositioning or discontinuation\nof certain juice and dairy brands in Russia.\nA - 1\n\n---\nPepsiCo, Inc. and Subsidiaries\nSupplemental Financial Information\n(in millions and unaudited)\n12 Weeks Ended\n3/25/2023 3/19/2022\nNet Revenue\nFrito-Lay North America $ 5,583 $ 4,839\nQuaker Foods North America 777 713\nPepsiCo Beverages North America 5,798 5,353\nLatin America 1,777 1,474\nEurope 1,886 1,797\nAfrica, Middle East and South Asia 1,019 1,004\nAsia Pacific, Australia and New Zealand and China Region 1,006 1,020\nTotal $ 17,846 $ 16,200\nOperating Profit/(Loss)\nFrito-Lay North America $ 1,599 $ 1,296\nQuaker Foods North America 188 159\nPepsiCo Beverages North America 483 3,434\nLatin America 364 323\nEurope 71 (136)\nAfrica, Middle East and South Asia 168 180\nAsia Pacific, Australia and New Zealand and China Region 227 215\nCorporate unallocated expenses (471) (204)\nTotal $ 2,629 $ 5,267\nA - 2\n\n---",
+    "chunk_0004": "\nEurope 1,886 1,797\nAfrica, Middle East and South Asia 1,019 1,004\nAsia Pacific, Australia and New Zealand and China Region 1,006 1,020\nTotal $ 17,846 $ 16,200\nOperating Profit/(Loss)\nFrito-Lay North America $ 1,599 $ 1,296\nQuaker Foods North America 188 159\nPepsiCo Beverages North America 483 3,434\nLatin America 364 323\nEurope 71 (136)\nAfrica, Middle East and South Asia 168 180\nAsia Pacific, Australia and New Zealand and China Region 227 215\nCorporate unallocated expenses (471) (204)\nTotal $ 2,629 $ 5,267\nA - 2\n\n---PepsiCo, Inc. and Subsidiaries\nCondensed Consolidated Statement of Cash Flows\n(in millions, unaudited)\n12 Weeks Ended\n3/25/2023 3/19/2022\nOperating Activities\nNet income $ 1,944 $ 4,273\nDepreciation and amortization 590 555\nGain associated with the Juice Transaction — (3,322)\nImpairment and other (credits)/charges (13) 482\nOperating lease right-of-use asset amortization 116 103\nShare-based compensation expense 93 81\nRestructuring and impairment charges 112 27\nCash payments for restructuring charges (64) (32)\nAcquisition and divestiture-related charges 2 56\nCash payments for acquisition and divestiture-related charges (4) (17)\nPension and retiree medical plan expense/(income) 30 (1)\nPension and retiree medical plan contributions (175) (178)\nDeferred income taxes and other tax charges and credits 78 257\nChange in assets and liabilities:\nAccounts and notes receivable (348) (837)\nInventories (542) (549)\nPrepaid expenses and other current assets (288) (190)\nAccounts payable and other current liabilities (2,259) (1,238)\nIncome taxes payable 290 489\nOther, net 46 (133)\nNet Cash Used for Operating Activities (392) (174)\nInvesting Activities\nCapital spending (581) (522)\nSales of property, plant and equipment 19 3\nAcquisitions, net of cash acquired, investments in noncontrolled affiliates and\npurchases of intangible and other assets (16) (13)\nProceeds associated with the Juice Transaction — 3,456\nOther divestitures, sales of investments in noncontrolled affiliates and other assets 85 5\nShort-term investments, by original maturity:\nMore than three months - purchases (158) —\nMore than three months - maturities 100 —\nThree months or less, net 19 22\nOther investing, net — 4\nNet Cash (Used for)/Provided by Investing Activities (532) 2,955\n(Continued on following page)\nA - 3\n\n---",
+    "chunk_0005": "\npurchases of intangible and other assets (16) (13)\nProceeds associated with the Juice Transaction — 3,456\nOther divestitures, sales of investments in noncontrolled affiliates and other assets 85 5\nShort-term investments, by original maturity:\nMore than three months - purchases (158) —\nMore than three months - maturities 100 —\nThree months or less, net 19 22\nOther investing, net — 4\nNet Cash (Used for)/Provided by Investing Activities (532) 2,955\n(Continued on following page)\nA - 3\n\n---PepsiCo, Inc. and Subsidiaries\nCondensed Consolidated Statement of Cash Flows (continued)\n(in millions, unaudited)\n12 Weeks Ended\n3/25/2023 3/19/2022\nFinancing Activities\nProceeds from issuances of long-term debt 2,986 —\nPayments of long-term debt (1,251) (1,251)\nShort-term borrowings, by original maturity:\nMore than three months - proceeds 393 559\nMore than three months - payments (1) —\nThree months or less, net 491 647\nCash dividends paid (1,608) (1,505)\nShare repurchases - common (160) (193)\nProceeds from exercises of stock options 46 49\nWithholding tax payments on restricted stock units and performance stock units\nconverted (116) (85)\nOther financing (3) (1)\nNet Cash Provided by/(Used for) Financing Activities 777 (1,780)\nEffect of exchange rate changes on cash and cash equivalents and restricted cash (116) (17)\nNet (Decrease)/Increase in Cash and Cash Equivalents and Restricted Cash (263) 984\nCash and Cash Equivalents and Restricted Cash, Beginning of Year 5,100 5,707\nCash and Cash Equivalents and Restricted Cash, End of Period $ 4,837 $ 6,691\nSupplemental Non-Cash Activity\nRight-of-use assets obtained in exchange for lease obligations $ 213 $ 100\nA - 4\n\n---",
+    "chunk_0006": "\nNet Cash Provided by/(Used for) Financing Activities 777 (1,780)\nEffect of exchange rate changes on cash and cash equivalents and restricted cash (116) (17)\nNet (Decrease)/Increase in Cash and Cash Equivalents and Restricted Cash (263) 984\nCash and Cash Equivalents and Restricted Cash, Beginning of Year 5,100 5,707\nCash and Cash Equivalents and Restricted Cash, End of Period $ 4,837 $ 6,691\nSupplemental Non-Cash Activity\nRight-of-use assets obtained in exchange for lease obligations $ 213 $ 100\nA - 4\n\n---PepsiCo, Inc. and Subsidiaries\nCondensed Consolidated Balance Sheet\n(in millions except per share amounts)\n(unaudited)\n3/25/2023 12/31/2022\nASSETS\nCurrent Assets\nCash and cash equivalents $ 4,770 $ 4,954\nShort-term investments 434 394\nAccounts and notes receivable, net 10,469 10,163\nInventories:\nRaw materials and packaging 2,435 2,366\nWork-in-process 115 114\nFinished goods 3,147 2,742\n5,697 5,222\nPrepaid expenses and other current assets 1,057 806\nTotal Current Assets 22,427 21,539\nProperty, Plant and Equipment, net 24,228 24,291\nAmortizable Intangible Assets, net 1,250 1,277\nGoodwill 18,089 18,202\nOther Indefinite-Lived Intangible Assets 14,273 14,309\nInvestments in Noncontrolled Affiliates 3,123 3,073\nDeferred Income Taxes 4,211 4,204\nOther Assets 5,441 5,292\nTotal Assets $ 93,042 $ 92,187\nLIABILITIES AND EQUITY\nCurrent Liabilities\nShort-term debt obligations $ 4,281 $ 3,414\nAccounts payable and other current liabilities 21,556 23,371\nTotal Current Liabilities 25,837 26,785\nLong-Term Debt Obligations 37,486 35,657\nDeferred Income Taxes 4,039 4,133\nOther Liabilities 8,505 8,339\nTotal Liabilities 75,867 74,914\nCommitments and contingencies\nPepsiCo Common Shareholders’ Equity\nCommon stock, par value 12\n/3¢ per share (authorized 3,600 shares; issued, net of repurchased common\nstock at par value: 1,378 and 1,377 shares, respectively) 23 23\nCapital in excess of par value 3,996 4,134\nRetained earnings 68,142 67,800\nAccumulated other comprehensive loss (15,601) (15,302)\nRepurchased common stock, in excess of par value (489 and 490 shares, respectively) (39,518) (39,506)\nTotal PepsiCo Common Shareholders’ Equity 17,042 17,149\nNoncontrolling interests 133 124\nTotal Equity 17,175 17,273\nTotal Liabilities and Equity $ 93,042 $ 92,187\nA - 5\n\n---",
+    "chunk_0007": "\nstock at par value: 1,378 and 1,377 shares, respectively) 23 23\nCapital in excess of par value 3,996 4,134\nRetained earnings 68,142 67,800\nAccumulated other comprehensive loss (15,601) (15,302)\nRepurchased common stock, in excess of par value (489 and 490 shares, respectively) (39,518) (39,506)\nTotal PepsiCo Common Shareholders’ Equity 17,042 17,149\nNoncontrolling interests 133 124\nTotal Equity 17,175 17,273\nTotal Liabilities and Equity $ 93,042 $ 92,187\nA - 5\n\n---Non-GAAP Measures\nIn discussing financial results and guidance, the Company refers to the following measures which are not in accordance with\nU.S. Generally Accepted Accounting Principles (GAAP): organic revenue growth, core results and core constant currency\nresults. We use non-GAAP financial measures internally to make operating and strategic decisions, including the preparation of\nour annual operating plan, evaluation of our overall business performance and as a factor in determining compensation for\ncertain employees. We believe presenting non-GAAP financial measures provides additional information to facilitate\ncomparison of our historical operating results and trends in our underlying operating results and provides additional\ntransparency on how we evaluate our business. We also believe presenting these measures allows investors to view our\nperformance using the same measures that we use in evaluating our financial and business performance and trends.\nWe consider quantitative and qualitative factors in assessing whether to adjust for the impact of items that may be significant or\nthat could affect an understanding of our ongoing financial and business performance or trends. Examples of items for which\nwe may make adjustments include: amounts related to mark-to-market gains or losses (non-cash); charges related to\nrestructuring plans; charges associated with acquisitions and divestitures; gains associated with divestitures; asset impairment\ncharges (non-cash); pension and retiree medical-related amounts, including all settlement and curtailment gains and losses;\ncharges or adjustments related to the enactment of new laws, rules or regulations, such as tax law changes; amounts related to\nthe resolution of tax positions; tax benefits related to reorganizations of our operations; debt redemptions, cash tender or\nexchange offers; and remeasurements of net monetary assets. See below for a description of adjustments to our GAAP financial\nmeasures included herein.\nNon-GAAP information should be considered as supplemental in nature and is not meant to be considered in isolation or as a\nsubstitute for the related financial information prepared in accordance with GAAP. In addition, our non-GAAP financial\nmeasures may not be the same as or comparable to similar non-GAAP measures presented by other companies.\nGlossary\nWe use the following definitions when referring to our non-GAAP financial measures, which may not be the same as or\ncomparable to similar measures presented by other companies:\nAcquisitions and divestitures: mergers and acquisition activity, as well as divestitures and other structural changes, including\nchanges in ownership or control in consolidated subsidiaries and nonconsolidated equity investees.\nBottler case sales (BCS): Measure of physical beverage volume shipped to retailers and independent distributors from both\nPepsiCo and our independent bottlers.\nConcentrate shipments and equivalents (CSE): Measure of our physical beverage volume shipments to independent bottlers.\nConstant currency: Financial results assuming constant foreign currency exchange rates used for translation based on the rates\nin effect for the comparable prior-year period. In order to compute our constant currency results, we multiply or divide, as\nappropriate, our current-year U.S. dollar results by the current-year average foreign exchange rates and then multiply or divide,\nas appropriate, those amounts by the prior-year average foreign exchange rates.\nCore: Core results are non-GAAP financial measures which exclude certain items from our financial results. For further\ninformation regarding these excluded items, refer to “Items Affecting Comparability” in “Item 2 – Management’s Discussion\nand Analysis of Financial Condition and Results of Operations” in our Q1 2023 Form 10-Q and in “Item 7 – Management’s\nDiscussion and Analysis of Financial Condition and Results of Operations” in our annual report on Form 10-K for the fiscal\nyear ended December 31, 2022. For the periods presented, core results exclude the following items:\nMark-to-market net impact\nMark-to-market net gains and losses on commodity derivatives in corporate unallocated expenses. These gains and losses are\nsubsequently reflected in division results when the divisions recognize the cost of the underlying commodity in operating\nprofit.\nRestructuring and impairment charges\nExpenses related to the multi-year productivity plan publicly announced in 2019, which was expanded and extended through\nthe end of 2028 to take advantage of additional opportunities within the initiatives of the plan.\nAcquisition and divestiture-related charges\nAcquisition and divestiture-related charges include merger and integration charges and costs associated with divestitures.\nDivestiture-related charges reflect transaction expenses, including consulting, advisory and other professional fees.\nA - 6\n\n---",
+    "chunk_0008": "\nExpenses related to the multi-year productivity plan publicly announced in 2019, which was expanded and extended through\nthe end of 2028 to take advantage of additional opportunities within the initiatives of the plan.\nAcquisition and divestiture-related charges\nAcquisition and divestiture-related charges include merger and integration charges and costs associated with divestitures.\nDivestiture-related charges reflect transaction expenses, including consulting, advisory and other professional fees.\nA - 6\n\n---Gain associated with the Juice Transaction\nWe recognized a gain associated with the Juice Transaction in our PepsiCo Beverages North America and Europe divisions.\nImpairment and other charges/credits\nWe recognized Russia-Ukraine conflict charges, brand portfolio impairment charges and other impairment charges as\ndescribed below.\nRussia-Ukraine conflict charges\nIn connection with the deadly conflict in Ukraine, we recognized charges related to indefinite-lived intangible assets and\nproperty, plant and equipment impairment, allowance for expected credit losses, inventory write-downs and other costs.\nBrand portfolio impairment charges\nWe recognized intangible asset, investment and property, plant and equipment impairments and other charges as a result\nof management’s decision to reposition or discontinue the sale/distribution of certain brands and to sell an investment. We\nalso recognized adjustments to the charges recorded in the prior year related to the sale of a non-strategic brand.\nOther impairment charges\nWe recognized impairment charges related to certain of our indefinite-lived intangible assets which reflected an increase\nin the weighted-average cost of capital as well as our estimates of future financial performance as of the fourth quarter of\n2022.\nPension and retiree medical-related impact\nPension and retiree medical-related impact primarily includes settlement charges related to lump sum distributions exceeding\nthe total of annual service and interest costs, as well as curtailment gains.\nTax benefit related to the IRS audit\nWe recognized a non-cash tax benefit resulting from our agreement with the Internal Revenue Service (IRS) to settle one of\nthe issues assessed in the 2014 through 2016 tax audit. The agreement covers tax years 2014 through 2019.\nTax expense related to the TCJ Act\nTax expense related to the Tax Cuts and Jobs Act (TCJ Act) reflects adjustments to the mandatory transition tax liability\nunder the TCJ Act.\nEffective net pricing: Reflects the year-over-year impact of discrete pricing actions, sales incentive activities and mix resulting\nfrom selling varying products in different package sizes and in different countries.\nOrganic revenue growth: A measure that adjusts for the impacts of foreign exchange translation, acquisitions and divestitures\nand every five or six years, the impact of an additional week of results (53rd reporting week), including in our fourth quarter\n2022 financial results. We believe organic revenue growth provides useful information in evaluating the results of our business\nbecause it excludes items that we believe are not indicative of ongoing performance or that we believe impact comparability\nwith the prior year.\n2023 guidance\nOur 2023 organic revenue growth guidance excludes the impact of acquisitions and divestitures, foreign exchange translation\nand the impact of a 53rd reporting week in 2022. Our 2023 core effective tax rate guidance and 2023 core constant currency EPS\ngrowth guidance exclude the mark-to-market net impact included in corporate unallocated expenses, restructuring and\nimpairment charges, and other items noted above. Our 2023 core constant currency EPS growth guidance also excludes the\nimpact of foreign exchange translation. We are unable to reconcile our full year projected 2023 organic revenue growth to our\nfull year projected 2023 reported net revenue growth because we are unable to predict the 2023 impact of foreign exchange due\nto the unpredictability of future changes in foreign exchange rates and because we are unable to predict the occurrence or\nimpact of any acquisitions and divestitures. We are also not able to reconcile our full year projected 2023 core effective tax rate\nto our full year projected 2023 reported effective tax rate and our full year projected 2023 core constant currency EPS growth to\nour full year projected 2023 reported EPS growth because we are unable to predict the 2023 impact of foreign exchange or the\nmark-to-market net impact on commodity derivatives due to the unpredictability of future changes in foreign exchange rates\nand commodity prices. Therefore, we are unable to provide a reconciliation of these measures.\nA - 7\n\n---",
+    "chunk_0009": "\nto our full year projected 2023 reported effective tax rate and our full year projected 2023 core constant currency EPS growth to\nour full year projected 2023 reported EPS growth because we are unable to predict the 2023 impact of foreign exchange or the\nmark-to-market net impact on commodity derivatives due to the unpredictability of future changes in foreign exchange rates\nand commodity prices. Therefore, we are unable to provide a reconciliation of these measures.\nA - 7\n\n---PepsiCo, Inc. and Subsidiaries\nReconciliation of GAAP and Non-GAAP Information\nOrganic Revenue Growth Rates\n12 Weeks Ended March 25, 2023\n(unaudited)\n12 Weeks Ended 3/25/2023\nImpact of Impact of\nNet Revenue Year over Year % Change\nReported\n% Change,\nGAAP\nMeasure\nForeign\nexchange\ntranslation\nAcquisitions\nand\ndivestitures\nOrganic\n% Change,\nNon-GAAP\nMeasure(b)\nOrganic\nvolume(c)\nEffective\nnet pricing\nFrito-Lay North America 15 % — — 16 % — 16\nQuaker Foods North America 9 % 1 — 10 % (5) 15\nPepsiCo Beverages North America 8 % — 3 12 % (3) 15\nLatin America 21 % (6) 1 16 % 1 15\nEurope 5 % 5 4 14 % (9) 23\nAfrica, Middle East and South Asia 2 % 28 — 29 % (2) 31\nAsia Pacific, Australia and New Zealand and China Region (1) % 6 — 4 % 2 2.5\nTotal (a) 10 % 2.5 2 14 % (2) 16\n(a) Acquisitions and divestitures primarily reflect the Juice Transaction in PepsiCo Beverages North America and Europe.\n(b) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\n(c) Excludes the impact of acquisitions and divestitures. In certain instances, the impact of organic volume on net revenue growth shown here differs from the volume change disclosed in the Summary First-Quarter\n2023 Performance table on page 2, due to the impacts of product mix, nonconsolidated joint venture volume, and, for our franchise-owned beverage businesses, temporary timing differences between BCS and\nCSE. We report net revenue from our franchise-owned beverage businesses based on CSE. The volume sold by our nonconsolidated joint ventures has no direct impact on our net revenue.\nNote – Amounts may not sum due to rounding.\nA - 8\n\n---",
+    "chunk_0010": "\n2023 Performance table on page 2, due to the impacts of product mix, nonconsolidated joint venture volume, and, for our franchise-owned beverage businesses, temporary timing differences between BCS and\nCSE. We report net revenue from our franchise-owned beverage businesses based on CSE. The volume sold by our nonconsolidated joint ventures has no direct impact on our net revenue.\nNote – Amounts may not sum due to rounding.\nA - 8\n\n---PepsiCo, Inc. and Subsidiaries\nReconciliation of GAAP and Non-GAAP Information (continued)\nYear over Year Growth Rates\n12 Weeks Ended March 25, 2023\n(unaudited)\n12 Weeks Ended 3/25/2023\nImpact of Items Affecting Comparability Impact of\nYear over Year % Change\nReported\n% Change,\nGAAP\nMeasure\nMark-to￾market net\nimpact\nRestructuring\nand\nimpairment\ncharges\nAcquisition\nand\ndivestiture￾related\ncharges\nGain\nassociated\nwith the\nJuice\nTransaction\nImpairment\nand other\ncharges/credits\nCore\n% Change,\nNon-GAAP\nMeasure(a)\nForeign\nexchange\ntranslation\nCore Constant\nCurrency\n% Change,\nNon-GAAP\nMeasure(a)\nFrito-Lay North America 23 % — — — — — 24 % — 24 %\nQuaker Foods North America 18 % — — — — — 18 % — 19 %\nPepsiCo Beverages North America (86) % — — (1) 96 — 9 % 1 10 %\nLatin America 13 % — (1) — — — 12 % (6) 6 %\nEurope n/m — n/m n/m n/m n/m 148 % 11 159 %\nAfrica, Middle East and South Asia (6) % — 2 — — (7) (12) % 23 11 %\nAsia Pacific, Australia and New Zealand and\nChina Region 5.5 % — 1 (1) — — 5.5 % 6 11 %\nCorporate unallocated expenses 132 % (105) 3 1 — — 30 % — 30 %\nTotal Operating Profit (50) % 4 2 (1) 73 (11) 17 % 2 19 %\nNet Income Attributable to PepsiCo (55) % 4 2 (1) 77 (12) 15 % 2 18 %\nNet Income Attributable to PepsiCo per\ncommon share – diluted (54) % 4 2 (1) 77 (12) 16 % 2 18 %\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\nn/m - Not meaningful due to the impact of impairment and other charges in 2022.\nNote – Amounts may not sum due to rounding.\nA - 9\n\n---",
+    "chunk_0011": "\nTotal Operating Profit (50) % 4 2 (1) 73 (11) 17 % 2 19 %\nNet Income Attributable to PepsiCo (55) % 4 2 (1) 77 (12) 15 % 2 18 %\nNet Income Attributable to PepsiCo per\ncommon share – diluted (54) % 4 2 (1) 77 (12) 16 % 2 18 %\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\nn/m - Not meaningful due to the impact of impairment and other charges in 2022.\nNote – Amounts may not sum due to rounding.\nA - 9\n\n---PepsiCo, Inc. and Subsidiaries\nReconciliation of GAAP and Non-GAAP Information (continued)\nCertain Line Items\n12 Weeks Ended March 25, 2023 and March 19, 2022\n(in millions except per share amounts, unaudited)\n12 Weeks Ended 3/25/2023\nCost of\nsales\nGross\nprofit\nSelling,\ngeneral and\nadministrative\nexpenses\nOperating\nprofit\nOther pension\nand retiree\nmedical\nbenefits\nincome\nProvision\nfor income\ntaxes(b)\nNet income\nattributable to\nnoncontrolling\ninterests\nNet income\nattributable\nto PepsiCo\nNet income\nattributable to\nPepsiCo per\ncommon\nshare - diluted\nEffective\ntax rate(c)\nReported, GAAP Measure $ 7,988 $ 9,858 $ 7,229 $ 2,629 $ 61 $ 546 $ 12 $ 1,932 $ 1.40 21.9 %\nItems Affecting Comparability\nMark-to-market net impact (14) 14 (57) 71 — 17 — 54 0.04 0.1\nRestructuring and impairment\ncharges (3) 3 (110) 113 (1) 14 1 97 0.07 (0.4)\nAcquisition and divestiture-related\ncharges — — (2) 2 — 1 — 1 — —\nImpairment and other charges/\ncredits 4 (4) 9 (13) — — — (13) (0.01) 0.1\nCore, Non-GAAP Measure (a) $ 7,975 $ 9,871 $ 7,069 $ 2,802 $ 60 $ 578 $ 13 $ 2,071 $ 1.50 21.7 %\n12 Weeks Ended 3/19/2022\nCost of\nsales\nGross\nprofit\nSelling,\ngeneral and\nadministrative\nexpenses\nGain\nassociated\nwith the\nJuice\nTransaction\nImpairment of\nintangible\nassets\nOperating\nprofit\nOther pension\nand retiree\nmedical\nbenefits\nincome\nProvision\nfor income\ntaxes(b)\nNet\nincome\nattributable\nto PepsiCo\nNet income\nattributable to\nPepsiCo per\ncommon share\n- diluted\nEffective\ntax rate(c)\nReported, GAAP Measure $ 7,433 $ 8,767 $ 6,580 (3,322) 242 $ 5,267 $ 134 $ 888 $ 4,261 $ 3.06 17.2 %\nItems Affecting Comparability\nMark-to-market net impact 33 (33) 79 — — (112) — (26) (86) (0.06) (0.1)\nRestructuring and impairment charges (5) 5 (22) — — 27 — 6 21 0.02 —\nAcquisition and divestiture-related charges — — (50) — — 50 6 9 47 0.03 —\nGain associated with the Juice Transaction — — — 3,322 — (3,322) — (452) (2,870) (2.06) 4.5\nImpairment and other charges/credits (140) 140 (100) — (242) 482 — 48 434 0.31 (1.0)\nPension and retiree medical-related impact\n— — — — — — (16) (4) (12) (0.01) —\nCore, Non-GAAP Measure (a) $ 7,321 $ 8,879 $ 6,487 $ — $ — $ 2,392 $ 124 $ 469 $ 1,795 $ 1.29 20.6 %\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\n(b) Provision for income taxes is the expected tax charge/benefit on the underlying item based on the tax laws and income tax rates applicable to the underlying item in its corresponding tax jurisdiction.\n(c) The impact of items affecting comparability on our effective tax rate represents the difference in the effective tax rate resulting from a higher or lower tax rate applicable to the items affecting comparability.\nNote – Amounts may not sum due to rounding.\nA - 10\n\n---",
+    "chunk_0012": "\n(b) Provision for income taxes is the expected tax charge/benefit on the underlying item based on the tax laws and income tax rates applicable to the underlying item in its corresponding tax jurisdiction.\n(c) The impact of items affecting comparability on our effective tax rate represents the difference in the effective tax rate resulting from a higher or lower tax rate applicable to the items affecting comparability.\nNote – Amounts may not sum due to rounding.\nA - 10\n\n---PepsiCo, Inc. and Subsidiaries\nReconciliation of GAAP and Non-GAAP Information (continued)\nOperating Profit by Division\n12 Weeks Ended March 25, 2023 and March 19, 2022\n(in millions, unaudited)\n12 Weeks Ended 3/25/2023\nItems Affecting Comparability\nOperating Profit\nReported,\nGAAP Measure\nMark-to-market\nnet impact\nRestructuring\nand impairment\ncharges\nAcquisition and\ndivestiture-related\ncharges\nImpairment and\nother charges/\ncredits\nCore,\nNon-GAAP\nMeasure(a)\nFrito-Lay North America $ 1,599 $ — $ 7 $ — $ — $ 1,606\nQuaker Foods North America 188 — — — — 188\nPepsiCo Beverages North America 483 — 5 2 — 490\nLatin America 364 — 5 — — 369\nEurope 71 — 89 — — 160\nAfrica, Middle East and South Asia 168 — 5 — (13) 160\nAsia Pacific, Australia and New Zealand and China Region 227 — 1 — — 228\nCorporate unallocated expenses (471) 71 1 — — (399)\nTotal $ 2,629 $ 71 $ 113 $ 2 $ (13) $ 2,802\n12 Weeks Ended 3/19/2022\nItems Affecting Comparability\nOperating Profit\nReported,\nGAAP\nMeasure\nMark-to-market\nnet impact\nRestructuring\nand impairment\ncharges\nAcquisition and\ndivestiture￾related charges\nGain\nassociated\nwith the Juice\nTransaction\nImpairment\nand other\ncharges/credits\nCore,\nNon-GAAP\nMeasure(a)\nFrito-Lay North America $ 1,296 $ — $ 3 $ — $ — $ — $ 1,299\nQuaker Foods North America 159 — — — — — 159\nPepsiCo Beverages North America 3,434 — 3 37 (3,024) — 450\nLatin America 323 — 6 — — — 329\nEurope (136) — 7 10 (298) 482 65\nAfrica, Middle East and South Asia 180 — 2 — — — 182\nAsia Pacific, Australia and New Zealand and China Region 215 — 1 — — — 216\nCorporate unallocated expenses (204) (112) 5 3 — — (308)\nTotal $ 5,267 $ (112) $ 27 $ 50 $ (3,322) $ 482 $ 2,392\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\nA - 11\n\n---",
+    "chunk_0013": "\nPepsiCo Beverages North America 3,434 — 3 37 (3,024) — 450\nLatin America 323 — 6 — — — 329\nEurope (136) — 7 10 (298) 482 65\nAfrica, Middle East and South Asia 180 — 2 — — — 182\nAsia Pacific, Australia and New Zealand and China Region 215 — 1 — — — 216\nCorporate unallocated expenses (204) (112) 5 3 — — (308)\nTotal $ 5,267 $ (112) $ 27 $ 50 $ (3,322) $ 482 $ 2,392\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\nA - 11\n\n---PepsiCo, Inc. and Subsidiaries\nReconciliation of GAAP and Non-GAAP Information (continued)\n(unaudited)\nGross Margin Growth Reconciliation\n12 Weeks Ended\n3/25/2023\nReported gross margin growth, GAAP measure 112 bps\nImpact of:\nMark-to-market net impact 28\nRestructuring and impairment charges —\nImpairment and other charges/credits (89)\nCore gross margin growth, non-GAAP measure (a) 51 bps\nOperating Margin Performance Reconciliation\n12 Weeks Ended\n3/25/2023\nReported operating margin performance, GAAP measure (1,778) bps\nImpact of:\nMark-to-market net impact 109\nRestructuring and impairment charges 47\nAcquisition and divestiture-related charges (30)\nGain associated with the Juice Transaction 2,050\nImpairment and other charges/credits (305)\nCore operating margin growth, non-GAAP measure (a) 93 bps\nFiscal 2022 Diluted EPS Reconciliation\nYear Ended\n12/31/2022\nReported diluted EPS, GAAP measure $ 6.42\nMark-to-market net impact 0.03\nRestructuring and impairment charges 0.24\nAcquisition and divestiture-related charges 0.05\nGain associated with the Juice Transaction (2.08)\nImpairment and other charges/credits 2.12\nPension and retiree medical-related impact 0.17\nTax benefit related to the IRS audit (0.23)\nTax expense related to the TCJ Act 0.06\nCore diluted EPS, non-GAAP measure (a) $ 6.79\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\nNote – Amounts may not sum due to rounding.\nA - 12\n\n---",
+    "chunk_0014": "\nAcquisition and divestiture-related charges 0.05\nGain associated with the Juice Transaction (2.08)\nImpairment and other charges/credits 2.12\nPension and retiree medical-related impact 0.17\nTax benefit related to the IRS audit (0.23)\nTax expense related to the TCJ Act 0.06\nCore diluted EPS, non-GAAP measure (a) $ 6.79\n(a) A financial measure that is not in accordance with GAAP. See pages A-6 through A-7 for further discussion.\nNote – Amounts may not sum due to rounding.\nA - 12\n\n---Cautionary Statement\nStatements in this communication that are “forward-looking statements,” including our 2023 guidance and outlook, are based\non currently available information, operating plans and projections about future events and trends. Terminology such as “aim,”\n“anticipate,” “believe,” “drive,” “estimate,” “expect,” “expressed confidence,” “forecast,” “future,” “goal,” “guidance,”\n“intend,” “may,” “objective,” “outlook,” “plan,” “position,” “potential,” “project,” “seek,” “should,” “strategy,” “target,” “will”\nor similar statements or variations of such words and other similar expressions are intended to identify forward-looking\nstatements, although not all forward-looking statements contain such terms. Forward-looking statements inherently involve\nrisks and uncertainties that could cause actual results to differ materially from those predicted in such forward-looking\nstatements. Such risks and uncertainties include, but are not limited to: the risks associated with the deadly conflict in Ukraine;\nfuture demand for PepsiCo’s products; damage to PepsiCo’s reputation or brand image; product recalls or other issues or\nconcerns with respect to product quality and safety; PepsiCo’s ability to compete effectively; PepsiCo’s ability to attract,\ndevelop and maintain a highly skilled and diverse workforce or effectively manage changes in our workforce; water scarcity;\nchanges in the retail landscape or in sales to any key customer; disruption of PepsiCo’s manufacturing operations or supply\nchain, including continued increased commodity, packaging, transportation, labor and other input costs; political or social\nconditions in the markets where PepsiCo’s products are made, manufactured, distributed or sold; PepsiCo’s ability to grow its\nbusiness in developing and emerging markets; changes in economic conditions in the countries in which PepsiCo operates;\nfuture cyber incidents and other disruptions to our information systems; failure to successfully complete or manage strategic\ntransactions; PepsiCo’s reliance on third-party service providers and enterprise-wide systems; climate change or measures to\naddress climate change; strikes or work stoppages; failure to realize benefits from PepsiCo’s productivity initiatives;\ndeterioration in estimates and underlying assumptions regarding future performance that can result in an impairment charge;\nfluctuations or other changes in exchange rates; any downgrade or potential downgrade of PepsiCo’s credit ratings; imposition\nor proposed imposition of new or increased taxes aimed at PepsiCo’s products; imposition of limitations on the marketing or\nsale of PepsiCo’s products; changes in laws and regulations related to the use or disposal of plastics or other packaging\nmaterials; failure to comply with personal data protection and privacy laws; increase in income tax rates, changes in income tax\nlaws or disagreements with tax authorities; failure to adequately protect PepsiCo’s intellectual property rights or infringement\non intellectual property rights of others; failure to comply with applicable laws and regulations; and potential liabilities and\ncosts from litigation, claims, legal or regulatory proceedings, inquiries or investigations.\nFor additional information on these and other factors that could cause PepsiCo’s actual results to materially differ from those set\nforth herein, please see PepsiCo’s filings with the SEC, including its most recent annual report on Form 10-K and subsequent\nreports on Forms 10-Q and 8-K. Investors are cautioned not to place undue reliance on any such forward-looking statements,\nwhich speak only as of the date they are made. We undertake no obligation to update any forward-looking statement, whether\nas a result of new information, future events or otherwise.\nA - 13"
+  }
+}

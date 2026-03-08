@@ -1,0 +1,11 @@
+# GraphIndex Pipeline Schema
+# Single-file entry point that composes all five schemas.
+# Use with: python main.py eval --pipeline-schema schemas/default_pipeline.yaml
+#
+# All paths are resolved relative to this file's directory.
+
+index_schema:  default_index_schema.yaml
+query_schema:  default_query_schema.yaml
+search_schema: default_search_schema.yaml
+answer_schema: default_answer_schema.yaml
+judge_schema:  default_judge_schema.yaml

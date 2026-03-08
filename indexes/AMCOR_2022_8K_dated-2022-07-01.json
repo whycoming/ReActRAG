@@ -1,0 +1,300 @@
+{
+  "doc_name": "AMCOR_2022_8K_dated-2022-07-01",
+  "source_file": "AMCOR_2022_8K_dated-2022-07-01.md",
+  "total_pages": 9,
+  "total_chunks": 9,
+  "indexed_at": "2026-03-08T11:33:26.603595+00:00",
+  "doc_summary": "This document is a Form 8-K report filed by Amcor PLC. It outlines the substitution of the Substitute Issuer for the Former Issuer and the assumption of covenants under the Indentures.",
+  "doc_meta": {
+    "doc_type": "FORM 8-K",
+    "primary_subject": "AMCOR PLC",
+    "time_period": "July 1, 2022",
+    "doc_summary": "This document is a Form 8-K report filed by Amcor PLC. It outlines the substitution of the Substitute Issuer for the Former Issuer and the assumption of covenants under the Indentures."
+  },
+  "sections": [
+    {
+      "section_title": "Form 8-K Registration and Identification Information",
+      "key_topics": [
+        "Securities Reporting",
+        "Company Identification",
+        "Regulatory Filings",
+        "Exchange Listings"
+      ],
+      "entities": [
+        "UNITED STATES SECURITIES AND EXCHANGE COMMISSION",
+        "FORM 8-K",
+        "CURRENT REPORT",
+        "AMCOR PLC",
+        "Jersey",
+        "001-38932",
+        "98-1455367",
+        "83 Tower Road North",
+        "Warmley, Bristol",
+        "United Kingdom",
+        "BS30 8XP",
+        "+44 117 9753200",
+        "New York Stock Exchange",
+        "Ordinary Shares",
+        "AMCR",
+        "1.125% Guaranteed Senior Notes Due 2027",
+        "AUKF/27"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides the company's identification details, regulatory filing information, and securities listing data, including the date of report (July 1, 2022) and the company's contact information.",
+      "chunk_id": "chunk_0000",
+      "chunk_index": 0,
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_title": "Supplemental Indentures and Exhibits",
+      "key_topics": [
+        "Indentures",
+        "Supplemental Indentures",
+        "Exhibits",
+        "Debt Instruments",
+        "Corporate Structure"
+      ],
+      "entities": [
+        "Amcor Finance (USA), Inc.",
+        "Amcor Flexibles North America, Inc.",
+        "Amcor plc",
+        "Deutsche Bank Trust Company Americas",
+        "2016 Indenture",
+        "2026 Notes",
+        "2028 Notes",
+        "2019 Indenture",
+        "New 2026 Notes",
+        "New 2028 Notes",
+        "June 30, 2022",
+        "June 17, 2019",
+        "Form S-4",
+        "File No. 333-230217",
+        "Form 8-K",
+        "XBRL"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details about the Second Supplemental Indenture and First Supplemental Indenture dated June 30, 2022, involving Amcor Finance (USA), Inc. and Amcor Flexibles North America, Inc., as well as exhibits related to debt instruments such as 2026 Notes and 2028 Notes.",
+      "chunk_id": "chunk_0001",
+      "chunk_index": 1,
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_title": "Supplemental Indentures and Signatures",
+      "key_topics": [
+        "Supplemental Indentures",
+        "Legal Documents",
+        "Corporate Signatures",
+        "XBRL Tags"
+      ],
+      "entities": [
+        "Amcor Finance (USA), Inc.",
+        "Amcor Flexibles North America, Inc.",
+        "Deutsche Bank Trust Company Americas",
+        "Amcor PLC",
+        "Damien Clayton",
+        "June 30, 2022",
+        "July 1, 2022"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk contains information about two supplemental indentures dated June 30, 2022, and a signature section with the name Damien Clayton, title Company Secretary, and date July 1, 2022.",
+      "chunk_id": "chunk_0002",
+      "chunk_index": 2,
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_title": "Signatures and Second Supplemental Indenture",
+      "key_topics": [
+        "Corporate Signatures",
+        "Indenture Amendments",
+        "Issuer Substitution",
+        "Trustee Agreement"
+      ],
+      "entities": [
+        "Amcor PLC",
+        "Damien Clayton",
+        "Company Secretary",
+        "Amcor Finance (USA), Inc.",
+        "Amcor Flexibles North America, Inc.",
+        "Deutsche Bank Trust Company Americas",
+        "April 28, 2016",
+        "June 30, 2022",
+        "July 1, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains information about the substitution of an issuer in a supplemental indenture, including the date of the supplement (June 30, 2022) and the signature details of Damien Clayton, Company Secretary of Amcor PLC, dated July 1, 2022.",
+      "chunk_id": "chunk_0003",
+      "chunk_index": 3,
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_title": "Supplemental Indenture Provisions and Jurisdiction Details",
+      "key_topics": [
+        "Indenture Supplement",
+        "Jurisdiction and Service of Process",
+        "Trustee Responsibilities",
+        "Governing Law",
+        "Entity Substitution"
+      ],
+      "entities": [
+        "C T Corporation",
+        "New York",
+        "New York General Obligations Law",
+        "Missouri",
+        "Indenture",
+        "Substitute Issuer",
+        "Former Issuer",
+        "Trustee",
+        "Guarantors",
+        "Securities"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk outlines the appointment of C T Corporation as the Authorized Agent for service of process in New York, the governing law of New York (excluding choice-of-law principles), and the substitution of the Substitute Issuer for the Former Issuer under the Indenture.",
+      "chunk_id": "chunk_0004",
+      "chunk_index": 4,
+      "page_range": [
+        5,
+        5
+      ]
+    },
+    {
+      "section_title": "Governing Law, Execution, and Signatories",
+      "key_topics": [
+        "Governing Law",
+        "Execution of Documents",
+        "Section Headings",
+        "Signatories",
+        "Corporate Titles"
+      ],
+      "entities": [
+        "Missouri",
+        "AMCOR FINANCE (USA), INC.",
+        "Robert Mermelstein",
+        "Sara Mattsson",
+        "AMCOR FLEXIBLES NORTH AMERICA, INC.",
+        "Louis Fred Stephan",
+        "DEUTSCHE BANK TRUST COMPANY AMERICAS",
+        "Jeffrey Schoenfeld",
+        "Kathryn Fischer"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk specifies that the Supplemental Indenture is governed by Missouri law and lists the signatories with their titles and names.",
+      "chunk_id": "chunk_0005",
+      "chunk_index": 5,
+      "page_range": [
+        6,
+        6
+      ]
+    },
+    {
+      "section_title": "Supplemental Indenture and Issuer Substitution",
+      "key_topics": [
+        "Indenture",
+        "Issuer Substitution",
+        "Legal Agreements",
+        "Corporate Governance",
+        "Debt Securities"
+      ],
+      "entities": [
+        "Amcor Finance (USA), Inc.",
+        "Amcor Flexibles North America, Inc.",
+        "Deutsche Bank Trust Company Americas",
+        "Jeffrey Schoenfeld",
+        "Kathryn Fischer",
+        "Robert Mermelstein",
+        "Louis Fred Stephan",
+        "June 30, 2022",
+        "June 13, 2019",
+        "3.625% Guaranteed Senior Notes due 2026",
+        "4.500% Guaranteed Senior Notes due 2028"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk outlines the substitution of Amcor Flexibles North America, Inc. as the new issuer under an indenture, including specific debt securities (3.625% Guaranteed Senior Notes due 2026 and 4.500% Guaranteed Senior Notes due 2028) and dates (June 30, 2022, and June 13, 2019).",
+      "chunk_id": "chunk_0006",
+      "chunk_index": 6,
+      "page_range": [
+        7,
+        7
+      ]
+    },
+    {
+      "section_title": "Supplemental Indenture Provisions and Jurisdiction Details",
+      "key_topics": [
+        "Indenture Supplement",
+        "Jurisdiction and Service of Process",
+        "Trustee Responsibilities",
+        "Governing Law",
+        "Entity Substitution"
+      ],
+      "entities": [
+        "C T Corporation",
+        "New York",
+        "Missouri",
+        "Indenture",
+        "Substitute Issuer",
+        "Former Issuer",
+        "Trustee",
+        "Guarantors",
+        "Securities"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk outlines the appointment of an authorized agent for service of process, jurisdiction details, and governing law for a supplemental indenture, including the substitution of the issuer.",
+      "chunk_id": "chunk_0007",
+      "chunk_index": 7,
+      "page_range": [
+        8,
+        8
+      ]
+    },
+    {
+      "section_title": "Governing Law, Counterparts, and Witness Clause",
+      "key_topics": [
+        "Governing Law",
+        "Counterpart Execution",
+        "Witness Clause",
+        "Indenture Documentation"
+      ],
+      "entities": [
+        "Missouri",
+        "AMCOR FINANCE (USA), INC.",
+        "Robert Mermelstein",
+        "Sara Mattsson",
+        "AMCOR FLEXIBLES NORTH AMERICA, INC.",
+        "Louis Fred Stephan",
+        "Deutsche Bank Trust Company Americas",
+        "Jeffrey Schoenfeld",
+        "Kathryn Fischer"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk is best suited to answer questions about the governing law of the Supplemental Indenture, the execution process of the document in counterparts, and the signatories involved.",
+      "chunk_id": "chunk_0008",
+      "chunk_index": 8,
+      "page_range": [
+        9,
+        9
+      ]
+    }
+  ],
+  "_chunk_texts": {
+    "chunk_0000": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C.  20549\nFORM 8-K\nCURRENT REPORT\nPursuant to Section 13 or 15(d)\nof the Securities Exchange Act of 1934\nDate of Report (Date of earliest event reported): July 1, 2022 (June 30, 2022)\nAMCOR PLC\n(Exact name of registrant as specified in its charter)\nJersey 001-38932 98-1455367\nState or other jurisdiction\nof incorporation)\n(Commission File Number) (IRS Employer Identification\nNo.)\n83 Tower Road North\nWarmley, Bristol\nUnited Kingdom BS30 8XP\n(Address of principal executive offices) (Zip Code)\n+44 117 9753200\n(Registrant’s telephone number, including area code)\nCheck the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of\nthe following provisions:\n¨ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)\n¨ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)\n¨ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))\n¨ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))\nSecurities registered pursuant to Section 12(b) of the Act:\nTitle of each class Trading Symbol(s)\nName of each exchange on which\nregistered\nOrdinary Shares, par value $0.01 per share AMCR New York Stock Exchange\n1.125% Guaranteed Senior Notes Due 2027 AUKF/27 New York Stock Exchange\nIndicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of\nthis chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).\nEmerging Growth Company ¨\nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with\nany new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨\n\n---",
+    "chunk_0001": "\nIndicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of\nthis chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).\nEmerging Growth Company ¨\nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with\nany new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ¨\n\n---Item 8.01 Other Events.\nOn June 30, 2022, Amcor Finance (USA), Inc. (the “Former Issuer”) and Amcor Flexibles North America, Inc. (the “Substitute Issuer”),\neach a wholly-owned subsidiary of Amcor plc (the “Company”), entered into a (i) Second Supplemental Indenture (the “Second Supplemental\nIndenture”) with the Trustee (as defined below) with respect to the Indenture, dated as of April 28, 2016 (as amended and/or supplemented to\ndate, the “2016 Indenture” and, together with the Second Supplemental Indenture, the “2016 Indenture”), among the Former Issuer, the\nguarantors party thereto and Deutsche Bank Trust Company Americas, as trustee (the “Trustee”), governing the Former Issuer’s (a) 3.625%\nGuaranteed Senior Notes due 2026 (the “2026 Notes”) and (b) 4.500% Guaranteed Senior Notes due 2028 (the “2028 Notes” and, together with\nthe 2026 Notes, the “Existing Notes”) and (ii) First Supplemental Indenture (the “First Supplemental Indenture” and, together with the Second\nSupplemental Indenture, the “Supplemental Indentures”) with the Trustee with respect to the Indenture, dated as of June 13, 2019 (as amended\nand/or supplemented to date, the “2019 Indenture” and, together with the First Supplemental Indenture, the “2019 Indenture” and, together with\nthe 2016 Indenture, the “Indentures”), among the Former Issuer, the guarantors party thereto and the Trustee, governing the Former Issuer’s\n(a) 3.625% Guaranteed Senior Notes due 2026 (the “New 2026 Notes”) and (b) 4.500% Guaranteed Senior Notes due 2028 (the “New 2028\nNotes” and, together with the New 2026 Notes, the “New Notes”), in each case, relating to the substitution of the Substitute Issuer for the Former\nIssuer and the assumption by the Substitute Issuer of the covenants of the Former Issuer under the Indentures. As disclosed in the Company’s\nCurrent Report on Form 8-K, filed with the Securities and Exchange Commission (the “SEC”) on June 17, 2019, the New Notes were issued in\nJune 2019 following the completion of the Former Issuer’s exchange offer to certain eligible holders of the Existing Notes.\nThe foregoing description of the Supplemental Indentures does not purport to be complete and is subject to, and qualified in its entirety\nby, the full text of the (i) 2016 Indenture, which was included as Exhibit 4.7 to the Company’s Registration Statement on Form S-4 (File No. 333-\n230217), filed with the SEC on March 12, 2019 (the “Registration Statement”), including the supplemental indenture thereto, which was included\nas Exhibit 10.2 to the Company’s Current Report on Form 8-K, filed with the SEC on June 17, 2019, (ii) form of 2026 Notes, which was included\nas Exhibit 4.8 to the Registration Statement, (iii) form of 2028 Notes, which was included as Exhibit 4.9 to the Registration Statement, (iv) 2019\nIndenture, which was included as Exhibit 10.4 to the Company’s Current Report on Form 8-K, filed with the SEC on June 17, 2019, (v) Second\nSupplemental Indenture, which is included as Exhibit 4.6 hereto and incorporated herein by reference and (vi) First Supplemental Indenture,\nwhich is included as Exhibit 4.7 hereto and incorporated herein by reference.\nItem 9.01 Financial Statements and Exhibits.\nExhibit No. Description\n4.1 Indenture, dated as of April 28, 2016, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK Finance PLC and\nDeutsche Bank Trust Company Americas (incorporated by reference to Exhibit 4.7 to Amcor plc’s Registration Statement on\nForm S-4 (File No. 333-230217), filed on March 12, 2019).\n4.2 Supplemental Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor Limited, Amcor UK\nFinance PLC and Deutsche Bank Trust Company Americas (incorporated by reference to Exhibit 10.2 to Amcor plc’s Current\nReport on Form 8-K, filed on June 17, 2019).\n4.3 Form of 3.625% Guaranteed Senior Notes due 2026 (incorporated by reference to Exhibit 4.8 to Amcor plc’s Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.4 Form of 4.500% Guaranteed Senior Notes due 2028 (incorporated by reference to Exhibit 4.9 to Amcor plc’s Registration\nStatement on Form S-4 (File No. 333-230217), filed on March 12, 2019).\n4.5 Indenture, dated as of June 13, 2019, among Amcor Finance (USA), Inc., Amcor plc, Amcor Limited, Amcor Flexibles North\nAmerica, Inc. (formerly known as Bemis Company, Inc.) and Amcor UK Finance PLC and Deutsche Bank Trust Company\nAmericas (incorporated by reference to Exhibit 10.4 to Amcor plc’s Current Report on Form 8-K, filed on June 17, 2019).\n4.6 Second Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7 First Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104 Cover Page Interactive Data File. The cover page XBRL tags are embedded within the inline XBRL document (contained in\nExhibit 101).\n\n---",
+    "chunk_0002": "\n4.6 Second Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n4.7 First Supplemental Indenture, dated as of June 30, 2022, among Amcor Finance (USA), Inc., Amcor Flexibles North\nAmerica, Inc. and Deutsche Bank Trust Company Americas.\n104 Cover Page Interactive Data File. The cover page XBRL tags are embedded within the inline XBRL document (contained in\nExhibit 101).\n\n---SIGNATURES\nPursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf\nby the undersigned hereunto duly authorized.\nAMCOR PLC\nBy: /s/ Damien Clayton\nName: Damien Clayton\nTitle: Company Secretary\nDated: July 1, 2022\n\n---",
+    "chunk_0003": "SIGNATURES\nPursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf\nby the undersigned hereunto duly authorized.\nAMCOR PLC\nBy: /s/ Damien Clayton\nName: Damien Clayton\nTitle: Company Secretary\nDated: July 1, 2022\n\n---Exhibit 4.6\nSECOND SUPPLEMENTAL INDENTURE\nThis SECOND SUPPLEMENTAL INDENTURE, dated as of June 30, 2022 (the “Supplemental Indenture”), among Amcor Finance\n(USA), Inc., a Delaware corporation (herein called the “Former Issuer”), Amcor Flexibles North America, Inc., a Missouri Corporation (herein\ncalled the “Substitute Issuer”), and Deutsche Bank Trust Company Americas, a New York banking corporation, as Trustee under the Indenture\n(as defined below) (herein called the “Trustee”).\nRECITALS\nThe Former Issuer, Amcor Pty Ltd (formerly known as Amcor Limited, the “Parent Guarantor”) and Amcor UK Finance plc (the “Initial\nSubsidiary Guarantor” and, together with the Parent Guarantor, the “Guarantors”) and the Trustee have entered into an Indenture dated as of\nApril 28, 2016, as amended and/or supplemented from time to time (herein called the “Indenture”), providing for the issuance of Securities,\nincluding the Former Issuer’s (a) 3.625% Guaranteed Senior Notes due 2026 and (b) 4.500% Guaranteed Senior Notes due 2028. Capitalized\nterms used but not defined in this Supplemental Indenture have the same meaning provided in the Indenture.\nSection 901 of the Indenture provides that, without the consent of any Holders, the Former Issuer, when authorized by a Board\nResolution of the Former Issuer, and the Trustee, at any time and from time to time, may enter into one or more indentures supplemental to the\nIndenture, in form reasonably satisfactory to the Trustee, to evidence the succession or substitution of another Person to the Former Issuer and the\nassumption by any such successor of the covenants of the Former Issuer in the Indenture and in the Securities.\nThe entry into this Supplemental Indenture by the Former Issuer, the Substitute Issuer and the Trustee is in all respects authorized by the\nprovisions of the Indenture.\nAll things necessary to make this Supplemental Indenture a valid agreement of the Former Issuer, the Substitute Issuer and the Trustee\nand a valid amendment of and supplement to the Indenture have been done.\nNOW, THEREFORE, THIS SUPPLEMENTAL INDENTURE WITNESSETH, the Former Issuer, the Substitute Issuer and the Trustee\neach hereby agree as follows:\nARTICLE ONE\nSection 101. Substitution of the Issuer under the Indenture.\nFor good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Substitute Issuer hereby agrees\nwith the Former Issuer, the Guarantors, the Trustee and the Holders of any Securities Outstanding under the Indenture that concurrently with the\nexecution and delivery of this Supplemental Indenture by the Substitute Issuer that it shall become the Issuer for the purposes of the Indenture\nand for purposes of all amounts due and owing on the Securities Outstanding under the Indenture. In connection therewith, the Substitute Issuer\nassumes the covenants of the Former Issuer in the Indenture and in the Securities.\n\n---",
+    "chunk_0004": "\nwith the Former Issuer, the Guarantors, the Trustee and the Holders of any Securities Outstanding under the Indenture that concurrently with the\nexecution and delivery of this Supplemental Indenture by the Substitute Issuer that it shall become the Issuer for the purposes of the Indenture\nand for purposes of all amounts due and owing on the Securities Outstanding under the Indenture. In connection therewith, the Substitute Issuer\nassumes the covenants of the Former Issuer in the Indenture and in the Securities.\n\n---Section 102. Submission to Jurisdiction; Appointment of Agent for Service of Process.\nThe Substitute Issuer hereby appoints C T Corporation acting through its office at 28 Liberty Street, New York, New York, 10005, as its\nauthorized agent (the “Authorized Agent”) upon which process may be served in any legal action or proceeding against it with respect to its\nobligations under the Indenture instituted in any federal or state court in the Borough of Manhattan, The City of New York by the Holder of any\nSecurity and agrees that service of process upon such authorized agent, together with written notice of said service to the Substitute Issuer by the\nPerson serving the same addressed as provided in Section 102 hereof, shall be deemed in every respect effective service of process upon the\nSubstitute Issuer in any such legal action or proceeding, and the Substitute Issuer hereby irrevocably submits to the non-exclusive jurisdiction of\nany such court in respect of any such legal action or proceeding and waives any objection it may have to the laying of the venue of any such legal\naction or proceeding. Such appointment shall be irrevocable until all amounts in respect of the principal of and any premium and interest due and\nto become due on or in respect of all the Securities issued under the Indenture have been paid by the Issuer or a Guarantor, as the case may be, to\nthe Trustee pursuant to the terms thereof, the Securities and the Guarantees. Notwithstanding the foregoing, the Substitute Issuer reserves the\nright to appoint another Person located or with an office in the Borough of Manhattan, The City of New York, selected in its discretion, as a\nsuccessor Authorized Agent, and upon acceptance of such appointment by such a successor the appointment of the prior Authorized Agent shall\nterminate. The Substitute Issuer shall give notice to the Trustee and all Holders of the appointment by it of a successor Authorized Agent. If for\nany reason C T Corporation ceases to be able to act as the Authorized Agent or to have an address in the Borough of Manhattan, The City of New\nYork, the Substitute Issuer will appoint a successor Authorized Agent in accordance with the preceding sentence. The Substitute Issuer further\nagrees to take any and all action, including the filing of any and all documents and instruments as may be necessary to continue such designation\nand appointment of such agent in full force and effect until the Indenture has been satisfied and discharged in accordance with Article Four or\nArticle Twelve thereof Service of process upon the Authorized Agent addressed to it at the address set forth above, as such address may be\nchanged within the Borough of Manhattan, The City of New York by notice given by the Authorized Agent to the Trustee, together with written\nnotice of such service mailed or delivered to the Former Issuer, the Substitute Issuer and the Guarantors shall be deemed, in every respect,\neffective service of process on the Substitute Issuer.\nSection 103. The Trustee.\nThe Trustee shall not be responsible in any manner whatsoever for or in respect of the validity or sufficiency of this Supplemental\nIndenture or for or in respect of the recitals contained herein, all of which recitals are made solely by the Former Issuer and the Substitute Issuer.\nARTICLE TWO\nProvisions of General Application\nSection 201. Ef ective Date.\nThis Supplemental Indenture takes effect when each party has executed one counterpart of this deed, whether the same or different\ncounterparts (the “Effective Date”). As of the Effective Date, the Substitute Issuer shall be deemed to be the Issuer under the Indenture.\nSection 202. Governing Law.\nThis Supplemental Indenture shall be governed by and construed in accordance with the laws of the State of New York (including,\nwithout limitation, Section 5-1401 of the New York General Obligations Law or any successor to such a statute), excluding choice-of-law\nprinciples of the law of such State that would require the application of the laws of a jurisdiction other than such State; provided, however, that\nthe authorization and execution of this Supplemental Indenture by and on behalf of the Substitute Issuer, shall be governed by the laws of\nMissouri.\nThis instrument may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all\nsuch counterparts shall together constitute but one and the same instrument.\nSection 203. Ef ect of Headings.\nThe Article and Section headings herein are for convenience only and shall not affect the construction hereof.\n\n---",
+    "chunk_0005": "\nthe authorization and execution of this Supplemental Indenture by and on behalf of the Substitute Issuer, shall be governed by the laws of\nMissouri.\nThis instrument may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all\nsuch counterparts shall together constitute but one and the same instrument.\nSection 203. Ef ect of Headings.\nThe Article and Section headings herein are for convenience only and shall not affect the construction hereof.\n\n---IN WITNESS WHEREOF, the parties hereto have caused this Supplemental Indenture to be duly executed as of the day and year first\nabove written.\nAMCOR FINANCE (USA), INC.\nBy: /s/ Robert Mermelstein By: /s/ Sara Mattsson\nName: Robert Mermelstein  Name: Sara Mattsson\nTitle:   President  Title: Vice President, Chief Financial Officer & Treasurer\nAMCOR FLEXIBLES NORTH AMERICA, INC.\nBy: /s/ Robert Mermelstein By: /s/ Louis Fred Stephan\nName: Robert Mermelstein  Name: Louis Fred Stephan\nTitle:   Vice President, Tax  Title:   President\nDEUTSCHE BANK TRUST COMPANY AMERICAS,\nas Trustee, Registrar and Paying Agent\nBy: /s/ Jeffrey Schoenfeld By: /s/ Kathryn Fischer\nName: Jeffrey Schoenfeld  Name: Kathryn Fischer\nTitle:   Vice President  Title:   Vice President\n\n---",
+    "chunk_0006": "\nTitle:   President  Title: Vice President, Chief Financial Officer & Treasurer\nAMCOR FLEXIBLES NORTH AMERICA, INC.\nBy: /s/ Robert Mermelstein By: /s/ Louis Fred Stephan\nName: Robert Mermelstein  Name: Louis Fred Stephan\nTitle:   Vice President, Tax  Title:   President\nDEUTSCHE BANK TRUST COMPANY AMERICAS,\nas Trustee, Registrar and Paying Agent\nBy: /s/ Jeffrey Schoenfeld By: /s/ Kathryn Fischer\nName: Jeffrey Schoenfeld  Name: Kathryn Fischer\nTitle:   Vice President  Title:   Vice President\n\n---Exhibit 4.7\nFIRST SUPPLEMENTAL INDENTURE\nThis FIRST SUPPLEMENTAL INDENTURE, dated as of June 30, 2022 (the “Supplemental Indenture”), among Amcor Finance\n(USA), Inc., a Delaware corporation (herein called the “Former Issuer”), Amcor Flexibles North America, Inc., a Missouri Corporation (formerly\nknown as Bemis Company, Inc. and herein called the “Substitute Issuer”), and Deutsche Bank Trust Company Americas, a New York banking\ncorporation, as Trustee under the Indenture (as defined below) (herein called the “Trustee”).\nRECITALS\nThe Former Issuer, Amcor plc (the “Parent Guarantor”), Amcor Pty Ltd (formerly known as Amcor Limited), the Substitute Issuer and\nAmcor UK Finance plc (“Amcor UK” and, together with the Parent Guarantor, Amcor Pty Ltd and the Substitute Issuer, the “Guarantors”) and\nthe Trustee have entered into an Indenture dated as of June 13, 2019, as amended and/or supplemented from time to time (herein called the\n“Indenture”), providing for the issuance of Securities, including the Former Issuer’s (a) 3.625% Guaranteed Senior Notes due 2026 and\n(b) 4.500% Guaranteed Senior Notes due 2028. Capitalized terms used but not defined in this Supplemental Indenture have the same meaning\nprovided in the Indenture.\nSection 901 of the Indenture provides that, without the consent of any Holders, the Former Issuer, when authorized by a Board\nResolution of the Former Issuer, and the Trustee, at any time and from time to time, may enter into one or more indentures supplemental to the\nIndenture, in form reasonably satisfactory to the Trustee, to evidence the succession or substitution of another Person to the Former Issuer and the\nassumption by any such successor of the covenants of the Former Issuer in the Indenture and in the Securities.\nThe entry into this Supplemental Indenture by the Former Issuer, the Substitute Issuer and the Trustee is in all respects authorized by the\nprovisions of the Indenture.\nAll things necessary to make this Supplemental Indenture a valid agreement of the Former Issuer, the Substitute Issuer and the Trustee\nand a valid amendment of and supplement to the Indenture have been done.\nNOW, THEREFORE, THIS SUPPLEMENTAL INDENTURE WITNESSETH, the Former Issuer, the Substitute Issuer and the Trustee\neach hereby agree as follows:\nARTICLE ONE\nSection 101. Substitution of the Issuer under the Indenture.\nFor good and valuable consideration, the receipt and sufficiency of which is hereby acknowledged, the Substitute Issuer hereby agrees\nwith the Former Issuer, the Guarantors, the Trustee and the Holders of any Securities Outstanding under the Indenture that concurrently with the\nexecution and delivery of this Supplemental Indenture by the Substitute Issuer that it shall become the Issuer for the purposes of the Indenture\nand for purposes of all amounts due and owing on the Securities Outstanding under the Indenture. In connection therewith, the Substitute Issuer\nassumes the covenants of the Former Issuer in the Indenture and in the Securities.\n\n---",
+    "chunk_0007": "\nwith the Former Issuer, the Guarantors, the Trustee and the Holders of any Securities Outstanding under the Indenture that concurrently with the\nexecution and delivery of this Supplemental Indenture by the Substitute Issuer that it shall become the Issuer for the purposes of the Indenture\nand for purposes of all amounts due and owing on the Securities Outstanding under the Indenture. In connection therewith, the Substitute Issuer\nassumes the covenants of the Former Issuer in the Indenture and in the Securities.\n\n---Section 102. Submission to Jurisdiction; Appointment of Agent for Service of Process.\nThe Substitute Issuer hereby appoints C T Corporation acting through its office at 28 Liberty Street, New York, New York, 10005, as its\nauthorized agent (the “Authorized Agent”) upon which process may be served in any legal action or proceeding against it with respect to its\nobligations under the Indenture instituted in any federal or state court in the Borough of Manhattan, The City of New York by the Holder of any\nSecurity and agrees that service of process upon such authorized agent, together with written notice of said service to the Substitute Issuer by the\nPerson serving the same addressed as provided in Section 102 hereof, shall be deemed in every respect effective service of process upon the\nSubstitute Issuer in any such legal action or proceeding, and the Substitute Issuer hereby irrevocably submits to the non-exclusive jurisdiction of\nany such court in respect of any such legal action or proceeding and waives any objection it may have to the laying of the venue of any such legal\naction or proceeding. Such appointment shall be irrevocable until all amounts in respect of the principal of and any premium and interest due and\nto become due on or in respect of all the Securities issued under the Indenture have been paid by the Issuer or a Guarantor, as the case may be, to\nthe Trustee pursuant to the terms thereof, the Securities and the Guarantees. Notwithstanding the foregoing, the Substitute Issuer reserves the\nright to appoint another Person located or with an office in the Borough of Manhattan, The City of New York, selected in its discretion, as a\nsuccessor Authorized Agent, and upon acceptance of such appointment by such a successor the appointment of the prior Authorized Agent shall\nterminate. The Substitute Issuer shall give notice to the Trustee and all Holders of the appointment by it of a successor Authorized Agent. If for\nany reason C T Corporation ceases to be able to act as the Authorized Agent or to have an address in the Borough of Manhattan, The City of New\nYork, the Substitute Issuer will appoint a successor Authorized Agent in accordance with the preceding sentence. The Substitute Issuer further\nagrees to take any and all action, including the filing of any and all documents and instruments as may be necessary to continue such designation\nand appointment of such agent in full force and effect until the Indenture has been satisfied and discharged in accordance with Article Four or\nArticle Twelve thereof Service of process upon the Authorized Agent addressed to it at the address set forth above, as such address may be\nchanged within the Borough of Manhattan, The City of New York by notice given by the Authorized Agent to the Trustee, together with written\nnotice of such service mailed or delivered to the Former Issuer, the Substitute Issuer and the Guarantors shall be deemed, in every respect,\neffective service of process on the Substitute Issuer.\nSection 103. The Trustee.\nThe Trustee shall not be responsible in any manner whatsoever for or in respect of the validity or sufficiency of this Supplemental\nIndenture or for or in respect of the recitals contained herein, all of which recitals are made solely by the Former Issuer and the Substitute Issuer.\nARTICLE TWO\nProvisions of General Application\nSection 201. Ef ective Date.\nThis Supplemental Indenture takes effect when each party has executed one counterpart of this deed, whether the same or different\ncounterparts (the “Effective Date”). As of the Effective Date, the Substitute Issuer shall be deemed to be the Issuer under the Indenture.\nSection 202. Governing Law.\nThis Supplemental Indenture shall be governed by and construed in accordance with the laws of the State of New York (including,\nwithout limitation, Section 5-1401 of the New York General Obligations Law or any successor to such a statute), excluding choice-of-law\nprinciples of the law of such State that would require the application of the laws of a jurisdiction other than such State; provided, however, that\nthe authorization and execution of this Supplemental Indenture by and on behalf of the Substitute Issuer, shall be governed by the laws of\nMissouri.\nThis instrument may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all\nsuch counterparts shall together constitute but one and the same instrument.\nSection 203. Ef ect of Headings.\nThe Article and Section headings herein are for convenience only and shall not affect the construction hereof.\n\n---",
+    "chunk_0008": "\nthe authorization and execution of this Supplemental Indenture by and on behalf of the Substitute Issuer, shall be governed by the laws of\nMissouri.\nThis instrument may be executed in any number of counterparts, each of which so executed shall be deemed to be an original, but all\nsuch counterparts shall together constitute but one and the same instrument.\nSection 203. Ef ect of Headings.\nThe Article and Section headings herein are for convenience only and shall not affect the construction hereof.\n\n---IN WITNESS WHEREOF, the parties hereto have caused this Supplemental Indenture to be duly executed as of the day and year first\nabove written.\nAMCOR FINANCE (USA), INC.\nBy: /s/ Robert Mermelstein By: /s/ Sara Mattsson\nName: Robert Mermelstein  Name: Sara Mattsson\nTitle:   President  Title: Vice President, Chief Financial Officer & Treasurer\nAMCOR FLEXIBLES NORTH AMERICA, INC.\nBy: /s/ Robert Mermelstein By: /s/ Louis Fred Stephan\nName: Robert Mermelstein  Name: Louis Fred Stephan\nTitle:   Vice President, Tax  Title:   President\nDEUTSCHE BANK TRUST COMPANY AMERICAS,\nas Trustee, Registrar and Paying Agent\nBy: /s/ Jeffrey Schoenfeld By: /s/ Kathryn Fischer\nName: Jeffrey Schoenfeld  Name: Kathryn Fischer\nTitle:   Vice President  Title:   Vice President"
+  }
+}

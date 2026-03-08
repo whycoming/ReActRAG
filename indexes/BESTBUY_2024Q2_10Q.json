@@ -1,0 +1,862 @@
+{
+  "doc_name": "BESTBUY_2024Q2_10Q",
+  "source_file": "BESTBUY_2024Q2_10Q.md",
+  "total_pages": 30,
+  "total_chunks": 28,
+  "indexed_at": "2026-03-08T11:41:39.562966+00:00",
+  "doc_summary": "This document is a quarterly report for BEST BUY CO., INC. covering the period ended July 29, 2023. It includes financial statements and other information required by the SEC.",
+  "doc_meta": {
+    "doc_type": "quarterly report",
+    "primary_subject": "BEST BUY CO., INC.",
+    "time_period": "Q2 2023",
+    "doc_summary": "This document is a quarterly report for BEST BUY CO., INC. covering the period ended July 29, 2023. It includes financial statements and other information required by the SEC."
+  },
+  "sections": [
+    {
+      "section_title": "Form 10-Q Information and Company Details",
+      "key_topics": [
+        "Securities Reporting",
+        "Company Identification",
+        "Financial Filings",
+        "Stock Information"
+      ],
+      "entities": [
+        "UNITED STATES SECURITIES AND EXCHANGE COMMISSION",
+        "FORM 10-Q",
+        "BEST BUY CO., INC.",
+        "Minnesota",
+        "41-0907483",
+        "7601 Penn Avenue South",
+        "Richfield, Minnesota 55423",
+        "612-291-1000",
+        "Common Stock",
+        "BBY",
+        "New York Stock Exchange",
+        "July 29, 2023",
+        "217,638,155"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details about Best Buy Co., Inc.'s Form 10-Q filing, including the company's stock information, address, and the number of shares outstanding as of August 30, 2023 (217,638,155 shares).",
+      "chunk_id": "chunk_0000",
+      "chunk_index": 0,
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_title": "Corporate Information and Financial Disclosure",
+      "key_topics": [
+        "Financial Statements",
+        "Company Status",
+        "Shareholder Information",
+        "Regulatory Compliance"
+      ],
+      "entities": [
+        "BEST BUY CO., INC.",
+        "Form 10-Q",
+        "July 29, 2023",
+        "August 30, 2023",
+        "217,638,155",
+        "Exchange Act",
+        "Rule 12b-2",
+        "SEC",
+        "https://bestbuy.com",
+        "https://investors.bestbuy.com",
+        "https://corporate.bestbuy.com"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides information about Best Buy's corporate status, including the number of shares outstanding (217,638,155) as of August 30, 2023, and details about its financial disclosures.",
+      "chunk_id": "chunk_0001",
+      "chunk_index": 1,
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_title": "Financial Information and Balance Sheet Details",
+      "key_topics": [
+        "Financial Statements",
+        "Balance Sheets",
+        "Assets and Liabilities",
+        "Equity",
+        "Corporate Websites",
+        "SEC Filings"
+      ],
+      "entities": [
+        "Best Buy",
+        "Best Buy Co., Inc.",
+        "https://investors.bestbuy.com",
+        "https://corporate.bestbuy.com/archive/",
+        "Form 10-Q",
+        "SEC",
+        "July 29, 2023",
+        "January 28, 2023",
+        "July 30, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides the condensed consolidated balance sheets for Best Buy as of July 29, 2023, January 28, 2023, and July 30, 2022, including details on assets, liabilities, and equity with numeric values in millions.",
+      "chunk_id": "chunk_0002",
+      "chunk_index": 2,
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_title": "Financial Statements and Related Data",
+      "key_topics": [
+        "Balance Sheet",
+        "Income Statement",
+        "Comprehensive Income",
+        "Earnings Per Share",
+        "Financial Data"
+      ],
+      "entities": [
+        "January 28, 2023",
+        "July 29, 2023",
+        "July 30, 2022",
+        "Condensed Consolidated Financial Statements"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains financial data including total equity ($2,835 million), revenue ($9,583 million for three months ended July 29, 2023), net earnings ($274 million for three months ended July 29, 2023), and basic earnings per share ($1.25).",
+      "chunk_id": "chunk_0003",
+      "chunk_index": 3,
+      "page_range": [
+        4,
+        5
+      ]
+    },
+    {
+      "section_title": "Condensed Consolidated Financial Statements",
+      "key_topics": [
+        "Financial Statements",
+        "Cash Flows",
+        "Comprehensive Income",
+        "Financial Data"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "July 30, 2022",
+        "Diluted",
+        "Net earnings",
+        "Foreign currency translation adjustments",
+        "Comprehensive income",
+        "Operating activities",
+        "Investing activities",
+        "Financing activities",
+        "Cash, cash equivalents and restricted cash"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data including net earnings of $518 million for the six months ended July 29, 2023, and cash flow details such as total cash used in financing activities of $560 million.",
+      "chunk_id": "chunk_0004",
+      "chunk_index": 4,
+      "page_range": [
+        6,
+        6
+      ]
+    },
+    {
+      "section_title": "Financing Activities and Shareholders' Equity Changes",
+      "key_topics": [
+        "Financing Activities",
+        "Cash Flow",
+        "Shareholders' Equity",
+        "Dividends",
+        "Stock Repurchases",
+        "Financial Statements"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "July 30, 2022",
+        "January 28, 2023",
+        "April 29, 2023",
+        "April 30, 2022",
+        "January 29, 2022",
+        "Common Stock",
+        "Dividends",
+        "Repurchase of Common Stock",
+        "Cash, Cash Equivalents and Restricted Cash",
+        "Condensed Consolidated Financial Statements"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on financing activities including repurchase of common stock ($158 million and $465 million), dividends paid ($402 million and $397 million), and changes in cash, cash equivalents, and restricted cash ($762 million and $2,053 million). It also includes shareholders' equity changes such as net earnings, stock-based compensation, and common stock dividends.",
+      "chunk_id": "chunk_0005",
+      "chunk_index": 5,
+      "page_range": [
+        7,
+        7
+      ]
+    },
+    {
+      "section_title": "Financial Statements and Notes",
+      "key_topics": [
+        "Net Earnings",
+        "Other Comprehensive Loss",
+        "Cash and Cash Equivalents",
+        "Supply Chain Financing",
+        "Accounting Standards"
+      ],
+      "entities": [
+        "Best Buy",
+        "July 30, 2022",
+        "July 29, 2023",
+        "January 28, 2023",
+        "ASU 2022-04",
+        "Supplier Finance Programs",
+        "Mexico Subsidiary"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains numeric data such as net earnings of $647 million, foreign currency translation adjustments of -$1 million, and cash and cash equivalents of $1,093 million as of July 29, 2023.",
+      "chunk_id": "chunk_0006",
+      "chunk_index": 6,
+      "page_range": [
+        8,
+        8
+      ]
+    },
+    {
+      "section_title": "Cash, Restructuring, and Intangible Assets Information",
+      "key_topics": [
+        "Cash and Cash Equivalents",
+        "Restructuring Charges",
+        "Goodwill",
+        "Intangible Assets",
+        "Financial Reporting"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "July 30, 2022",
+        "January 28, 2023",
+        "Fiscal 2023 Resource Optimization Initiative",
+        "Domestic",
+        "International"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on total cash, cash equivalents, and restricted cash ($1,491 million as of July 29, 2023), restructuring charges, and information about goodwill and intangible assets, including their balances and amortization.",
+      "chunk_id": "chunk_0007",
+      "chunk_index": 7,
+      "page_range": [
+        9,
+        9
+      ]
+    },
+    {
+      "section_title": "Amortization and Fair Value Measurements",
+      "key_topics": [
+        "Amortization Expense",
+        "Fair Value Hierarchy",
+        "Financial Instruments",
+        "Asset Valuation",
+        "Depreciation"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "January 28, 2023",
+        "July 30, 2022",
+        "Customer relationships",
+        "Tradenames",
+        "Developed technology",
+        "Money market funds",
+        "Time deposits",
+        "Marketable securities",
+        "Long-term debt"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides amortization expense data for specific periods, fair value measurements categorized by hierarchy levels, and details on the fair value of long-term debt as of July 29, 2023.",
+      "chunk_id": "chunk_0008",
+      "chunk_index": 8,
+      "page_range": [
+        10,
+        10
+      ]
+    },
+    {
+      "section_title": "Debt and Derivative Instruments",
+      "key_topics": [
+        "Derivative Instruments",
+        "Fair Value Measurements",
+        "Long-Term Debt",
+        "Interest Rate Swaps",
+        "Hedge Accounting"
+      ],
+      "entities": [
+        "Five-Year Facility Agreement",
+        "Previous Facility",
+        "Notes, 4.45%, due October 1, 2028",
+        "Notes, 1.95%, due October 1, 2030",
+        "July 29, 2023",
+        "January 28, 2023",
+        "July 30, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on long-term debt balances, including fair value and carrying value for specific dates, as well as information on derivative instruments such as interest rate swaps and foreign exchange contracts.",
+      "chunk_id": "chunk_0009",
+      "chunk_index": 9,
+      "page_range": [
+        11,
+        11
+      ]
+    },
+    {
+      "section_title": "Debt and Financial Information",
+      "key_topics": [
+        "Debt Discounts",
+        "Finance Lease Obligations",
+        "Long-Term Debt",
+        "Fair Value Measurements",
+        "Contract Liabilities"
+      ],
+      "entities": [
+        "October 1, 2028",
+        "July 29, 2023",
+        "January 28, 2023",
+        "July 30, 2022",
+        "Fiscal 2024",
+        "Fiscal 2025",
+        "Fiscal 2026",
+        "Fiscal 2027",
+        "Fiscal 2028",
+        "Fiscal 2029",
+        "Thereafter",
+        "Note 4",
+        "Note 11"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains information about long-term debt, including amounts of $1,160 million, $1,176 million, and $1,199 million, as well as details on future maturities of long-term debt, with no maturities within the next five fiscal years except for $500 million of notes due October 1, 2028.",
+      "chunk_id": "chunk_0010",
+      "chunk_index": 10,
+      "page_range": [
+        12,
+        12
+      ]
+    },
+    {
+      "section_title": "Share Repurchases, Contingencies, and Segment Revenue",
+      "key_topics": [
+        "Share Repurchase Program",
+        "Contingent Liabilities",
+        "Segment Revenue Breakdown",
+        "Earnings Per Share",
+        "Financial Reporting"
+      ],
+      "entities": [
+        "February 28, 2022",
+        "$5.0 billion",
+        "July 29, 2023",
+        "July 30, 2022",
+        "Domestic",
+        "International",
+        "Computing and Mobile Phones",
+        "Consumer Electronics",
+        "Appliances",
+        "Entertainment",
+        "Services",
+        "Other"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on a $5.0 billion share repurchase program, segment revenue breakdowns, and financial figures such as $4.0 billion remaining in the repurchase authorization and revenue by product category.",
+      "chunk_id": "chunk_0011",
+      "chunk_index": 11,
+      "page_range": [
+        13,
+        13
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Segment Information",
+      "key_topics": [
+        "Operating Income",
+        "Segment Analysis",
+        "Comparative Financial Data",
+        "Sales Metrics",
+        "Financial Reporting"
+      ],
+      "entities": [
+        "Best Buy",
+        "Domestic",
+        "International",
+        "July 29, 2023",
+        "July 30, 2022",
+        "January 28, 2023",
+        "Best Buy Co., Inc."
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides financial data for Best Buy's Domestic and International segments, including operating income figures for specific periods, such as $329 million in Domestic revenue for the three months ended July 29, 2023.",
+      "chunk_id": "chunk_0012",
+      "chunk_index": 12,
+      "page_range": [
+        14,
+        14
+      ]
+    },
+    {
+      "section_title": "Non-GAAP Financial Measures and Business Strategy Update",
+      "key_topics": [
+        "Non-GAAP Financial Measures",
+        "Comparable Sales",
+        "Business Strategy",
+        "Digital Sales",
+        "Store Operations",
+        "Currency Adjustments"
+      ],
+      "entities": [
+        "fiscal 2024",
+        "Domestic",
+        "International",
+        "Outlet stores",
+        "U.S."
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk discusses the use of non-GAAP financial measures, explains how comparable sales are calculated, and includes specific data such as digital sales comprising 31% of Domestic revenue in fiscal 2024 and plans to expand Outlet stores to approximately 25 by the end of fiscal 2024.",
+      "chunk_id": "chunk_0013",
+      "chunk_index": 13,
+      "page_range": [
+        15,
+        15
+      ]
+    },
+    {
+      "section_title": "Membership Program Changes and Financial Performance Overview",
+      "key_topics": [
+        "Membership Program",
+        "Financial Performance",
+        "Economic Challenges",
+        "Technology Trends",
+        "Revenue Analysis",
+        "Tax Expense"
+      ],
+      "entities": [
+        "fiscal 2024",
+        "July 29, 2023",
+        "July 30, 2022",
+        "January 28, 2023",
+        "26.1%",
+        "15.6%",
+        "24.8%",
+        "20.5%"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on membership program changes, financial performance with specific revenue figures ($9.6 billion and $19.1 billion), and tax expense details including effective tax rates (26.1% and 24.8%).",
+      "chunk_id": "chunk_0014",
+      "chunk_index": 14,
+      "page_range": [
+        16,
+        16
+      ]
+    },
+    {
+      "section_title": "Domestic Segment Performance and Revenue Data",
+      "key_topics": [
+        "Revenue Analysis",
+        "Segment Performance",
+        "Sales Comparison",
+        "Store Operations",
+        "Financial Metrics"
+      ],
+      "entities": [
+        "Best Buy",
+        "Outlet Centers",
+        "Pacific Sales",
+        "Yardbird",
+        "July 29, 2023",
+        "July 30, 2022",
+        "Fiscal 2024"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data for the Domestic segment, including revenue figures ($8,890 million for the three months ended July 29, 2023), comparable sales percentage changes (-6.3% for the three months ended July 29, 2023), and store count information.",
+      "chunk_id": "chunk_0015",
+      "chunk_index": 15,
+      "page_range": [
+        17,
+        17
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Segment Analysis",
+      "key_topics": [
+        "Revenue Mix",
+        "Comparable Sales",
+        "Gross Profit Rate",
+        "SG&A Expenses",
+        "International Segment Performance"
+      ],
+      "entities": [
+        "Best Buy",
+        "July 29, 2023",
+        "July 30, 2022",
+        "fiscal 2024",
+        "fiscal 2023",
+        "fiscal 2020",
+        "Domestic",
+        "International"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data on revenue mix, comparable sales changes, gross profit rates, SG&A expenses, and international segment performance, including specific percentages like the 6.4% decline in Computing and Mobile Phones sales and a 24.2% gross profit margin for the International segment.",
+      "chunk_id": "chunk_0016",
+      "chunk_index": 16,
+      "page_range": [
+        18,
+        18
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Operational Metrics for Fiscal 2024",
+      "key_topics": [
+        "SG&A",
+        "Operating Income",
+        "Revenue Analysis",
+        "Foreign Currency Impact",
+        "Comparable Sales",
+        "Gross Profit Rate"
+      ],
+      "entities": [
+        "Best Buy",
+        "Best Buy Mobile",
+        "Canada",
+        "Fiscal 2024",
+        "Fiscal 2023",
+        "July 29, 2023",
+        "July 30, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides financial metrics including SG&A values ($149, $150, $287, $299), operating income ($19, $28, $40, $61), revenue decreases due to comparable sales declines (5.4% and 5.5%), and specific revenue mix percentages by category.",
+      "chunk_id": "chunk_0017",
+      "chunk_index": 17,
+      "page_range": [
+        19,
+        19
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Non-GAAP Measures",
+      "key_topics": [
+        "Operating Income",
+        "Non-GAAP Financial Measures",
+        "Effective Tax Rate",
+        "Diluted EPS",
+        "Liquidity and Capital Resources"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "July 30, 2022",
+        "January 28, 2023",
+        "July 30, 2022",
+        "Mexico",
+        "U.S.",
+        "24.5%",
+        "26.1%",
+        "26.6%",
+        "24.8%",
+        "25.1%",
+        "1.25",
+        "1.22",
+        "2.36",
+        "2.37"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data including operating income, non-GAAP effective tax rates (26.1% for Q2 2024, 24.8% for six months), and diluted EPS figures ($1.25 for Q2 2023, $1.22 for Q2 2024).",
+      "chunk_id": "chunk_0018",
+      "chunk_index": 18,
+      "page_range": [
+        20,
+        20
+      ]
+    },
+    {
+      "section_title": "Cash and Cash Equivalents and Cash Flow Analysis",
+      "key_topics": [
+        "Cash and Cash Equivalents",
+        "Cash Flow Statements",
+        "Liquidity Sources",
+        "Credit Facilities",
+        "Financial Performance"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "January 28, 2023",
+        "July 30, 2022",
+        "1,093",
+        "1,874",
+        "840",
+        "Five-Year Facility Agreement",
+        "Standard & Poor's",
+        "Moody's",
+        "BBB+",
+        "A3",
+        "April 12, 2023",
+        "May 2026",
+        "April 2028",
+        "1.25 billion"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides cash and cash equivalents figures for three dates (July 29, 2023, January 28, 2023, July 30, 2022) and details cash flow activities, including operating, investing, and financing activities for the six months ended July 29, 2023, and July 30, 2022.",
+      "chunk_id": "chunk_0019",
+      "chunk_index": 19,
+      "page_range": [
+        21,
+        21
+      ]
+    },
+    {
+      "section_title": "Financial and Credit Information",
+      "key_topics": [
+        "Credit Ratings",
+        "Liquidity",
+        "Debt Management",
+        "Share Repurchases",
+        "Dividend Policy"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "January 28, 2023",
+        "July 30, 2022",
+        "Five-Year Facility Agreement",
+        "$5.0 billion",
+        "$1.25 billion"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on credit ratings factors, restricted cash balances ($398 million as of July 29, 2023), debt amounts ($500 million and $650 million in notes), share repurchase activity (e.g., $69 million cost of shares repurchased in the three months ended July 29, 2023), and dividend declarations ($200 million cash dividends declared and paid in the three months ended July 29, 2023).",
+      "chunk_id": "chunk_0020",
+      "chunk_index": 20,
+      "page_range": [
+        22,
+        22
+      ]
+    },
+    {
+      "section_title": "Off-Balance-Sheet Arrangements, Contractual Obligations, and Forward-Looking Statements",
+      "key_topics": [
+        "Off-Balance-Sheet Arrangements",
+        "Contractual Obligations",
+        "Forward-Looking Statements",
+        "Accounting Policies",
+        "Risk Factors"
+      ],
+      "entities": [
+        "2023",
+        "January 28, 2023",
+        "July 30, 2022",
+        "$1.25 billion",
+        "Five-Year Facility Agreement",
+        "July 29, 2023",
+        "Form 10-K",
+        "Form 10-Q",
+        "Securities Act",
+        "Exchange Act"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides information about the company's off-balance-sheet arrangements, including a $1.25 billion undrawn capacity on the Five-Year Facility Agreement as of July 29, 2023, and discusses forward-looking statements and risk factors.",
+      "chunk_id": "chunk_0021",
+      "chunk_index": 21,
+      "page_range": [
+        23,
+        23
+      ]
+    },
+    {
+      "section_title": "Market Risk and Internal Controls",
+      "key_topics": [
+        "Interest Rate Risk",
+        "Foreign Currency Exchange Rate Risk",
+        "Disclosure Controls",
+        "Legal Proceedings",
+        "Financial Reporting"
+      ],
+      "entities": [
+        "July 29, 2023",
+        "January 28, 2023",
+        "U.S. dollar",
+        "Canadian dollar",
+        "Form 10-K",
+        "Form 10-Q",
+        "Note 1",
+        "Note 10",
+        "Disclosure Committee",
+        "Chief Executive Officer",
+        "Chief Financial Officer"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides information about interest rate risk exposure ($1.0 billion net asset balance), a 50-basis point change in interest rates leading to a $5 million impact on interest income, and foreign currency exchange rate fluctuations impacting revenue by $26 million and $72 million in the second quarter and first six months of fiscal 2024, respectively.",
+      "chunk_id": "chunk_0022",
+      "chunk_index": 22,
+      "page_range": [
+        24,
+        24
+      ]
+    },
+    {
+      "section_title": "Legal Proceedings, Stock Repurchases, and Exhibits",
+      "key_topics": [
+        "Internal Control Over Financial Reporting",
+        "Legal Proceedings",
+        "Stock Repurchase Program",
+        "Exhibits",
+        "Sarbanes-Oxley Act Compliance"
+      ],
+      "entities": [
+        "Best Buy Co., Inc.",
+        "July 29, 2023",
+        "April 30, 2023",
+        "May 27, 2023",
+        "May 28, 2023",
+        "July 1, 2023",
+        "July 2, 2023",
+        "July 29, 2023",
+        "Fiscal 2024",
+        "Rule 10b5-1",
+        "Securities Exchange Act of 1934",
+        "Sarbanes-Oxley Act of 2002",
+        "Form 10-Q",
+        "Note 9",
+        "Note 10",
+        "iXBRL"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on a $5.0 billion share repurchase program, including the total number of shares purchased and average price paid during specific periods in fiscal 2024, as well as information about Rule 10b5-1 trading arrangements and exhibits included in the Form 10-Q.",
+      "chunk_id": "chunk_0023",
+      "chunk_index": 23,
+      "page_range": [
+        25,
+        25
+      ]
+    },
+    {
+      "section_title": "Signatures and Exemption of Certain Debt Instruments",
+      "key_topics": [
+        "Securities Regulation",
+        "Debt Instruments",
+        "Corporate Signatures",
+        "Regulation S-K"
+      ],
+      "entities": [
+        "BEST BUY CO., INC.",
+        "Corie Barry",
+        "Matthew Bilunas",
+        "Mathew R. Watson",
+        "September 1, 2023",
+        "Securities Exchange Act of 1934",
+        "Regulation S-K",
+        "Securities Act of 1933"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk contains the signatures of key executives of BEST BUY CO., INC., including Corie Barry (CEO), Matthew Bilunas (CFO), and Mathew R. Watson (Senior Vice President, Finance – Controller and Chief Accounting Officer), dated September 1, 2023, and references to exemptions under Regulation S-K for certain debt instruments.",
+      "chunk_id": "chunk_0024",
+      "chunk_index": 24,
+      "page_range": [
+        26,
+        26
+      ]
+    },
+    {
+      "section_title": "Certification of Financial Report",
+      "key_topics": [
+        "Financial Reporting",
+        "Internal Controls",
+        "Sarbanes-Oxley Act",
+        "Corporate Accountability",
+        "Executive Certification"
+      ],
+      "entities": [
+        "Best Buy Co., Inc.",
+        "Corie Barry",
+        "Matthew Bilunas",
+        "Mathew R. Watson",
+        "September 1, 2023"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk contains the certification by Corie Barry, Chief Executive Officer of Best Buy Co., Inc., regarding the accuracy and completeness of the financial report, dated September 1, 2023.",
+      "chunk_id": "chunk_0025",
+      "chunk_index": 25,
+      "page_range": [
+        27,
+        27
+      ]
+    },
+    {
+      "section_title": "Certification of Financial Report and Internal Control",
+      "key_topics": [
+        "Internal Control Over Financial Reporting",
+        "Disclosure Controls",
+        "Material Weaknesses",
+        "Fraud Involvement",
+        "Sarbanes-Oxley Act Compliance"
+      ],
+      "entities": [
+        "Corie Barry",
+        "Matthew Bilunas",
+        "Best Buy Co., Inc.",
+        "September 1, 2023",
+        "Sarbanes-Oxley Act of 2002"
+      ],
+      "has_numeric_data": false,
+      "relevance_hints": "This chunk provides certification by the CEO and CFO of Best Buy Co., Inc. regarding internal control over financial reporting and disclosure controls, including any material weaknesses or fraud involving management.",
+      "chunk_id": "chunk_0026",
+      "chunk_index": 26,
+      "page_range": [
+        28,
+        28
+      ]
+    },
+    {
+      "section_title": "Certifications under Sarbanes-Oxley Act",
+      "key_topics": [
+        "Sarbanes-Oxley Act",
+        "Financial Reporting",
+        "Internal Controls",
+        "Corporate Certifications",
+        "SEC Compliance"
+      ],
+      "entities": [
+        "Best Buy Co., Inc.",
+        "Matthew Bilunas",
+        "Corie Barry",
+        "September 1, 2023",
+        "July 29, 2023",
+        "18 U.S.C. §1350",
+        "Section 906",
+        "Securities Exchange Act of 1934",
+        "Securities and Exchange Commission"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains certifications from the Chief Executive Officer and Chief Financial Officer of Best Buy Co., Inc. regarding compliance with SEC regulations and the accuracy of financial reporting for the quarterly period ended July 29, 2023.",
+      "chunk_id": "chunk_0027",
+      "chunk_index": 27,
+      "page_range": [
+        29,
+        30
+      ]
+    }
+  ],
+  "_chunk_texts": {
+    "chunk_0000": "UNITED STATES\nSECURITIES AND EXCHANGE COMMISSION\nWashington, D.C. 20549\nFORM 10-Q\n(Mark One)\n QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the quarterly period ended July 29, 2023\nOR\n TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934\nFor the transition period from            to\nCommission File Number: 1-9595\nBEST BUY CO., INC.\n(Exact name of registrant as specified in its charter)\nMinnesota 41-0907483\n(State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.)\n7601 Penn Avenue South\nRichfield, Minnesota 55423\n(Address of principal executive offices) (Zip Code)\n(612) 291-1000\n(Registrant’s telephone number, including area code)\nN/A\n(Former name, former address and former fiscal year, if changed since last report)\nSecurities registered pursuant to Section 12(b) of the Act:\nTitle of each class Trading Symbol Name of exchange on which registered\nCommon Stock, $0.10 par value per share BBY New York Stock Exchange\nIndicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding\n12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.      Yes  No \nIndicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§ 232.405 of\nthis chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).      Yes  No \nIndicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.\nSee the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.\nLarge Accelerated Filer  Accelerated Filer  Non-accelerated Filer \nSmaller Reporting Company  Emerging Growth Company \nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial\naccounting standards provided pursuant to Section 13(a) of the Exchange Act.    \nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  No \nThe registrant had 217,638,155 shares of common stock outstanding as of August 30, 2023.\n\n---",
+    "chunk_0001": "\nIf an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial\naccounting standards provided pursuant to Section 13(a) of the Exchange Act.    \nIndicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).     Yes  No \nThe registrant had 217,638,155 shares of common stock outstanding as of August 30, 2023.\n\n---Table of Contents\nBEST BUY CO., INC.\nFORM 10-Q FOR THE QUARTER ENDED JULY 29, 2023\nTABLE OF CONTENTS\nPart I — Financial Information 3\nItem 1. Financial Statements 3\na) Condensed Consolidated Balance Sheets as of July 29, 2023, January 28, 2023, and July 30, 2022 3\nb) Condensed Consolidated Statements of Earnings for the three and six months ended July 29, 2023, and July 30, 2022 4\nc) Condensed Consolidated Statements of Comprehensive Income for the three and six months ended July 29, 2023, and July 30, 2022 5\nd) Condensed Consolidated Statements of Cash Flows for the six months ended July 29, 2023, and July 30, 2022 6\ne) Condensed Consolidated Statements of Changes in Shareholders' Equity for the three and six months ended July 29, 2023, and July 30, 2022 7\nf) Notes to Condensed Consolidated Financial Statements 8\nItem 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations 14\nItem 3. Quantitative and Qualitative Disclosures About Market Risk 24\nItem 4. Controls and Procedures 24\nPart II — Other Information 24\nItem 1. Legal Proceedings 24\nItem 2. Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities 25\nItem 5. Other Information 25\nItem 6. Exhibits 25\nSignatures 26\nWEBSITE AND SOCIAL MEDIA DISCLOSURE\nWe disclose information to the public concerning Best Buy, Best Buy’s products, content and services and other items through our websites in order to achieve\nbroad, non-exclusionary distribution of information to the public. Some of the information distributed through this channel may be considered material information.\nInvestors and others are encouraged to review the information we make public in the locations below.* This list may be updated from time to time.\n For information concerning Best Buy and its products, content and services, please visit: https://bestbuy.com.\n For information provided to the investment community, including news releases, events and presentations, and filings with the SEC, please visit:\nhttps://investors.bestbuy.com.\n For the latest information from Best Buy, including press releases, please visit: https://corporate.bestbuy.com/archive/.\n*These corporate websites, and the contents thereof, are not incorporated by reference into this Quarterly Report on Form 10-Q nor deemed filed with the SEC.\n2\n\n---",
+    "chunk_0002": "\n For information provided to the investment community, including news releases, events and presentations, and filings with the SEC, please visit:\nhttps://investors.bestbuy.com.\n For the latest information from Best Buy, including press releases, please visit: https://corporate.bestbuy.com/archive/.\n*These corporate websites, and the contents thereof, are not incorporated by reference into this Quarterly Report on Form 10-Q nor deemed filed with the SEC.\n2\n\n---Table of Contents\nPART I — FINANCIAL INFORMATION\nItem 1.    Financial Statements\nCondensed Consolidated Balance Sheets\n$ in millions, except per share amounts (unaudited)\nJuly 29, 2023 January 28, 2023 July 30, 2022\nAssets\nCurrent assets\nCash and cash equivalents $ 1,093  $ 1,874  $ 840\nReceivables, net 856  1,141  840\nMerchandise inventories 5,651  5,140  6,043\nOther current assets 704  647  621\nTotal current assets 8,304  8,802  8,344\nProperty and equipment, net 2,305  2,352  2,319\nOperating lease assets 2,813  2,746  2,796\nGoodwill 1,383  1,383  1,385\nOther assets 513  520  575\nTotal assets $ 15,318  $ 15,803  $ 15,419\nLiabilities and equity\nCurrent liabilities\nAccounts payable $ 5,471  $ 5,687  $ 5,406\nUnredeemed gift card liabilities 250  274  273\nDeferred revenue 996  1,116  1,133\nAccrued compensation and related expenses 377  405  374\nAccrued liabilities 709  843  820\nCurrent portion of operating lease liabilities 615  638  629\nCurrent portion of long-term debt 15  16  15\nTotal current liabilities 8,433  8,979  8,650\nLong-term operating lease liabilities 2,254  2,164  2,221\nLong-term debt 1,145  1,160  1,184\nLong-term liabilities 651  705  472\nContingencies (Note 10)\nEquity\nBest Buy Co., Inc. Shareholders' Equity\nPreferred stock, $1.00 par value: Authorized - 400,000 shares; Issued and\noutstanding - none - - -\nCommon stock, $0.10 par value: Authorized - 1.0 billion shares; Issued and\noutstanding - 217.9 million, 218.1 million and 225.1 million shares, respectively 22  22  22\nAdditional paid-in capital - 21  20\nRetained earnings 2,491  2,430  2,522\nAccumulated other comprehensive income 322  322  328\nTotal equity 2,835  2,795  2,892\nTotal liabilities and equity $ 15,318  $ 15,803  $ 15,419\nNOTE: The Consolidated Balance Sheet as of January 28, 2023, has been condensed from the audited consolidated financial statements.\nSee Notes to Condensed Consolidated Financial Statements.\n3\n\n---",
+    "chunk_0003": "\noutstanding - 217.9 million, 218.1 million and 225.1 million shares, respectively 22  22  22\nAdditional paid-in capital - 21  20\nRetained earnings 2,491  2,430  2,522\nAccumulated other comprehensive income 322  322  328\nTotal equity 2,835  2,795  2,892\nTotal liabilities and equity $ 15,318  $ 15,803  $ 15,419\nNOTE: The Consolidated Balance Sheet as of January 28, 2023, has been condensed from the audited consolidated financial statements.\nSee Notes to Condensed Consolidated Financial Statements.\n3\n\n---Table of Contents\nCondensed Consolidated Statements of Earnings\n$ and shares in millions, except per share amounts (unaudited)\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nRevenue $ 9,583  $ 10,329  $ 19,050  $ 20,976\nCost of sales 7,363  8,042  14,680  16,336\nGross profit 2,220  2,287  4,370  4,640\nSelling, general and administrative expenses 1,879  1,882  3,727  3,772\nRestructuring charges (7) 34  (16) 35\nOperating income 348  371  659  833\nOther income (expense):\nGain on sale of subsidiary, net 21  - 21  -\nInvestment income (expense) and other 12  3  33  (2)\nInterest expense (12) (7) (24) (13)\nEarnings before income tax expense and equity in income (loss) of affiliates 369  367  689  818\nIncome tax expense 96  58  171  168\nEquity in income (loss) of affiliates 1  (3) - (3)\nNet earnings $ 274  $ 306  $ 518  $ 647\nBasic earnings per share $ 1.25  $ 1.36  $ 2.37  $ 2.86\nDiluted earnings per share $ 1.25  $ 1.35  $ 2.36  $ 2.85\nWeighted-average common shares outstanding:\nBasic 218.6  225.4  218.7  226.1\nDiluted 219.0  226.1  219.5  227.2\nSee Notes to Condensed Consolidated Financial Statements.\n4\n\n---\nTable of Contents\nCondensed Consolidated Statements of Comprehensive Income\n$ in millions (unaudited)\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nNet earnings $ 274  $ 306  $ 518  $ 647\nForeign currency translation adjustments, net of tax 5  - - (1)\nComprehensive income $ 279  $ 306  $ 518  $ 646\nSee Notes to Condensed Consolidated Financial Statements.\n5\n\n---",
+    "chunk_0004": "\nDiluted 219.0  226.1  219.5  227.2\nSee Notes to Condensed Consolidated Financial Statements.\n4\n\n---\nTable of Contents\nCondensed Consolidated Statements of Comprehensive Income\n$ in millions (unaudited)\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nNet earnings $ 274  $ 306  $ 518  $ 647\nForeign currency translation adjustments, net of tax 5  - - (1)\nComprehensive income $ 279  $ 306  $ 518  $ 646\nSee Notes to Condensed Consolidated Financial Statements.\n5\n\n---Table of Contents\nCondensed Consolidated Statements of Cash Flows\n$ in millions (unaudited)\nSix Months Ended\nJuly 29, 2023 July 30, 2022\nOperating activities\nNet earnings $ 518  $ 647\nAdjustments to reconcile net earnings to total cash provided by (used in) operating activities:\nDepreciation and amortization 473  453\nRestructuring charges (16) 35\nStock-based compensation 75  65\nGain on sale of subsidiary, net (21) -\nOther, net 2  19\nChanges in operating assets and liabilities:\nReceivables 289  201\nMerchandise inventories (508) (79)\nOther assets (32) (13)\nAccounts payable (206) (1,434)\nIncome taxes (148) 42\nOther liabilities (245) (645)\nTotal cash provided by (used in) operating activities 181  (709)\nInvesting activities\nAdditions to property and equipment (395) (441)\nPurchases of investments (2) (46)\nNet proceeds from sale of subsidiary 14  -\nOther, net 2  3\nTotal cash used in investing activities (381) (484)\nFinancing activities\nRepurchase of common stock (158) (465)\nDividends paid (402) (397)\nOther, net - 1\nTotal cash used in financing activities (560) (861)\nEffect of exchange rate changes on cash and cash equivalents (2) 1\nDecrease in cash, cash equivalents and restricted cash (762) (2,053)\nCash, cash equivalents and restricted cash at beginning of period 2,253  3,205\nCash, cash equivalents and restricted cash at end of period $ 1,491  $ 1,152\nSee Notes to Condensed Consolidated Financial Statements.\n6\n\n---",
+    "chunk_0005": "\nFinancing activities\nRepurchase of common stock (158) (465)\nDividends paid (402) (397)\nOther, net - 1\nTotal cash used in financing activities (560) (861)\nEffect of exchange rate changes on cash and cash equivalents (2) 1\nDecrease in cash, cash equivalents and restricted cash (762) (2,053)\nCash, cash equivalents and restricted cash at beginning of period 2,253  3,205\nCash, cash equivalents and restricted cash at end of period $ 1,491  $ 1,152\nSee Notes to Condensed Consolidated Financial Statements.\n6\n\n---Table of Contents\nCondensed Consolidated Statements of Changes in Shareholders' Equity\n$ and shares in millions, except per share amounts (unaudited)\nCommon\nShares Common Stock\nAdditional\nPaid-In Capital\nRetained\nEarnings\nAccumulated Other\nComprehensive\nIncome (Loss) Total\nBalances at April 29, 2023 218.5  $ 22  $ - $ 2,454  $ 317  $ 2,793\nNet earnings, three months ended July 29, 2023 - - - 274  - 274\nOther comprehensive income:\nForeign currency translation adjustments, net of tax - - - - 5  5\nStock-based compensation - - 37  - - 37\nIssuance of common stock 0.3  - 6  - - 6\nCommon stock dividends, $0.92 per share - - 3  (204) - (201)\nRepurchase of common stock (0.9) - (46) (33) - (79)\nBalances at July 29, 2023 217.9  $ 22  $ - $ 2,491  $ 322  $ 2,835\nBalances at January 28, 2023 218.1  $ 22  $ 21  $ 2,430  $ 322  $ 2,795\nNet earnings, six months ended July 29, 2023 - - - 518  - 518\nStock-based compensation - - 75  - - 75\nIssuance of common stock 1.8  - 10  - - 10\nCommon stock dividends, $1.84 per share - - 7  (410) - (403)\nRepurchase of common stock (2.0) - (113) (47) - (160)\nBalances at July 29, 2023 217.9  $ 22  $ - $ 2,491  $ 322  $ 2,835\nBalances at April 30, 2022 224.6  $ 22  $ - $ 2,417  $ 328  $ 2,767\nNet earnings, three months ended July 30, 2022 - - - 306  - 306\nStock-based compensation - - 26  - - 26\nIssuance of common stock 0.6  - 1  - - 1\nCommon stock dividends, $0.88 per share - - 3  (201) - (198)\nRepurchase of common stock (0.1) - (10) - - (10)\nBalances at July 30, 2022 225.1  $ 22  $ 20  $ 2,522  $ 328  $ 2,892\nBalances at January 29, 2022 227.4  $ 23  $ - $ 2,668  $ 329  $ 3,020\nNet earnings, six months ended July 30, 2022 - - - 647  - 647\nOther comprehensive loss:\nForeign currency translation adjustments, net of tax - - - - (1) (1)\nStock-based compensation - - 65  - - 65\nIssuance of common stock 2.3  - 10  - - 10\nCommon stock dividends, $1.76 per share - - 7  (404) - (397)\nRepurchase of common stock (4.6) (1) (62) (389) - (452)\nBalances at July 30, 2022 225.1  $ 22  $ 20  $ 2,522  $ 328  $ 2,892\nSee Notes to Condensed Consolidated Financial Statements.\n7\n\n---",
+    "chunk_0006": "\nNet earnings, six months ended July 30, 2022 - - - 647  - 647\nOther comprehensive loss:\nForeign currency translation adjustments, net of tax - - - - (1) (1)\nStock-based compensation - - 65  - - 65\nIssuance of common stock 2.3  - 10  - - 10\nCommon stock dividends, $1.76 per share - - 7  (404) - (397)\nRepurchase of common stock (4.6) (1) (62) (389) - (452)\nBalances at July 30, 2022 225.1  $ 22  $ 20  $ 2,522  $ 328  $ 2,892\nSee Notes to Condensed Consolidated Financial Statements.\n7\n\n---Table of Contents\nNotes to Condensed Consolidated Financial Statements\n(unaudited)\n1. Basis of Presentation\nUnless the context otherwise requires, the use of the terms “Best Buy,” “we,” “us” and “our” in these Notes to Condensed Consolidated Financial Statements\nrefers to Best Buy Co., Inc. and, as applicable, its consolidated subsidiaries.\nIn the opinion of management, the accompanying condensed consolidated financial statements contain all adjustments necessary for a fair presentation as\nprescribed by accounting principles generally accepted in the U.S. (“GAAP”). All adjustments were comprised of normal recurring adjustments, except as noted in\nthese Notes to Condensed Consolidated Financial Statements.\nA large proportion of our revenue and earnings is generated in the fiscal fourth quarter, which includes the majority of the holiday shopping season. Due to the\nseasonal nature of our business, interim results are not necessarily indicative of results for the entire fiscal year. The interim financial statements and the related\nnotes included in this Quarterly Report on Form 10-Q should be read in conjunction with the consolidated financial statements and related notes included in our\nAnnual Report on Form 10-K for the fiscal year ended January 28, 2023. The first six months of fiscal 2024 and fiscal 2023 included 26 weeks.\nIn preparing the accompanying condensed consolidated financial statements, we evaluated the period from July 29, 2023, through the date the financial\nstatements were issued for material subsequent events requiring recognition or disclosure. No such events were identified.\nSale of Subsidiary\nIn the second quarter of fiscal 2024, we completed the sale of a Mexico subsidiary subsequent to our exit from operations in Mexico and recognized a $21 million\ngain within Gain on sale of subsidiary, net on our Condensed Consolidated Statements of Earnings for the three and six months ended July 29, 2023.\nAdopted Accounting Pronouncements\nIn the first quarter of fiscal 2024, we adopted Accounting Standards Update 2022-04 (“ASU 2022-04”), Supplier Finance Programs (Subtopic 405-50): Disclosure\nof Supplier Finance Program Obligations. ASU 2022-04 requires entities to disclose the key terms of supplier finance programs they use in connection with the\npurchase of goods and services, along with the amount of obligations outstanding at the end of each period and an annual roll-forward of such obligations. Below\nare the interim disclosures as a result of ASU 2022-04.\nSupply Chain Financing\nWe have a supply chain financing program with an independent financial institution, whereby some of our suppliers have the opportunity to receive accounts\npayable settlements early, at a discount, facilitated by the financial institution. Under this program, the financial institution agrees to terms with our suppliers,\nincluding amounts that are eligible for early payment, the timing of such payments and the discounts. The financial institution then pays the supplier based on the\npayment terms agreed to. Suppliers’ participation in this program is at their own option. The financial institution can vary discounts offered at their own discretion.\nOur rights and obligations to our suppliers – which are typically formalized in standardized agreements – are not affected by the existence of the program. Our\nliability associated with the funded participation in the program, which is included in Accounts payable on our Condensed Consolidated Balance Sheets, was\n$609 million, $386 million and $731 million as of July 29, 2023, January 28, 2023, and July 30, 2022, respectively.\nTotal Cash, Cash Equivalents and Restricted Cash\nCash, cash equivalents and restricted cash reported on our Condensed Consolidated Balance Sheets are reconciled to the total shown on our Condensed\nConsolidated Statements of Cash Flows as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nCash and cash equivalents $ 1,093  $ 1,874  $ 840\nRestricted cash included in Other current assets 398  379  312\nTotal cash, cash equivalents and restricted cash $ 1,491  $ 2,253  $ 1,152\nAmounts included in restricted cash are primarily restricted to cover product protection plans provided under our membership offerings and other self-insurance\nliabilities.\nReclassifications\nCertain reclassifications of immaterial amounts previously reported have been made to the accompanying Condensed Consolidated Statements of Cash Flows to\nmaintain consistency and comparability between periods presented.\n8\n\n---",
+    "chunk_0007": "\nTotal cash, cash equivalents and restricted cash $ 1,491  $ 2,253  $ 1,152\nAmounts included in restricted cash are primarily restricted to cover product protection plans provided under our membership offerings and other self-insurance\nliabilities.\nReclassifications\nCertain reclassifications of immaterial amounts previously reported have been made to the accompanying Condensed Consolidated Statements of Cash Flows to\nmaintain consistency and comparability between periods presented.\n8\n\n---Table of Contents\n2. Restructuring\nFiscal 2023 Resource Optimization Initiative\nIn light of ongoing changes in business trends, during the second quarter of fiscal 2023, we commenced an enterprise-wide initiative to better align our spending\nwith critical strategies and operations, as well as to optimize our cost structure. We do not expect to incur material future restructuring charges related to this\ninitiative.\nAll charges incurred related to this initiative were comprised of employee termination benefits from continuing operations and were presented within Restructuring\ncharges on our Condensed Consolidated Statements of Earnings as follows ($ in millions):\nJuly 29, 2023 July 30, 2022 Cumulative Amount\nThree Months Ended Six Months Ended Three Months Ended Six Months Ended As of July 29, 2023\nDomestic $ (7) $ (15) $ 34  $ 34  $ 125\nInternational - (1) - - 4\nTotal $ (7) $ (16) $ 34  $ 34  $ 129\nRestructuring accrual activity related to this initiative was as follows ($ in millions):\nTermination Benefits\nDomestic International Total\nBalances at January 29, 2022 $ - $ - $ -\nCharges 34  - 34\nCash payments (1) - (1)\nBalances at July 30, 2022 $ 33  $ - $ 33\nBalances at January 28, 2023 $ 102  $ 5  $ 107\nCash payments (44) (2) (46)\nAdjustments\n(1)\n(15) (1) (16)\nBalances at July 29, 2023 $ 43  $ 2  $ 45\n(1) Represents adjustments primarily related to higher-than-expected employee retention from previously planned organizational changes.\n3. Goodwill and Intangible Assets\nGoodwill\nGoodwill balances were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nGross Carrying\nAmount\nCumulative\nImpairment\nGross Carrying\nAmount\nCumulative\nImpairment\nGross Carrying\nAmount\nCumulative\nImpairment\nDomestic $ 1,450  $ (67) $ 1,450  $ (67) $ 1,452  $ (67)\nInternational 608  (608) 608  (608) 608  (608)\nTotal $ 2,058  $ (675) $ 2,058  $ (675) $ 2,060  $ (675)\nNo impairment charges were recorded during the periods presented.\nDefinite-Lived Intangible Assets\nWe have definite-lived intangible assets recorded within Other assets on our Condensed Consolidated Balance Sheets as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022 Weighted-Average\nGross Carrying\nAmount\nAccumulated\nAmortization\nGross Carrying\nAmount\nAccumulated\nAmortization\nGross Carrying\nAmount\nAccumulated\nAmortization\nUseful Life Remaining as\nof July 29, 2023 (in years)\nCustomer relationships $ 360  $ 264  $ 360  $ 236  $ 360  $ 208  9.7\nTradenames 108  63  108  56  108  47  5.1\nDeveloped technology 64  57  64  51  64  46  3.3\nTotal $ 532  $ 384  $ 532  $ 343  $ 532  $ 301\n8.0\n9\n\n---",
+    "chunk_0008": "\nJuly 29, 2023 January 28, 2023 July 30, 2022 Weighted-Average\nGross Carrying\nAmount\nAccumulated\nAmortization\nGross Carrying\nAmount\nAccumulated\nAmortization\nGross Carrying\nAmount\nAccumulated\nAmortization\nUseful Life Remaining as\nof July 29, 2023 (in years)\nCustomer relationships $ 360  $ 264  $ 360  $ 236  $ 360  $ 208  9.7\nTradenames 108  63  108  56  108  47  5.1\nDeveloped technology 64  57  64  51  64  46  3.3\nTotal $ 532  $ 384  $ 532  $ 343  $ 532  $ 301\n8.0\n9\n\n---Table of Contents\nAmortization expense was as follows ($ in millions):\nThree Months Ended Six Months Ended\nStatement of Earnings Location July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nAmortization expense SG&A $ 21  $ 22  $ 41  $ 44\nAmortization expense expected to be recognized in future periods is as follows ($ in millions):\nAmortization Expense\nRemainder of fiscal 2024 $ 21\nFiscal 2025 21\nFiscal 2026 21\nFiscal 2027 18\nFiscal 2028 12\nFiscal 2029 10\nThereafter 45\n4. Fair Value Measurements\nFair value measurements are reported in one of three levels based on the lowest level of significant input used: Level 1 (unadjusted quoted prices in active\nmarkets); Level 2 (observable market inputs, other than quoted prices included in Level 1); and Level 3 (unobservable inputs that cannot be corroborated by\nobservable market data).\nRecurring Fair Value Measurements\nFinancial assets accounted for at fair value were as follows ($ in millions):\nFair Value at\nBalance Sheet Location\n(1)\nFair Value\nHierarchy July 29, 2023\nJanuary 28,\n2023 July 30, 2022\nAssets\nMoney market funds\n(2)\nCash and cash equivalents Level 1 $ 104  $ 280  $ 1\nTime deposits\n(3)\nCash and cash equivalents Level 2 117  203  26\nMoney market funds\n(2)\nOther current assets Level 1 167  178  125\nTime deposits\n(3)\nOther current assets Level 2 60  - -\nMarketable securities that fund deferred compensation\n(4)\nOther assets Level 1 47  47  48\n(1) Balance sheet location is determined by the length to maturity at date of purchase and whether the assets are restricted for particular use.\n(2) Valued at quoted market prices in active markets at period end.\n(3) Valued at face value plus accrued interest at period end, which approximates fair value.\n(4) Valued using the performance of mutual funds that trade with sufficient frequency and volume to obtain pricing information on an ongoing basis.\nFair Value of Financial Instruments\nThe fair values of cash, restricted cash, receivables, accounts payable and other payables approximated their carrying values because of the short-term nature of\nthese instruments. If these instruments were measured at fair value in the financial statements, they would be classified as Level 1 in the fair value hierarchy. Fair\nvalues for other investments held at cost are not readily available, but we estimate that the carrying values for these investments approximate their fair values.\nLong-term debt is presented at carrying value on our Condensed Consolidated Balance Sheets. If our long-term debt were recorded at fair value, it would be\nclassified as Level 2 in the fair value hierarchy. Long-term debt balances were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nFair Value Carrying Value Fair Value Carrying Value Fair Value Carrying Value\nLong-term debt\n(1) $ 991  $ 1,130  $ 1,019  $ 1,143  $ 1,069  $ 1,169\n(1) Excludes debt discounts, issuance costs and finance lease obligations.\n10\n\n---",
+    "chunk_0009": "\nclassified as Level 2 in the fair value hierarchy. Long-term debt balances were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nFair Value Carrying Value Fair Value Carrying Value Fair Value Carrying Value\nLong-term debt\n(1) $ 991  $ 1,130  $ 1,019  $ 1,143  $ 1,069  $ 1,169\n(1) Excludes debt discounts, issuance costs and finance lease obligations.\n10\n\n---Table of Contents\n5. Derivative Instruments\nWe manage our economic and transaction exposure to certain risks by using foreign exchange forward contracts to hedge against the effect of Canadian dollar\nexchange rate fluctuations on a portion of our net investment in our Canadian operations and by using interest rate swaps to mitigate the effect of interest rate\nfluctuations on our $500 million of principal amount of notes due October 1, 2028. In addition, we use foreign currency forward contracts not designated as\nhedging instruments to manage the impact of fluctuations in foreign currency exchange rates relative to recognized receivable and payable balances\ndenominated in non-functional currencies.\nOur derivative instruments designated as net investment hedges and interest rate swaps are recorded on our Condensed Consolidated Balance Sheets at fair\nvalue. When material, the gross fair values of our outstanding derivative instruments and corresponding fair value classifications are included in Note 4, Fair\nValue Measurements.\nNotional amounts of our derivative instruments were as follows ($ in millions):\nContract Type July 29, 2023 January 28, 2023 July 30, 2022\nDerivatives designated as net investment hedges $ 102  $ 114  $ 118\nDerivatives designated as interest rate swap contracts 500  500  500\nNo hedge designation (foreign exchange contracts) 50  56  65\nTotal $ 652  $ 670  $ 683\nEffects of our derivative instruments on our Condensed Consolidated Statements of Earnings were as follows ($ in millions):\nGain (Loss) Recognized\nThree Months Ended Six Months Ended\nStatement of Earnings\nLocation July 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nInterest rate swap contracts Interest expense $ (10) $ 14  $ (14) $ (31)\nAdjustments to carrying value of long-term debt Interest expense 10  (14) 14  31\nTotal $ - $ - $ - $ -\n6. Debt\nShort-Term Debt\nU.S. Revolving Credit Facility\nOn April 12, 2023, we entered into a $1.25 billion five-year senior unsecured revolving credit facility agreement (the “Five-Year Facility Agreement”) with a\nsyndicate of banks. The Five-Year Facility Agreement replaced the previous $1.25 billion senior unsecured revolving credit facility (the “Previous Facility”) with a\nsyndicate of banks, which was entered into in May 2021 and scheduled to expire in May 2026, but was terminated on April 12, 2023. The Five-Year Facility\nAgreement permits borrowings of up to $1.25 billion and expires in April 2028. There were no borrowings outstanding under the Five-Year Facility Agreement as\nof July 29, 2023, or the Previous Facility as of January 28, 2023, or July 30, 2022.\nLong-Term Debt\nLong-term debt consisted of the following ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nNotes, 4.45%, due October 1, 2028 $ 500  $ 500  $ 500\nNotes, 1.95%, due October 1, 2030 650  650  650\nInterest rate swap valuation adjustments (20) (7) 19\nSubtotal 1,130  1,143  1,169\nDebt discounts and issuance costs (9) (9) (10)\nFinance lease obligations 39  42  40\nTotal long-term debt 1,160  1,176  1,199\nLess current portion 15  16  15\nTotal long-term debt, less current portion $ 1,145  $ 1,160  $ 1,184\nFair Value and Future Maturities\nSee Note 4, Fair Value Measurements, for the fair value of long-term debt. Other than the $500 million of principal amount of notes due October 1, 2028, we do\nnot have any future maturities of long-term debt within the next five fiscal years.\n11\n\n---",
+    "chunk_0010": "\nDebt discounts and issuance costs (9) (9) (10)\nFinance lease obligations 39  42  40\nTotal long-term debt 1,160  1,176  1,199\nLess current portion 15  16  15\nTotal long-term debt, less current portion $ 1,145  $ 1,160  $ 1,184\nFair Value and Future Maturities\nSee Note 4, Fair Value Measurements, for the fair value of long-term debt. Other than the $500 million of principal amount of notes due October 1, 2028, we do\nnot have any future maturities of long-term debt within the next five fiscal years.\n11\n\n---Table of Contents\n7. Revenue\nWe generate substantially all of our revenue from contracts with customers from the sale of products and services. Contract balances primarily consist of\nreceivables and liabilities related to unfulfilled membership benefits and services not yet completed, product merchandise not yet delivered to customers,\ndeferred revenue from our private label and co-branded credit card arrangement and unredeemed gift cards. Contract balances were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nReceivables, net\n(1) $ 485  $ 581  $ 534\nShort-term contract liabilities included in:\nUnredeemed gift card liabilities 250  274  273\nDeferred revenue 996  1,116  1,133\nAccrued liabilities 64  66  78\nLong-term contract liabilities included in:\nLong-term liabilities 254  265  5\n(1) Receivables are recorded net of allowances for doubtful accounts of $18 million, $22 million and $21 million as of July 29, 2023, January 28, 2023, and July 30, 2022, respectively.\nDuring the first six months of fiscal 2024 and fiscal 2023, $1,026 million and $1,089 million of revenue was recognized, respectively, that was included in the\ncontract liabilities at the beginning of the respective periods.\nEstimated revenue from our contract liability balances expected to be recognized in future periods if the performance of the contract is expected to have an initial\nduration of more than one year is as follows ($ in millions):\nFiscal Year Amount\nRemainder of fiscal 2024 $ 17\nFiscal 2025 31\nFiscal 2026 29\nFiscal 2027 24\nFiscal 2028 24\nFiscal 2029 24\nThereafter 136\nSee Note 11, Segments, for information on our revenue by reportable segment and product category.\n8. Earnings per Share\nWe compute our basic earnings per share based on the weighted-average number of common shares outstanding and our diluted earnings per share based on\nthe weighted-average number of common shares outstanding adjusted by the number of additional shares that would have been outstanding had potentially\ndilutive common shares been issued.\nReconciliations of the numerators and denominators of basic and diluted earnings per share were as follows ($ and shares in millions, except per share\namounts):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nNumerator\nNet earnings $ 274  $ 306  $ 518  $ 647\nDenominator\nWeighted-average common shares outstanding 218.6  225.4  218.7  226.1\nDilutive effect of stock compensation plan awards 0.4  0.7  0.8  1.1\nWeighted-average common shares outstanding, assuming dilution 219.0  226.1  219.5  227.2\nPotential shares which were anti-dilutive and excluded from weighted-average share computations 1.1  2.1  1.3  1.9\nBasic earnings per share $ 1.25  $ 1.36  $ 2.37  $ 2.86\nDiluted earnings per share $ 1.25  $ 1.35  $ 2.36  $ 2.85\n9. Repurchase of Common Stock\nOn February 28, 2022, our Board of Directors approved a $5.0 billion share repurchase program, which replaced the $5.0 billion share repurchase program\nauthorized on February 16, 2021. There is no expiration date governing the period over which we can repurchase shares under this authorization.\n12\n\n---",
+    "chunk_0011": "\nBasic earnings per share $ 1.25  $ 1.36  $ 2.37  $ 2.86\nDiluted earnings per share $ 1.25  $ 1.35  $ 2.36  $ 2.85\n9. Repurchase of Common Stock\nOn February 28, 2022, our Board of Directors approved a $5.0 billion share repurchase program, which replaced the $5.0 billion share repurchase program\nauthorized on February 16, 2021. There is no expiration date governing the period over which we can repurchase shares under this authorization.\n12\n\n---Table of Contents\nInformation regarding share repurchases was as follows ($ and shares in millions, except per share amounts):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nTotal cost of shares repurchased $ 69  $ 10  $ 150  $ 452\nAverage price per share $ 76.88  $ 83.71  $ 76.48  $ 96.83\nTotal number of shares repurchased 0.9  0.1  2.0  4.6\nAs of July 29, 2023, $4.0 billion of the $5.0 billion share repurchase authorization was available. Between the end of the second quarter of fiscal 2024 on July 29,\n2023, and August 30, 2023, we repurchased an incremental 0.3 million shares of our common stock at a cost of $25 million. We currently expect to continue\nshare repurchases throughout fiscal 2024, with the level of repurchases being slightly higher in the second half of the year than the first half of the year.\n10. Contingencies\nWe are involved in a number of legal proceedings. Where appropriate, we have made accruals with respect to these matters, which are reflected on our\nCondensed Consolidated Financial Statements. However, there are cases where liability is not probable or the amount cannot be reasonably estimated and,\ntherefore, accruals have not been made. We provide disclosure of matters where we believe it is reasonably possible the impact may be material to our\nCondensed Consolidated Financial Statements.\n11. Segments\nReportable segment and product category revenue information was as follows ($ in millions):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nRevenue by reportable segment\nDomestic $ 8,890  $ 9,569  $ 17,691  $ 19,463\nInternational 693  760  1,359  1,513\nTotal revenue $ 9,583  $ 10,329  $ 19,050  $ 20,976\nRevenue by product category\nDomestic:\nComputing and Mobile Phones $ 3,674  $ 3,964  $ 7,362  $ 8,249\nConsumer Electronics 2,658  2,845  5,250  5,741\nAppliances 1,384  1,657  2,723  3,247\nEntertainment 544  508  1,135  1,081\nServices 550  516  1,087  1,005\nOther 80  79  134  140\nTotal Domestic revenue $ 8,890  $ 9,569  $ 17,691  $ 19,463\nInternational:\nComputing and Mobile Phones $ 309  $ 327  $ 625  $ 671\nConsumer Electronics 194  223  378  436\nAppliances 92  104  151  175\nEntertainment 50  51  110  108\nServices 38  37  74  91\nOther 10  18  21  32\nTotal International revenue $ 693  $ 760  $ 1,359  $ 1,513\nOperating income by reportable segment and the reconciliation to consolidated earnings before income tax expense and equity in income (loss) of affiliates was\nas follows ($ in millions):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nDomestic $ 329  $ 343  $ 619  $ 772\nInternational 19  28  40  61\nTotal operating income 348  371  659  833\nOther income (expense):\nGain on sale of subsidiary, net 21  - 21  -\nInvestment income (expense) and other 12  3  33  (2)\nInterest expense (12) (7) (24) (13)\nEarnings before income tax expense and equity in income (loss) of affiliates $ 369  $ 367  $ 689  $ 818\n13\n\n---",
+    "chunk_0012": "\nas follows ($ in millions):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nDomestic $ 329  $ 343  $ 619  $ 772\nInternational 19  28  40  61\nTotal operating income 348  371  659  833\nOther income (expense):\nGain on sale of subsidiary, net 21  - 21  -\nInvestment income (expense) and other 12  3  33  (2)\nInterest expense (12) (7) (24) (13)\nEarnings before income tax expense and equity in income (loss) of affiliates $ 369  $ 367  $ 689  $ 818\n13\n\n---Table of Contents\nAssets by reportable segment were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nDomestic $ 14,028  $ 14,549  $ 14,272\nInternational 1,290  1,254  1,147\nTotal assets $ 15,318  $ 15,803  $ 15,419\nItem 2. Management's Discussion and Analysis of Financial Condition and Results of Operations\nUnless the context otherwise requires, the use of the terms “Best Buy,” “we,” “us” and “our” refers to Best Buy Co., Inc. and its consolidated subsidiaries. Any\nreferences to our website addresses do not constitute incorporation by reference of the information contained on the websites.\nManagement’s Discussion and Analysis of Financial Condition and Results of Operations (“MD&A”) is intended to provide a reader of our financial statements\nwith a narrative from the perspective of our management on our financial condition, results of operations, liquidity and certain other factors that may affect our\nfuture results. Unless otherwise noted, transactions and other factors significantly impacting our financial condition, results of operations and liquidity are\ndiscussed in order of magnitude. Our MD&A should be read in conjunction with our Annual Report on Form 10-K for the fiscal year ended January 28, 2023\n(including the information presented therein under Risk Factors), as well as our other reports on Forms 10-Q and 8-K and other publicly available information. All\namounts herein are unaudited.\nOverview\nWe are driven by our purpose to enrich lives through technology and our vision to personalize and humanize technology solutions for every stage of life. We\naccomplish this by leveraging our combination of technology and a human touch to meet our customers’ everyday needs, whether they come to us online, visit\nour stores or invite us into their homes.\nWe have two reportable segments: Domestic and International. The Domestic segment is comprised of our operations in all states, districts and territories of the\nU.S. and our Best Buy Health business. The International segment is comprised of all our operations in Canada.\nOur fiscal year ends on the Saturday nearest the end of January. Our business, like that of many retailers, is seasonal. A large proportion of our revenue and\nearnings is generated in the fiscal fourth quarter, which includes the majority of the holiday shopping season.\nComparable Sales\nThroughout this MD&A, we refer to comparable sales. Comparable sales is a metric used by management to evaluate the performance of our existing stores,\nwebsites and call centers by measuring the change in net sales for a particular period over the comparable prior period of equivalent length. Comparable sales\nincludes revenue from stores, websites and call centers operating for at least 14 full months. Revenue from online sales is included in comparable sales and\nrepresents sales initiated on a website or app, regardless of whether customers choose to pick up product in store, curbside, at an alternative pick-up location or\ntake delivery direct to their homes. Revenue from acquisitions is included in comparable sales beginning with the first full quarter following the first anniversary of\nthe date of the acquisition. Comparable sales also includes credit card revenue, gift card breakage, commercial sales and sales of merchandise to wholesalers\nand dealers, as applicable. Revenue from stores closed more than 14 days, including but not limited to relocated, remodeled, expanded and downsized stores, or\nstores impacted by natural disasters, is excluded from comparable sales until at least 14 full months after reopening. Comparable sales excludes the impact of\nrevenue from discontinued operations, the impact of profit-share revenue from our services plan portfolio and the effect of fluctuations in foreign currency\nexchange rates (applicable to our International segment only). All periods presented apply this methodology consistently.\nWe believe comparable sales is a meaningful supplemental metric for investors to evaluate revenue performance resulting from growth in existing stores,\nwebsites and call centers versus the portion resulting from opening new stores or closing existing stores. The method of calculating comparable sales varies\nacross the retail industry. As a result, our method of calculating comparable sales may not be the same as other retailers’ methods.\n14\n\n---",
+    "chunk_0013": "\nWe believe comparable sales is a meaningful supplemental metric for investors to evaluate revenue performance resulting from growth in existing stores,\nwebsites and call centers versus the portion resulting from opening new stores or closing existing stores. The method of calculating comparable sales varies\nacross the retail industry. As a result, our method of calculating comparable sales may not be the same as other retailers’ methods.\n14\n\n---Table of Contents\nNon-GAAP Financial Measures\nThis MD&A includes financial information prepared in accordance with accounting principles generally accepted in the U.S. (“GAAP”), as well as certain adjusted\nor non-GAAP financial measures, such as constant currency, non-GAAP operating income, non-GAAP effective tax rate and non-GAAP diluted earnings per\nshare (“EPS”). We believe that non-GAAP financial measures, when reviewed in conjunction with GAAP financial measures, provide additional useful information\nfor evaluating current period performance and assessing future performance. For these reasons, internal management reporting, including budgets, forecasts\nand financial targets used for short-term incentives are based on non-GAAP financial measures. Generally, our non-GAAP financial measures include\nadjustments for items such as restructuring charges, goodwill and intangible asset impairments, price-fixing settlements, gains and losses on sales of\nsubsidiaries and certain investments, intangible asset amortization, certain acquisition-related costs and the tax effect of all such items. In addition, certain other\nitems may be excluded from non-GAAP financial measures when we believe doing so provides greater clarity to management and our investors. We provide\nreconciliations of the most comparable financial measures presented in accordance with GAAP to presented non-GAAP financial measures that enable investors\nto understand the adjustments made in arriving at the non-GAAP financial measures and to evaluate performance using the same metrics as management.\nThese non-GAAP financial measures should be considered in addition to, and not superior to or as a substitute for, GAAP financial measures. We strongly\nencourage investors and shareholders to review our financial statements and publicly-filed reports in their entirety and not to rely on any single financial measure.\nNon-GAAP financial measures may be calculated differently from similarly titled measures used by other companies, thereby limiting their usefulness for\ncomparative purposes.\nIn our discussions of the operating results of our consolidated business and our International segment, we sometimes refer to the impact of changes in foreign\ncurrency exchange rates or the impact of foreign currency exchange rate fluctuations, which are references to the differences between the foreign currency\nexchange rates we use to convert the International segment’s operating results from local currencies into U.S. dollars for reporting purposes. We also may use\nthe term “constant currency,” which represents results adjusted to exclude foreign currency impacts. We calculate those impacts as the difference between the\ncurrent period results translated using the current period currency exchange rates and using the comparable prior period currency exchange rates. We believe\nthe disclosure of revenue changes in constant currency provides useful supplementary information to investors in light of significant fluctuations in currency rates.\nRefer to the Non-GAAP Financial Measures section below for detailed reconciliations of items impacting non-GAAP operating income, non-GAAP effective tax\nrate and non-GAAP diluted EPS in the presented periods.\nBusiness Strategy Update\nIn the second quarter of fiscal 2024, our teams once again delivered strong execution and showcased their ability to navigate through what continues to be a\nchallenging environment for our industry, while keeping our customers and their experiences as our top priority. We continue to appropriately balance the need to\nadjust in response to current industry sales trends with the need to invest so we can capitalize on opportunities as our industry moves through this downturn and\nreturns to expected growth.\nOur digital sales in the second quarter of fiscal 2024 comprised 31% of our Domestic revenue, consistent with the second quarter of fiscal 2023 and nearly twice\nas high as the percentage of Domestic revenue in the pre-pandemic second quarter of fiscal 2020. During these same time periods, the percentage of online\nsales picked up in our stores by our customers was also consistent at just over 40%. Therefore, we are continuing to adapt our omni-channel capabilities to\nensure we maintain a leading position in an increasingly digital age and evolving retail landscape.\nWe believe our portfolio of stores needs to provide customers with differentiated experiences and multichannel fulfillment. At the same time, we need them to\nbecome more cost and capital efficient to operate while remaining a great place to work. We are on track to deliver our fiscal 2024 store plans, which include\nclosing 20 to 30 large format stores, implementing 8 large format Experience store remodels and expanding the number of Outlet stores to approximately 25 by\nthe end of fiscal 2024.\nWe continue to advance our operating model to align with the ongoing evolution of our industry and marketplace trends with two overarching goals in mind –\nefficiently allocating our labor cost, considering the channel shift from our physical stores to online, and providing our employees flexibility, predictability and\nopportunities to gain more skills. We are focused on balancing the amount of labor hours necessary to deliver the best experience possible for our customers and\nother stakeholders. At the same time, we have been investing in tools, training and employee development programs that increase their flexibility within and\nacross stores. As not all roles, and the associated hourly pay, are the same, we are making the strategic tradeoff decisions necessary to give us the ability to\nflexibly adjust our labor spending appropriately, particularly customer-facing labor.\nDuring the second quarter of fiscal 2024, we continued to build customer relationships through our membership programs. We successfully launched significant\nchanges to our membership program that we expect will give customers more freedom to choose a membership that fits their technology needs, budget and\nshopping preferences. In addition, we expect the changes to provide more flexibility to evolve our programs in the future, while resulting in a lower cost to serve\nthan our previous paid membership program, which we have already seen in margin favorability.\n15\n\n---",
+    "chunk_0014": "\nchanges to our membership program that we expect will give customers more freedom to choose a membership that fits their technology needs, budget and\nshopping preferences. In addition, we expect the changes to provide more flexibility to evolve our programs in the future, while resulting in a lower cost to serve\nthan our previous paid membership program, which we have already seen in margin favorability.\n15\n\n---Table of Contents\nFor the remainder of fiscal 2024, macroeconomic headwinds will likely result in continued pressure, and we are preparing for sales in the consumer electronics\nindustry to decline again this year. In particular, our customers are facing economic challenges from the dual pressures of high inflation and the resulting interest\nrate increases, and it is difficult to predict how such factors will impact us in the near term. However, we expect several factors to drive the eventual return of\nindustry growth over time, including the natural upgrade and replacement cycles for the technology bought earlier in the pandemic and continued vendor\ninnovation. In addition, macro technology trends like cloud, augmented reality, generative AI and expanded broadband access have the potential to drive new\nproducts and demand. While our product categories tend to experience slightly different timing nuances, in general, we believe they are poised for growth in the\ncoming years. In addition, we are continuing our expansion into newer categories like wellness technology, personal electric transportation, outdoor living and\nelectric car charging.\nWe remain excited about our industry and our future. There are more technology products than ever in people’s homes, technology is increasingly a necessity in\nour lives, and we believe we are uniquely there for our customers as they continue to navigate this innovative space.\nResults of Operations\nConsolidated Results\nSelected consolidated financial data was as follows ($ in millions, except per share amounts):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nRevenue $ 9,583  $ 10,329  $ 19,050  $ 20,976\nRevenue % change (7.2)% (12.8)% (9.2)% (10.7)%\nComparable sales % change (6.2)% (12.1)% (8.2)% (10.1)%\nGross profit $ 2,220  $ 2,287  $ 4,370  $ 4,640\nGross profit as a % of revenue\n(1)\n23.2 % 22.1 % 22.9 % 22.1 %\nSG&A $ 1,879  $ 1,882  $ 3,727  $ 3,772\nSG&A as a % of revenue\n(1)\n19.6 % 18.2 % 19.6 % 18.0 %\nRestructuring charges $ (7) $ 34  $ (16) $ 35\nOperating income $ 348  $ 371  $ 659  $ 833\nOperating income as a % of revenue 3.6 % 3.6 % 3.5 % 4.0 %\nNet earnings $ 274  $ 306  $ 518  $ 647\nDiluted earnings per share $ 1.25  $ 1.35  $ 2.36  $ 2.85\n(1) Because retailers vary in how they record costs of operating their supply chain between cost of sales and SG&A, our gross profit rate and SG&A rate may not be comparable to other retailers’\ncorresponding rates. For additional information regarding costs classified in cost of sales and SG&A, refer to Note 1, Summary of Significant Accounting Policies, of the Notes to Consolidated Financial\nStatements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2023.\nIn the second quarter and first six months of fiscal 2024, we generated $9.6 billion and $19.1 billion in revenue, respectively, and our comparable sales declined\n6.2% and 8.2%, respectively, as we continued to operate in a consumer electronics industry that is challenged from the pull-forward of demand in prior years,\nincreased spending outside the home in areas such as travel and entertainment, and various macroeconomic pressures, including high inflation and rising\ninterest rates.\nRevenue, gross profit rate, SG&A and operating income rate changes in the second quarter and first six months of fiscal 2024 were primarily driven by our\nDomestic segment. For further discussion of our Domestic and International segments, see Segment Performance Summary, below.\nIncome Tax Expense\nIncome tax expense increased in the second quarter of fiscal 2024 primarily due to the prior year resolution of certain discrete tax matters. Our effective tax rate\n(“ETR”) increased to 26.1% in the second quarter of fiscal 2024 compared to 15.6% in the second quarter of fiscal 2023, primarily due to the prior year resolution\nof certain discrete tax matters.\nIncome tax expense was relatively unchanged in the first six months of fiscal 2024, primarily due to the prior year resolution of certain discrete tax matters offset\nby a decrease in pre-tax earnings. Our ETR increased to 24.8% in the first six months of fiscal 2024 compared to 20.5% in the first six months of fiscal 2023,\nprimarily due to the prior year resolution of certain discrete tax matters and decreased tax benefits from stock-based compensation, partially offset by the impact\nof lower pre-tax earnings.\nOur tax provision for interim periods is determined using an estimate of our annual ETR, adjusted for discrete items, if any, that are taken into account in the\nrelevant period. We update our estimate of the annual ETR each quarter and we make a cumulative adjustment if our estimated tax rate changes. Our quarterly\ntax provision and our quarterly estimate of our annual ETR are subject to variation due to several factors, including our ability to accurately forecast our pre-tax\nand taxable income and loss by jurisdiction, tax audit developments, recognition of excess tax benefits or deficiencies related to stock-based compensation,\nforeign currency gains (losses), changes in laws or regulations, and expenses or losses for which tax benefits are not recognized. Our ETR can be more or less\nvolatile based on the amount of pre-tax earnings. For example, the impact of discrete items and non-deductible losses on our ETR is greater when our pre-tax\nearnings are lower.\n16\n\n---",
+    "chunk_0015": "\nand taxable income and loss by jurisdiction, tax audit developments, recognition of excess tax benefits or deficiencies related to stock-based compensation,\nforeign currency gains (losses), changes in laws or regulations, and expenses or losses for which tax benefits are not recognized. Our ETR can be more or less\nvolatile based on the amount of pre-tax earnings. For example, the impact of discrete items and non-deductible losses on our ETR is greater when our pre-tax\nearnings are lower.\n16\n\n---Table of Contents\nSegment Performance Summary\nDomestic Segment\nSelected financial data for the Domestic segment was as follows ($ in millions):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nRevenue $ 8,890  $ 9,569  $ 17,691  $ 19,463\nRevenue % change (7.1)% (13.1)% (9.1)% (10.9)%\nComparable sales % change\n(1)\n(6.3)% (12.7)% (8.4)% (10.6)%\nGross profit $ 2,052  $ 2,109  $ 4,044  $ 4,279\nGross profit as a % of revenue 23.1 % 22.0 % 22.9 % 22.0 %\nSG&A $ 1,730  $ 1,732  $ 3,440  $ 3,473\nSG&A as a % of revenue 19.5 % 18.1 % 19.4 % 17.8 %\nRestructuring charges $ (7) $ 34  $ (15) $ 34\nOperating income $ 329  $ 343  $ 619  $ 772\nOperating income as a % of revenue 3.7 % 3.6 % 3.5 % 4.0 %\nSelected Online Revenue Data\nTotal online revenue $ 2,763  $ 2,975  $ 5,451  $ 6,034\nOnline revenue as a % of total segment revenue 31.1 % 31.0 % 30.8 % 31.0 %\nComparable online sales % change\n(1)\n(7.1)% (14.7)% (9.7)% (14.8)%\n(1) Comparable online sales are included in the comparable sales calculation.\nThe decrease in revenue in the second quarter and first six months of fiscal 2024 was primarily driven by comparable sales declines in appliances, home theater,\ncomputing and mobile phones, partially offset by comparable sales growth in gaming. Online revenue of $2.8 billion and $5.5 billion in the second quarter and\nfirst six months of fiscal 2024 decreased 7.1% and 9.7% on a comparable basis, respectively. These decreases in revenue were primarily due to the reasons\ndescribed above and within the Consolidated Results section, above.\nDomestic segment stores open at the beginning and end of the second quarters of fiscal 2024 and fiscal 2023 were as follows:\nFiscal 2024 Fiscal 2023\nTotal Stores at\nBeginning of\nSecond Quarter\nStores\nOpened\nStores\nClosed\nTotal Stores at\nEnd of Second\nQuarter\nTotal Stores at\nBeginning of\nSecond Quarter\nStores\nOpened\nStores\nClosed\nTotal Stores at\nEnd of Second\nQuarter\nBest Buy 908  - (1) 907  931  1  (2) 930\nOutlet Centers 20  1  (1) 20  16  2  - 18\nPacific Sales 20  - - 20  21  - - 21\nYardbird 18  4  - 22  9  4  - 13\nTotal 966\n5\n(2)\n969\n977\n7\n(2)\n982\nWe continuously monitor store performance as part of a market-driven, omnichannel strategy. As we approach the expiration of leases, we evaluate various\noptions for each location, including whether a store should remain open. We currently expect to close a total of 20 to 30 Best Buy stores and open approximately\n5 Outlet Centers in fiscal 2024.\nDomestic segment revenue mix percentages and comparable sales percentage changes by revenue category were as follows:\nRevenue Mix Comparable Sales\nThree Months Ended Three Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nComputing and Mobile Phones 41 % 42 % (6.4)% (16.6)%\nConsumer Electronics 30 % 30 % (5.7)% (14.7)%\nAppliances 16 % 17 % (16.1)% (1.2)%\nEntertainment 6 % 5 % 9.0 % (9.2)%\nServices 6 % 5 % 7.6 % (8.5)%\nOther 1 % 1 % 2.4 % 15.6\nTotal 100 % 100 % (6.3)% (12.7)%\n17\n\n---",
+    "chunk_0016": "\nDomestic segment revenue mix percentages and comparable sales percentage changes by revenue category were as follows:\nRevenue Mix Comparable Sales\nThree Months Ended Three Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nComputing and Mobile Phones 41 % 42 % (6.4)% (16.6)%\nConsumer Electronics 30 % 30 % (5.7)% (14.7)%\nAppliances 16 % 17 % (16.1)% (1.2)%\nEntertainment 6 % 5 % 9.0 % (9.2)%\nServices 6 % 5 % 7.6 % (8.5)%\nOther 1 % 1 % 2.4 % 15.6\nTotal 100 % 100 % (6.3)% (12.7)%\n17\n\n---Table of Contents\nNotable comparable sales changes by revenue category were as follows:\n Computing and Mobile Phones: The 6.4% comparable sales decline was driven primarily by computing, mobile phones and tablets.\n Consumer Electronics: The 5.7% comparable sales decline was driven primarily by home theater, partially offset by comparable sales growth in\nheadphones and portable speakers.\n Appliances: The 16.1% comparable sales decline was driven primarily by large appliances.\n Entertainment: The 9.0% comparable sales growth was driven primarily by gaming, partially offset by comparable sales declines in virtual reality and\ndrones.\n Services: The 7.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base.\nOur gross profit rate increased in the second quarter of fiscal 2024, primarily due to favorable product margin rates, improved financial performance from our\nmembership offerings, which included higher services margin rates and reduced costs associated with program changes made to our free membership offering,\nand an improved gross profit rate from our Health initiatives.\nOur gross profit rate increased in the first six months of fiscal 2024, primarily due to improved financial performance from our membership offerings, which\nincluded higher services margin rates and reduced costs associated with program changes made to our free membership offering, favorable product margin\nrates, the profit-sharing revenue from our private label and co-branded credit card arrangement and an improved gross profit rate from our Health initiatives.\nOur profit-sharing revenue from our credit card arrangement has been a consistent benefit to our gross profit and operating income rates for the past nine\nquarters and approximated 1.4% of Domestic revenue in fiscal 2023, an increase of approximately 50 basis points compared to fiscal 2020. This growth has\nbeen driven by the increased usage of our credit card, both at and outside of Best Buy, and the favorable credit environment. For fiscal 2024, we expect this\nprofit-sharing revenue to have a relatively neutral impact to our annual gross profit rate compared to last year, as the benefit from the first half of the year is\nexpected to turn to a slight pressure in the second half of the year.\nOur SG&A in the second quarter of fiscal 2024 was approximately flat to last year, as higher incentive compensation was primarily offset by lower store payroll\nexpense.\nOur SG&A in the first six months of fiscal 2024 decreased primarily due to lower store payroll expense, partially offset by higher incentive compensation expense.\nThe reduction in restructuring charges in the second quarter and first six months of fiscal 2024 was primarily related to higher-than-expected employee retention\nfrom our fiscal 2023 resource optimization initiative. Refer to Note 2, Restructuring, of the Notes to Condensed Consolidated Financial Statements, included in\nthis Quarterly Report on Form 10-Q for additional information.\nOur operating income rate increased in the second quarter of fiscal 2024, due to an increase in gross profit rate and lower restructuring charges, partially offset\nby an unfavorable SG&A rate.\nOur operating income rate decreased in the six months of fiscal 2024, primarily due to decreased leverage from lower sales volume on our fixed expenses and\nhigher incentive compensation expense, which resulted in an unfavorable SG&A rate, partially offset by favorability in gross profit rate.\nInternational Segment\nSelected financial data for the International segment was as follows ($ in millions):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nRevenue $ 693  $ 760  $ 1,359  $ 1,513\nRevenue % change (8.8)% (9.3)% (10.2)% (7.4)%\nComparable sales % change (5.4)% (4.2)% (5.5)% (2.8)%\nGross profit $ 168  $ 178  $ 326  $ 361\nGross profit as a % of revenue 24.2 % 23.4 % 24.0 % 23.9 %\nSG&A $ 149  $ 150  $ 287  $ 299\nSG&A as a % of revenue 21.5 % 19.7 % 21.1 % 19.8 %\nRestructuring charges $ - $ - $ (1) $ 1\nOperating income $ 19  $ 28  $ 40  $ 61\nOperating income as a % of revenue 2.7 % 3.7 % 2.9 % 4.0 %\nThe decreases in revenue in the second quarter and first six months of fiscal 2024 were primarily driven by comparable sales declines of 5.4% and 5.5%,\nrespectively, and the negative impact from unfavorable foreign currency exchange rates.\n18\n\n---",
+    "chunk_0017": "\nSG&A $ 149  $ 150  $ 287  $ 299\nSG&A as a % of revenue 21.5 % 19.7 % 21.1 % 19.8 %\nRestructuring charges $ - $ - $ (1) $ 1\nOperating income $ 19  $ 28  $ 40  $ 61\nOperating income as a % of revenue 2.7 % 3.7 % 2.9 % 4.0 %\nThe decreases in revenue in the second quarter and first six months of fiscal 2024 were primarily driven by comparable sales declines of 5.4% and 5.5%,\nrespectively, and the negative impact from unfavorable foreign currency exchange rates.\n18\n\n---Table of Contents\nInternational segment stores open at the beginning and end of the second quarters of fiscal 2024 and fiscal 2023 were as follows:\nFiscal 2024 Fiscal 2023\nTotal Stores at\nBeginning of\nSecond Quarter\nStores\nOpened\nStores\nClosed\nTotal Stores at\nEnd of Second\nQuarter\nTotal Stores at\nBeginning of\nSecond Quarter\nStores\nOpened\nStores\nClosed\nTotal Stores at\nEnd of Second\nQuarter\nCanada\nBest Buy 127  1  - 128  127  - - 127\nBest Buy Mobile 32  - - 32  33  - - 33\nTotal 159\n1\n-\n160\n160\n-\n-\n160\nInternational segment revenue mix percentages and comparable sales percentage changes by revenue category were as follows:\nRevenue Mix Comparable Sales\nThree Months Ended Three Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nComputing and Mobile Phones 45 % 43 % (2.4)% (7.6)%\nConsumer Electronics 28 % 29 % (10.4)% (4.8)%\nAppliances 13 % 14 % (6.1)% 6.8 %\nEntertainment 7 % 7 % 2.5 % (5.8)%\nServices 5 % 5 % 4.6 % (0.4)%\nOther 2 % 2 % (38.1)% 12.6 %\nTotal 100 % 100 % (5.4)% (4.2)%\nNotable comparable sales changes by revenue category were as follows:\n Computing and Mobile Phones: The 2.4% comparable sales decline was driven primarily by computing and tablets, partially offset by comparable\nsales growth in mobile phones.\n Consumer Electronics: The 10.4% comparable sales decline was driven primarily by home theater.\n Appliances: The 6.1% comparable sales decline was driven primarily by large appliances.\n Entertainment: The 2.5% comparable sales growth was driven primarily by gaming and drones, partially offset by a comparable sales decline in virtual\nreality.\n Services: The 4.6% comparable sales growth was driven primarily by the cumulative growth in our paid membership base and warranty services.\nThe increase in our gross profit rate in the second quarter of fiscal 2024 was primarily driven by a higher mix of revenue from the higher margin rate services\ncategory. The increase in our gross profit rate in the first six months of fiscal 2024 was primarily driven by improved product margin rates.\nOur SG&A decreased in the second quarter and first six months of fiscal 2024, primarily due to the favorable impact of foreign currency exchange rates and lower\nstore payroll expense, partially offset by higher incentive compensation expense.\nOur operating income rates decreased in the second quarter and first six months of fiscal 2024, primarily due to decreased leverage from lower sales volume on\nour fixed expenses, which resulted in unfavorable SG&A rates, partially offset by favorability in gross profit rates.\n19\n\n---",
+    "chunk_0018": "\nstore payroll expense, partially offset by higher incentive compensation expense.\nOur operating income rates decreased in the second quarter and first six months of fiscal 2024, primarily due to decreased leverage from lower sales volume on\nour fixed expenses, which resulted in unfavorable SG&A rates, partially offset by favorability in gross profit rates.\n19\n\n---Table of Contents\nConsolidated Non-GAAP Financial Measures\nReconciliations of operating income, effective tax rate and diluted EPS (GAAP financial measures) to non-GAAP operating income, non-GAAP effective tax rate\nand non-GAAP diluted EPS (non-GAAP financial measures) were as follows ($ in millions, except per share amounts):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nOperating income $ 348  $ 371  $ 659  $ 833\n% of revenue 3.6 % 3.6 % 3.5 % 4.0 %\nIntangible asset amortization\n(1)\n21  22  41  44\nRestructuring charges\n(2)\n(7) 34  (16) 35\nNon-GAAP operating income $ 362  $ 427  $ 684  $ 912\n% of revenue 3.8 % 4.1 % 3.6 % 4.3 %\nEffective tax rate 26.1 % 15.6 % 24.8 % 20.5 %\nIntangible asset amortization\n(1)\n(0.4)% 0.4 % 0.4 % 0.2 %\nRestructuring charges\n(2)\n0.4 % 0.7 % (0.1)% 0.1 %\nLoss on investments 0.5 % -% -% -%\nNon-GAAP effective tax rate 26.6 % 16.7 % 25.1 % 20.8 %\nDiluted EPS $ 1.25  $ 1.35  $ 2.36  $ 2.85\nIntangible asset amortization\n(1)\n0.10  0.10  0.18  0.19\nRestructuring charges\n(2)\n(0.03) 0.15  (0.07) 0.15\nLoss on investments - - 0.02  -\nGain on sale of subsidiary, net\n(3)\n(0.10) - (0.10) -\nIncome tax impact of non-GAAP adjustments\n(4)\n- (0.06) (0.02) (0.08)\nNon-GAAP diluted EPS $ 1.22  $ 1.54  $ 2.37  $ 3.11\nFor additional information regarding the nature of charges discussed below, refer to Note 1, Basis of Presentation, Note 2, Restructuring, and Note 3, Goodwill and Intangible Assets, of the Notes to\nCondensed Consolidated Financial Statements, included in this Quarterly Report on Form 10-Q.\n(1) Represents the non-cash amortization of definite-lived intangible assets associated with acquisitions, including customer relationships, tradenames and developed technology assets.\n(2) Represents charges related to employee termination benefits and subsequent adjustments from higher-than-expected employee retention related to previously planned organizational changes.\n(3) Represents the gain on sale of a Mexico subsidiary subsequent to our exit from operations in Mexico.\n(4) The non-GAAP adjustments primarily relate to the U.S. and Mexico. As such, the forecasted annual income tax charge on the U.S. non-GAAP adjustments is calculated using the statutory tax rate of\n24.5%. There is no forecasted annual income tax benefit for Mexico non-GAAP items, as there is no forecasted annual tax expense on the income in the calculation of GAAP income tax expense.\nOur non-GAAP operating income rates decreased in the second quarter and first six months of fiscal 2024, primarily due to unfavorable SG&A rates, partially\noffset by favorable gross profit rates.\nOur non-GAAP effective tax rate increased in the second quarter of fiscal 2024, primarily due to the prior year resolution of certain discrete tax matters. Our non￾GAAP effective tax rate increased in the first six months of fiscal 2024, primarily due to the prior year resolution of certain discrete tax matters and decreased tax\nbenefits from stock-based compensation, partially offset by the impact of lower pre-tax earnings.\nOur non-GAAP diluted EPS decreased in the second quarter and first six months of fiscal 2024, primarily due to the decreases in non-GAAP operating income.\nLiquidity and Capital Resources\nWe closely manage our liquidity and capital resources. Our liquidity requirements depend on key variables, including the level of investment required to support\nour business strategies, the performance of our business, capital expenditures, dividends, credit facilities, short-term borrowing arrangements and working capital\nmanagement. We modify our approach to managing these variables as changes in our operating environment arise. For example, capital expenditures and share\nrepurchases are a component of our cash flow and capital management strategy, which, to a large extent, we can adjust in response to economic and other\nchanges in our business environment. We have a disciplined approach to capital allocation, which focuses on investing in key priorities that support our strategy.\nCash and cash equivalents were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nCash and cash equivalents $ 1,093  $ 1,874  $ 840\nThe decrease in cash and cash equivalents from January 28, 2023, was primarily due to the timing and volume of inventory purchases and payments, dividend\npayments and capital expenditures, partially offset by earnings.\n20\n\n---",
+    "chunk_0019": "\nCash and cash equivalents were as follows ($ in millions):\nJuly 29, 2023 January 28, 2023 July 30, 2022\nCash and cash equivalents $ 1,093  $ 1,874  $ 840\nThe decrease in cash and cash equivalents from January 28, 2023, was primarily due to the timing and volume of inventory purchases and payments, dividend\npayments and capital expenditures, partially offset by earnings.\n20\n\n---Table of Contents\nThe increase in cash and cash equivalents from July 30, 2022, was primarily due to positive cash flows from operations, primarily driven by earnings and the\ntiming and volume of inventory purchases and payments, partially offset by capital expenditures, dividend payments and share repurchases.\nCash Flows\nCash flows were as follows ($ in millions):\nSix Months Ended\nJuly 29, 2023 July 30, 2022\nTotal cash provided by (used in):\nOperating activities $ 181  $ (709)\nInvesting activities (381) (484)\nFinancing activities (560) (861)\nEffect of exchange rate changes on cash and cash equivalents (2) 1\nDecrease in cash, cash equivalents and restricted cash $ (762) $ (2,053)\nOperating Activities\nThe increase in cash provided by operating activities in the first six months of fiscal 2024 was primarily driven by the timing and volume of inventory purchases\nand payments, and lower incentive compensation payments in the current year as a result of less favorable fiscal 2023 results. These impacts were partially\noffset by higher tax payments in the current year, a decrease in deferred revenue and lower earnings in the current-year period.\nInvesting Activities\nCash used in investing activities in the first six months of fiscal 2024 decreased, primarily driven by lower capital spending for initiatives to support our business\nand a decrease in purchases of investments. We currently expect capital expenditures to approximate $850 million in fiscal 2024.\nFinancing Activities\nThe decrease in cash used in financing activities in the first six months of fiscal 2024 was primarily driven by lower share repurchases.\nSources of Liquidity\nFunds generated by operating activities, available cash and cash equivalents, our credit facilities and other debt arrangements are our most significant sources of\nliquidity. We believe our sources of liquidity will be sufficient to fund operations and anticipated capital expenditures, share repurchases, dividends and strategic\ninitiatives, including business combinations. However, in the event our liquidity is insufficient, we may be required to limit our spending. There can be no\nassurance that we will continue to generate cash flows at or above current levels or that we will be able to maintain our ability to borrow under our existing credit\nfacilities or obtain additional financing, if necessary, on favorable terms.\nOn April 12, 2023, we entered into a $1.25 billion five-year senior unsecured revolving credit facility agreement (the “Five-Year Facility Agreement”) with a\nsyndicate of banks. The Five-Year Facility Agreement replaced the previous $1.25 billion senior unsecured revolving credit facility (the “Previous Facility”) with a\nsyndicate of banks, which was entered into in May 2021 and scheduled to expire in May 2026, but was terminated on April 12, 2023. The Five-Year Facility\nAgreement permits borrowings of up to $1.25 billion and expires in April 2028. There were no borrowings outstanding under the Five-Year Facility Agreement as\nof July 29, 2023, or the Previous Facility as of January 28, 2023, or July 30, 2022.\nOur credit ratings and outlook as of August 30, 2023, remained unchanged from those disclosed in our Annual Report on Form 10-K for the fiscal year ended\nJanuary 28, 2023, and are summarized below.\nRating Agency Rating Outlook\nStandard & Poor's BBB+ Stable\nMoody's A3 Stable\nCredit rating agencies review their ratings periodically, and, therefore, the credit rating assigned to us by each agency may be subject to revision at any time.\nFactors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the retail and consumer\nelectronics industries, our financial position and changes in our business strategy. If changes in our credit ratings were to occur, they could impact, among other\nthings, interest costs for certain of our credit facilities, our future borrowing costs, access to capital markets, vendor financing terms and future new-store leasing\ncosts.\n21\n\n---",
+    "chunk_0020": "\nFactors that can affect our credit ratings include changes in our operating performance, the economic environment, conditions in the retail and consumer\nelectronics industries, our financial position and changes in our business strategy. If changes in our credit ratings were to occur, they could impact, among other\nthings, interest costs for certain of our credit facilities, our future borrowing costs, access to capital markets, vendor financing terms and future new-store leasing\ncosts.\n21\n\n---Table of Contents\nRestricted Cash\nOur liquidity is also affected by restricted cash balances that are primarily restricted to cover product protection plans provided under our membership offerings\nand other self-insurance liabilities. Restricted cash, which is included in Other current assets on our Condensed Consolidated Balance Sheets, was $398 million,\n$379 million and $312 million at July 29, 2023, January 28, 2023, and July 30, 2022, respectively. The increases in restricted cash from January 28, 2023, and\nJuly 30, 2022, were primarily due to growth in our paid membership base.\nDebt and Capital\nAs of July 29, 2023, we had $500 million of principal amount of notes due October 1, 2028, and $650 million of principal amount of notes due October 1, 2030.\nRefer to Note 6, Debt, of the Notes to Condensed Consolidated Financial Statements, included in this Quarterly Report on Form 10-Q, and Note 8, Debt, of the\nNotes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2023, for additional information\nabout our outstanding debt.\nShare Repurchases and Dividends\nWe repurchase our common stock and pay dividends pursuant to programs approved by our Board of Directors (“Board”). The payment of cash dividends is also\nsubject to customary legal and contractual restrictions. Our long-term capital allocation strategy is to first fund operations and investments in growth and then\nreturn excess cash over time to shareholders through dividends and share repurchases while maintaining investment-grade credit metrics. Our share repurchase\nplans are evaluated on an ongoing basis, considering factors such as our financial condition and cash flows, our economic outlook, the impact of tax laws, our\nliquidity needs, and the health and stability of global credit markets. The timing and amount of future repurchases may vary depending on such factors.\nOn February 28, 2022, our Board approved a $5.0 billion share repurchase program, which replaced the $5.0 billion share repurchase program authorized on\nFebruary 16, 2021. There is no expiration date governing the period over which we can repurchase shares under this authorization.\nShare repurchase and dividend activity were as follows ($ and shares in millions, except per share amounts):\nThree Months Ended Six Months Ended\nJuly 29, 2023 July 30, 2022 July 29, 2023 July 30, 2022\nTotal cost of shares repurchased $ 69  $ 10  $ 150  $ 452\nAverage price per share $ 76.88  $ 83.71  $ 76.48  $ 96.83\nTotal number of shares repurchased 0.9  0.1  2.0  4.6\nRegular quarterly cash dividend per share $ 0.92  $ 0.88  $ 1.84  $ 1.76\nCash dividends declared and paid $ 200  $ 198  $ 402  $ 397\nThe total cost of shares repurchased increased in the second quarter of fiscal 2024, primarily due to an increase in the volume of repurchases. The total cost of\nshares repurchased decreased in the first six months of fiscal 2024 due to decreases in the volume of repurchases and the average price per share. Cash\ndividends declared and paid increased in the second quarter and first six months of fiscal 2024, primarily due to an increase in the regular quarterly cash dividend\nper share, partially offset by fewer shares outstanding.\nBetween the end of the second quarter of fiscal 2024 on July 29, 2023, and August 30, 2023, we repurchased an incremental 0.3 million shares of our common\nstock at a cost of $25 million. We currently expect to continue share repurchases throughout fiscal 2024, with the level of repurchases being slightly higher in the\nsecond half of the year compared to the first half of the year.\nOther Financial Measures\nOur current ratio, calculated as current assets divided by current liabilities, remained unchanged at 1.0 as of July 29, 2023, January 28, 2023, and July 30, 2022.\nOur debt to earnings ratio, calculated as total debt (including current portion) divided by net earnings over the trailing twelve months increased to 0.9 as of July\n29, 2023, compared to 0.8 as of January 28, 2023, and 0.7 as of July 30, 2022, primarily due to lower net earnings.\nOff-Balance-Sheet Arrangements and Contractual Obligations\nOur liquidity is not dependent on the use of off-balance-sheet financing arrangements other than in connection with our $1.25 billion in undrawn capacity on our\nFive-Year Facility Agreement as of July 29, 2023, which, if drawn upon, would be included in either short-term or long-term debt on our Condensed Consolidated\nBalance Sheets.\n22\n\n---",
+    "chunk_0021": "\n29, 2023, compared to 0.8 as of January 28, 2023, and 0.7 as of July 30, 2022, primarily due to lower net earnings.\nOff-Balance-Sheet Arrangements and Contractual Obligations\nOur liquidity is not dependent on the use of off-balance-sheet financing arrangements other than in connection with our $1.25 billion in undrawn capacity on our\nFive-Year Facility Agreement as of July 29, 2023, which, if drawn upon, would be included in either short-term or long-term debt on our Condensed Consolidated\nBalance Sheets.\n22\n\n---Table of Contents\nThere has been no material change in our contractual obligations other than in the ordinary course of business since the end of fiscal 2023. See our Annual\nReport on Form 10-K for the fiscal year ended January 28, 2023, for additional information regarding our off-balance-sheet arrangements and contractual\nobligations.\nSignificant Accounting Policies and Estimates\nWe describe our significant accounting policies in Note 1, Summary of Significant Accounting Policies, of the Notes to Consolidated Financial Statements, and\nour critical accounting estimates in Item 7, Management’s Discussion and Analysis of Financial Condition and Results of Operations, in our Annual Report on\nForm 10-K for the fiscal year ended January 28, 2023. There have been no significant changes in our significant accounting policies or critical accounting\nestimates since the end of fiscal 2023.\nNew Accounting Pronouncements\nFor a description of applicable new accounting pronouncements, see Note 1, Basis of Presentation, of the Notes to Condensed Consolidated Financial\nStatements, included in this Quarterly Report on Form 10-Q. We do not expect any recently issued accounting pronouncements to have a material effect on our\nfinancial statements.\nSafe Harbor Statement Under the Private Securities Litigation Reform Act\nSection 27A of the Securities Act of 1933, as amended (“Securities Act”), and Section 21E of the Securities Exchange Act of 1934, as amended (“Exchange Act”),\nprovide a “safe harbor” for forward-looking statements to encourage companies to provide prospective information about their companies. With the exception of\nhistorical information, the matters discussed in this Quarterly Report on Form 10-Q are forward-looking statements and may be identified by the use of words\nsuch as “anticipate,” “appear,” “approximate,” “assume,” “believe,” “continue,” “could,” “estimate,” “expect,” “foresee,” “guidance,” “intend,” “may,” “might,”\n“outlook,” “plan,” “possible,” “project,” “seek,” “should,” “would,” and other words and terms of similar meaning or the negatives thereof. Such statements reflect\nour current views and estimates with respect to future market conditions, company performance and financial results, operational investments, business\nprospects, our operating model, new strategies and growth initiatives, the competitive environment, consumer behavior and other events. These statements\ninvolve a number of judgments and are subject to certain risks and uncertainties, many of which are outside the control of the Company, that could cause actual\nresults to differ materially from the potential results discussed in such forward-looking statements. Readers should review Item 1A, Risk Factors, of our most\nrecent Annual Report on Form 10-K, and any updated information in subsequent Quarterly Reports on Form 10-Q, for a description of important factors that could\ncause our actual results to differ materially from those contemplated by the forward-looking statements made in this Quarterly Report on Form 10-Q. Among the\nfactors that could cause actual results and outcomes to differ materially from those contained in such forward-looking statements are the following:\nmacroeconomic pressures in the markets in which we operate (including but not limited to recession, inflation rates, fluctuations in foreign currency exchange\nrates, limitations on a government’s ability to borrow and/or spend capital, fluctuations in housing prices, energy markets, and jobless rates and effects related to\nthe conflict in Ukraine or other geopolitical events); catastrophic events, health crises and pandemics; susceptibility of the products we sell to technological\nadvancements, product life cycle fluctuations and; changes in consumer preferences; competition (including from multi-channel retailers, e-commerce business,\ntechnology service providers, traditional store-based retailers, vendors and mobile network carriers and in the provision of delivery speed and options); our ability\nto attract and retain qualified employees; changes in market compensation rates; our expansion into health and new products, services and technologies; our\nfocus on services as a strategic priority; our reliance on key vendors and mobile network carriers (including product availability); our ability to maintain positive\nbrand perception and recognition; our ability to effectively manage strategic ventures, alliances or acquisitions; our ability to effectively manage our real estate\nportfolio; inability of vendors or service providers to perform components of our supply chain (impacting our stores or other aspects of our operations) and other\nvarious functions of our business; risks arising from and potentially unique to our exclusive brands products; our reliance on our information technology systems,\ninternet and telecommunications access and capabilities; our ability to prevent or effectively respond to a cyber-attack, privacy or security breach; product safety\nand quality concerns; changes to labor or employment laws or regulations; risks arising from statutory, regulatory and legal developments (including statutes\nand/or regulations related to tax or privacy); evolving corporate governance and public disclosure regulations and expectations (including, but not limited to,\ncybersecurity and environmental, social and governance matters) risks arising from our international activities (including those related to the conflict in Ukraine or\nfluctuations in foreign currency exchange rates) and those of our vendors; failure to effectively manage our costs; our dependence on cash flows and net\nearnings generated during the fourth fiscal quarter; pricing investments and promotional activity; economic or regulatory developments that might affect our ability\nto provide attractive promotional financing; constraints in the capital markets; changes to our vendor credit terms; changes in our credit ratings; failure to meet\nfinancial-performance guidance or other forward-looking statements; and general economic uncertainty in key global markets and worsening of global economic\nconditions or low levels of economic growth. We caution that the foregoing list of important factors is not complete. Any forward-looking statements speak only as\nof the date they are made and we assume no obligation to update any forward-looking statement that we may make.\n23\n\n---",
+    "chunk_0022": "\nfinancial-performance guidance or other forward-looking statements; and general economic uncertainty in key global markets and worsening of global economic\nconditions or low levels of economic growth. We caution that the foregoing list of important factors is not complete. Any forward-looking statements speak only as\nof the date they are made and we assume no obligation to update any forward-looking statement that we may make.\n23\n\n---Table of Contents\nItem 3. Quantitative and Qualitative Disclosures About Market Risk\nAs disclosed in our Annual Report on Form 10-K for the fiscal year ended January 28, 2023, in addition to the risks inherent in our operations, we are exposed to\ncertain market risks.\nInterest Rate Risk\nWe are exposed to changes in short-term market interest rates and these changes in rates will impact our net interest expense. Our cash, cash equivalents and\nrestricted cash generate interest income that will vary based on changes in short-term interest rates. In addition, we have swapped a portion of our fixed-rate\ndebt to floating rate such that the interest expense on this debt will vary with short-term interest rates. Refer to Note 1, Summary of Significant Accounting\nPolicies, of the Notes to Consolidated Financial Statements included in our Annual Report on Form 10-K for the fiscal year ended January 28, 2023, for further\ninformation regarding our interest rate swaps.\nAs of July 29, 2023, we had $1.5 billion of cash, cash equivalents and restricted cash and $0.5 billion of debt that has been swapped to floating rate, and\ntherefore the net asset balance exposed to interest rate changes was $1.0 billion. As of July 29, 2023, a 50-basis point increase in short-term interest rates would\nhave led to an estimated $5 million increase in interest income, and conversely a 50-basis point decrease in short-term interest rates would have led to an\nestimated $5 million decrease in interest income.\nForeign Currency Exchange Rate Risk\nWe have market risk arising from changes in foreign currency exchange rates related to operations in our International segment. On a limited basis, we utilize\nforeign exchange forward contracts to manage foreign currency exposure to certain forecasted inventory purchases, recognized receivable and payable balances\nand our investment in our Canadian operations. Refer to Note 1, Summary of Significant Accounting Policies, of the Notes to Consolidated Financial Statements\nincluded in our Annual Report on Form 10-K for the fiscal year ended January 28, 2023, for additional information regarding these instruments.\nIn the second quarter and first six months of fiscal 2024, foreign currency exchange rate fluctuations were primarily driven by the strength of the U.S. dollar\ncompared to the Canadian dollar compared to the prior-year period, which had a negative overall impact on our revenue as this foreign currency revenue\ntranslated into less U.S. dollars. We estimate that foreign currency exchange rate fluctuations had an unfavorable impact on our revenue of approximately $26\nmillion and $72 million in the second quarter and first six months of fiscal 2024, respectively. The impact of foreign exchange rate fluctuations on our net earnings\nin the second quarter and first six months of fiscal 2024 was not significant.\nItem 4. Controls and Procedures\nWe maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in the reports we file or submit under the\nExchange Act is recorded, processed, summarized and reported within the time periods specified in the U.S. Securities and Exchange Commission’s (“SEC”)\nrules and forms, and that such information is accumulated and communicated to our management, including our Chief Executive Officer (principal executive\nofficer) and Chief Financial Officer (principal financial officer), to allow timely decisions regarding required disclosure. We have established a Disclosure\nCommittee, consisting of certain members of management, to assist in this evaluation. The Disclosure Committee meets on a regular quarterly basis and more\noften if necessary.\nOur management, including our Chief Executive Officer and Chief Financial Officer, evaluated the effectiveness of our disclosure controls and procedures (as\ndefined in Rules 13a-15(e) and 15d-15(e) promulgated under the Exchange Act), at July 29, 2023. Based on that evaluation, our Chief Executive Officer and\nChief Financial Officer concluded that, at July 29, 2023, our disclosure controls and procedures were effective.\nThere were no changes in internal control over financial reporting during the fiscal quarter ended July 29, 2023, that have materially affected, or are reasonably\nlikely to materially affect, our internal control over financial reporting.\nPART II — OTHER INFORMATION\nItem 1. Legal Proceedings\nFor information about our legal proceedings, see Note 10, Contingencies, of the Notes to Condensed Consolidated Financial Statements, included in this\nQuarterly Report on Form 10-Q.\n24\n\n---",
+    "chunk_0023": "\nThere were no changes in internal control over financial reporting during the fiscal quarter ended July 29, 2023, that have materially affected, or are reasonably\nlikely to materially affect, our internal control over financial reporting.\nPART II — OTHER INFORMATION\nItem 1. Legal Proceedings\nFor information about our legal proceedings, see Note 10, Contingencies, of the Notes to Condensed Consolidated Financial Statements, included in this\nQuarterly Report on Form 10-Q.\n24\n\n---Table of Contents\nItem 2. Unregistered Sales of Equity Securities, Use of Proceeds and Issuer Purchases of Equity Securities\nc) Stock Repurchases\nOn February 28, 2022, our Board approved a $5.0 billion share repurchase program. There is no expiration date governing the period over which we can\nrepurchase shares under this authorization. For additional information, see Note 9, Repurchase of Common Stock, of the Notes to the Condensed Consolidated\nFinancial Statements included in this Quarterly Report on Form 10-Q.\nFiscal Period\nTotal Number of\nShares Purchased\nAverage Price Paid\nper Share\nTotal Number of Shares\nPurchased as Part of\nPublicly Announced\nProgram\nApproximate Dollar Value\nof Shares that May Yet Be\nPurchased Under the\nProgram\nApril 30, 2023 through May 27, 2023 306,921  $ 72.00 306,921  $ 4,021,000,000\nMay 28, 2023 through July 1, 2023 334,957  $ 77.22 334,957  $ 3,996,000,000\nJuly 2, 2023 through July 29, 2023 254,399  $ 82.30 254,399  $ 3,975,000,000\nTotal fiscal 2024 second quarter\n896,277  $ 76.88\n896,277  $ 3,975,000,000\nItem 5. Other Information\nRule 10b5-1 Plan Elections\nDuring the fiscal quarter ended July 29, 2023, none of the Company's directors or officers (as defined in Rule 16a-1(f) of the Securities Exchange Act of 1934, as\namended), adopted, terminated or modified a Rule 10b5-1 trading arrangement or non-Rule 10b5-1 trading arrangement (as such terms are defined in Item 408\nof Regulation S-K of the Securities Act of 1933, as amended).\nItem 6. Exhibits\n3.1 Amended and Restated Articles of Incorporation (incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K filed by Best Buy Co., Inc. on\nJune 12, 2020).\n3.2 Amended and Restated By-Laws (incorporated herein by reference to Exhibit 3.1 to the Current Report on Form 8-K filed by Best Buy Co., Inc. on June 14,\n2018).\n31.1 Certification of the Chief Executive Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to\nSection 302 of the Sarbanes-Oxley Act of 2002.\n31.2 Certification of the Chief Financial Officer pursuant to Rules 13a-14(a) and 15d-14(a) under the Securities Exchange Act of 1934, as adopted pursuant to\nSection 302 of the Sarbanes-Oxley Act of 2002.\n32.1 Certification of the Chief Executive Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002\n(1)\n.\n32.2 Certification of the Chief Financial Officer pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002\n(1)\n.\n101 The following financial information from our Quarterly Report on Form 10-Q for the second quarter of fiscal 2024, filed with the SEC on September 1, 2023,\nformatted in Inline Extensible Business Reporting Language (“iXBRL”): (i) the Condensed Consolidated Balance Sheets as of July 29, 2023, January 28, 2023,\nand July 30, 2022, (ii) the Condensed Consolidated Statements of Earnings for the three and six months ended July 29, 2023, and July 30, 2022, (iii) the\nCondensed Consolidated Statements of Comprehensive Income for the three and six months ended July 29, 2023, and July 30, 2022, (iv) the Condensed\nConsolidated Statements of Cash Flows for the six months ended July 29, 2023, and July 30, 2022, (v) the Condensed Consolidated Statements of Changes in\nShareholders’ Equity for the three and six months ended July 29, 2023, and July 30, 2022, and (vi) the Notes to Condensed Consolidated Financial Statements.\n104 The cover page from our Quarterly Report on Form 10-Q for the second quarter of fiscal 2024, filed with the SEC on September 1, 2023, formatted in iXBRL\n(included as Exhibit 101).\n(1) The certifications in Exhibit 32.1 and Exhibit 32.2 to this Quarterly Report on Form 10-Q shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or\notherwise subject to liability of that section and shall not be incorporated by reference into any filing or other document pursuant to the Securities Act of 1933, as amended, except as shall be expressly\nset forth by specific reference in such filing or document.\nPursuant to Item 601(b)(4)(iii) of Regulation S-K under the Securities Act of 1933, as amended, the registrant has not filed as exhibits to this Quarterly Report on\nForm 10-Q certain instruments with respect to long-term debt under which the amount of securities authorized does not exceed 10% of the total assets of the\nregistrant. The registrant hereby agrees to furnish copies of all such instruments to the SEC upon request.\n25\n\n---",
+    "chunk_0024": "\nset forth by specific reference in such filing or document.\nPursuant to Item 601(b)(4)(iii) of Regulation S-K under the Securities Act of 1933, as amended, the registrant has not filed as exhibits to this Quarterly Report on\nForm 10-Q certain instruments with respect to long-term debt under which the amount of securities authorized does not exceed 10% of the total assets of the\nregistrant. The registrant hereby agrees to furnish copies of all such instruments to the SEC upon request.\n25\n\n---Table of Contents\nSIGNATURES\nPursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned\nthereunto duly authorized.\nBEST BUY CO., INC.\n(Registrant)\nDate: September 1, 2023 By: /s/ CORIE BARRY\nCorie Barry\nChief Executive Officer\nDate: September 1, 2023 By: /s/ MATTHEW BILUNAS\nMatthew Bilunas\nChief Financial Officer\nDate: September 1, 2023 By: /s/ MATHEW R. WATSON\nMathew R. Watson\nSenior Vice President, Finance – Controller and Chief Accounting Officer\n26\n\n---",
+    "chunk_0025": "\nthereunto duly authorized.\nBEST BUY CO., INC.\n(Registrant)\nDate: September 1, 2023 By: /s/ CORIE BARRY\nCorie Barry\nChief Executive Officer\nDate: September 1, 2023 By: /s/ MATTHEW BILUNAS\nMatthew Bilunas\nChief Financial Officer\nDate: September 1, 2023 By: /s/ MATHEW R. WATSON\nMathew R. Watson\nSenior Vice President, Finance – Controller and Chief Accounting Officer\n26\n\n---Exhibit 31.1\nCERTIFICATION PURSUANT TO\nRULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES\nEXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO\nSECTION 302 OF THE SARBANES-OXLEY ACT OF 2002\nI, Corie Barry, certify that:\n1. I have reviewed this Quarterly Report on Form 10-Q of Best Buy Co., Inc.;\n2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact\nnecessary to make the statements made, in light of the circumstances under which such statements were made, not misleading\nwith respect to the period covered by this report;\n3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material\nrespects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this\nreport;\n4. The registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as\ndefined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act\nRules 13a-15(f) and 15d-15(f)) for the registrant and have:\na) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under\nour supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made\nknown to us by others within those entities, particularly during the period in which this report is being prepared;\nb) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed\nunder our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of\nfinancial statements for external purposes in accordance with generally accepted accounting principles;\nc) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions\nabout the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on\nsuch evaluation; and\nd) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the\nregistrant’s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant’s\ninternal control over financial reporting; and\n5. The registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial\nreporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing equivalent\nfunctions):\na) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which\nare reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information;\nand\nb) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s\ninternal control over financial reporting.\nDate: September 1, 2023 /s/ CORIE BARRY\nCorie Barry\nChief Executive Officer\n\n---",
+    "chunk_0026": "\na) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which\nare reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information;\nand\nb) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s\ninternal control over financial reporting.\nDate: September 1, 2023 /s/ CORIE BARRY\nCorie Barry\nChief Executive Officer\n\n---Exhibit 31.2\nCERTIFICATION PURSUANT TO\nRULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES\nEXCHANGE ACT OF 1934, AS ADOPTED PURSUANT TO\nSECTION 302 OF THE SARBANES-OXLEY ACT OF 2002\nI, Matthew Bilunas, certify that:\n1. I have reviewed this Quarterly Report on Form 10-Q of Best Buy Co., Inc.;\n2. Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact\nnecessary to make the statements made, in light of the circumstances under which such statements were made, not misleading\nwith respect to the period covered by this report;\n3. Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material\nrespects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this\nreport;\n4. The registrant’s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as\ndefined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act\nRules 13a-15(f) and 15d-15(f)) for the registrant and have:\na) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under\nour supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made\nknown to us by others within those entities, particularly during the period in which this report is being prepared;\nb) Designed such internal control over financial reporting, or caused such internal control over financial reporting to be designed\nunder our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of\nfinancial statements for external purposes in accordance with generally accepted accounting principles;\nc) Evaluated the effectiveness of the registrant’s disclosure controls and procedures and presented in this report our conclusions\nabout the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on\nsuch evaluation; and\nd) Disclosed in this report any change in the registrant’s internal control over financial reporting that occurred during the\nregistrant’s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the registrant’s\ninternal control over financial reporting; and\n5. The registrant’s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial\nreporting, to the registrant’s auditors and the audit committee of the registrant’s board of directors (or persons performing equivalent\nfunctions):\na) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which\nare reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information;\nand\nb) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s\ninternal control over financial reporting.\nDate: September 1, 2023 /s/ MATTHEW BILUNAS\nMatthew Bilunas\nChief Financial Officer\n\n---",
+    "chunk_0027": "\nare reasonably likely to adversely affect the registrant’s ability to record, process, summarize and report financial information;\nand\nb) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant’s\ninternal control over financial reporting.\nDate: September 1, 2023 /s/ MATTHEW BILUNAS\nMatthew Bilunas\nChief Financial Officer\n\n---Exhibit 32.1\nCERTIFICATION PURSUANT TO\n18 U.S.C. SECTION 1350,\nAS ADOPTED PURSUANT TO\nSECTION 906 OF THE SARBANES-OXLEY ACT OF 2002\nPursuant to 18 U.S.C. §1350 (adopted pursuant to §906 of the Sarbanes-Oxley Act of 2002), I, the undersigned Chief Executive Officer of Best\nBuy Co., Inc. (the “Company”), hereby certify that the Quarterly Report on Form 10-Q of the Company for the quarterly period ended July 29,\n2023 (the “Report”), fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and\nthat information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the\nCompany.\nA signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and\nfurnished to the Securities and Exchange Commission or its staff upon request.\nDate: September 1, 2023 /s/ CORIE BARRY\nCorie Barry\nChief Executive Officer\n\n---\nExhibit 32.2\nCERTIFICATION PURSUANT TO\n18 U.S.C. SECTION 1350,\nAS ADOPTED PURSUANT TO\nSECTION 906 OF THE SARBANES-OXLEY ACT OF 2002\nPursuant to 18 U.S.C. §1350 (adopted pursuant to §906 of the Sarbanes-Oxley Act of 2002), I, the undersigned Chief Financial Officer of Best\nBuy Co., Inc. (the “Company”), hereby certify that the Quarterly Report on Form 10-Q of the Company for the quarterly period ended July 29,\n2023 (the “Report”), fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act of 1934, as amended, and\nthat information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the\nCompany.\nA signed original of this written statement required by Section 906 has been provided to the Company and will be retained by the Company and\nfurnished to the Securities and Exchange Commission or its staff upon request.\nDate: September 1, 2023 /s/ MATTHEW BILUNAS\nMatthew Bilunas\nChief Financial Officer"
+  }
+}

@@ -1,0 +1,73 @@
+# GraphIndex Default Index Schema
+# Defines the fields LLM extracts for each chunk during indexing.
+# Each field will be injected into the indexer prompt and used by search_index for scoring.
+# Add, remove, or modify fields to adapt to your domain.
+
+fields:
+  - name: section_title
+    description: "Descriptive title summarizing the content of this chunk"
+    type: string
+    search_weight: 3
+
+  - name: key_topics
+    description: "3-6 specific topic tags relevant to this chunk, using domain-appropriate terminology"
+    type: "list[string]"
+    search_weight: 3
+
+  - name: entities
+    description: "Important names, dates, identifiers, or proper nouns mentioned in this chunk"
+    type: "list[string]"
+    search_weight: 2
+
+  - name: has_numeric_data
+    description: "Whether this chunk contains numeric values, measurements, or quantitative data"
+    type: boolean
+    search_weight: 0   # used as a filter flag, not for text scoring
+
+  - name: relevance_hints
+    description: >
+      One precise sentence describing what specific questions this chunk is best suited to answer,
+      including key values or facts it contains. Be specific, not generic.
+    type: string
+    search_weight: 2
+
+# Document-level metadata fields (extracted once per document from the first pages).
+# These are NOT chunk-level fields — they describe the document as a whole.
+# They are stored in doc_meta in the index and shown in the initial agent message.
+doc_fields:
+  - name: doc_type
+    description: "Type of document (e.g. annual report, research paper, legal contract, technical manual)"
+    type: string
+
+  - name: primary_subject
+    description: "Main subject or entity the document is about (e.g. company name, case name, product)"
+    type: string
+
+  - name: time_period
+    description: "Time period covered by this document, if applicable (e.g. FY2023, Q1 2024)"
+    type: string
+
+  - name: doc_summary
+    description: "2 concise sentences summarizing what this document is and its most important content"
+    type: string
+
+# --- Domain-specific extensions (examples, commented out) ---
+# Uncomment and customize for your use case:
+#
+# Financial documents:
+#   - name: fiscal_periods
+#     description: "Fiscal years or quarters for which numeric data appears (e.g. FY2023, FY2022Q1)"
+#     type: "list[string]"
+#     search_weight: 2
+#
+# Legal documents:
+#   - name: legal_citations
+#     description: "Legal case numbers, statute references, or regulatory citations"
+#     type: "list[string]"
+#     search_weight: 3
+#
+# Technical docs:
+#   - name: api_endpoints
+#     description: "API endpoints, function signatures, or method names documented here"
+#     type: "list[string]"
+#     search_weight: 3

@@ -1,0 +1,461 @@
+{
+  "doc_name": "AMCOR_2023Q4_EARNINGS",
+  "source_file": "AMCOR_2023Q4_EARNINGS.md",
+  "total_pages": 14,
+  "total_chunks": 13,
+  "indexed_at": "2026-03-08T11:33:56.722413+00:00",
+  "doc_summary": "Amcor reports fiscal 2023 results and provides an outlook for fiscal 2024. The document highlights key financial figures, including GAAP and adjusted EPS, net sales, and cash returns to shareholders.",
+  "doc_meta": {
+    "doc_type": "earnings report",
+    "primary_subject": "Amcor",
+    "time_period": "fiscal 2023",
+    "doc_summary": "Amcor reports fiscal 2023 results and provides an outlook for fiscal 2024. The document highlights key financial figures, including GAAP and adjusted EPS, net sales, and cash returns to shareholders."
+  },
+  "sections": [
+    {
+      "section_title": "Amcor's Fiscal 2023 Results and Fiscal 2024 Outlook",
+      "key_topics": [
+        "Financial Performance",
+        "Earnings Per Share",
+        "Cash Returns to Shareholders",
+        "Cost Management",
+        "Market Conditions",
+        "Corporate Strategy"
+      ],
+      "entities": [
+        "Amcor",
+        "Ron Delia",
+        "Fiscal 2023",
+        "Fiscal 2024",
+        "June 2023",
+        "12 Months Ended June 30",
+        "US dollars"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides Amcor's fiscal 2023 results including GAAP diluted EPS of 70.5 cps, Adjusted EPS of 73.3 cps, and a fiscal 2024 outlook of Adjusted EPS of 67-71 cents per share.",
+      "chunk_id": "chunk_0000",
+      "chunk_index": 0,
+      "page_range": [
+        1,
+        1
+      ]
+    },
+    {
+      "section_title": "Cash Returns to Shareholders and 2023 Financial Results",
+      "key_topics": [
+        "Cash Returns to Shareholders",
+        "Dividend Information",
+        "Share Repurchases",
+        "Financial Performance",
+        "Non-GAAP Measures",
+        "Segment Information"
+      ],
+      "entities": [
+        "Amcor",
+        "NYSE",
+        "ASX",
+        "USD",
+        "AUD",
+        "September 6, 2023",
+        "September 7, 2023",
+        "September 27, 2023",
+        "June 30, 2022",
+        "June 30, 2023",
+        "Russia",
+        "December 23, 2022"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on Amcor's cash returns to shareholders, including a $1.2 billion total returned in fiscal 2023, a quarterly dividend of 12.25 cents per share, and $431 million spent on share repurchases. It also includes financial results such as net sales of $14,694 million and adjusted EBIT of $1,608 million for the twelve months ended June 30, 2023.",
+      "chunk_id": "chunk_0001",
+      "chunk_index": 1,
+      "page_range": [
+        2,
+        2
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Sales Analysis for Amcor Group",
+      "key_topics": [
+        "GAAP Net Income",
+        "Adjusted EBIT",
+        "Sales Performance",
+        "Currency Impact",
+        "Price/Mix Benefits",
+        "Volume Changes"
+      ],
+      "entities": [
+        "Amcor Group",
+        "Russia",
+        "June 2023",
+        "2022",
+        "North America",
+        "Europe",
+        "Asia Pacific",
+        "China",
+        "India",
+        "Australia",
+        "Latin America"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on Amcor Group's financial performance, including GAAP Net Income of $181 million, Adjusted EBIT of $436 million, and net sales of $3,673 million for the June 2023 quarter, along with insights into sales changes by region and factors affecting sales such as price/mix benefits and volume changes.",
+      "chunk_id": "chunk_0002",
+      "chunk_index": 2,
+      "page_range": [
+        3,
+        3
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Sales Analysis",
+      "key_topics": [
+        "Net Sales",
+        "Adjusted EBIT",
+        "Volume Declines",
+        "Currency Impact",
+        "Price Increases"
+      ],
+      "entities": [
+        "June 30, 2022",
+        "June 30, 2023",
+        "North America",
+        "Latin America",
+        "Asia",
+        "Rigid Packaging",
+        "GAAP",
+        "non-GAAP"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on net sales of $3,540 million (4% higher than last year), adjusted EBIT of $265 million, and volume declines of up to 8% in North America, along with the impact of foreign exchange rates and price increases.",
+      "chunk_id": "chunk_0003",
+      "chunk_index": 3,
+      "page_range": [
+        4,
+        4
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Fiscal 2024 Guidance",
+      "key_topics": [
+        "Tax Expense",
+        "Adjusted Free Cash Flow",
+        "Fiscal 2024 Guidance",
+        "Share Repurchases",
+        "Leverage Ratios",
+        "Earnings Per Share"
+      ],
+      "entities": [
+        "Amcor",
+        "June 30, 2023",
+        "fiscal 2023",
+        "fiscal 2024",
+        "August 16, 2023",
+        "www.amcor.com",
+        "8080870",
+        "US Eastern Daylight Time",
+        "Australian Eastern Standard Time"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides details on Amcor's adjusted tax expense ($250 million vs. $332 million), adjusted free cash flow ($848 million vs. $1,066 million), fiscal 2024 guidance for adjusted EPS (67 to 71 cents per share), and projected adjusted free cash flow ($850 million to $950 million).",
+      "chunk_id": "chunk_0004",
+      "chunk_index": 4,
+      "page_range": [
+        5,
+        5
+      ]
+    },
+    {
+      "section_title": "Contact Information and Company Overview",
+      "key_topics": [
+        "Contact Numbers",
+        "Company Information",
+        "Global Operations",
+        "Investor Relations",
+        "Media Contacts"
+      ],
+      "entities": [
+        "US & Canada",
+        "888 440 4149",
+        "646 960 0661",
+        "Australia",
+        "1800 519 630",
+        "02 9133 7103",
+        "United Kingdom",
+        "0800 358 0970",
+        "020 3433 3846",
+        "Singapore",
+        "+65 3159 5133",
+        "Hong Kong",
+        "+852 3002 3410",
+        "Amcor",
+        "www.amcor.com",
+        "NYSE: AMCR",
+        "ASX: AMC",
+        "Tracey Whitehead",
+        "Damien Bird",
+        "Damon Wright",
+        "James Strong",
+        "Ernesto Duran",
+        "Julie Liedtke",
+        "Citadel-MAGNUS",
+        "Amcor plc",
+        "UK Establishment Address",
+        "83 Tower Road North, Warmley, Bristol, England, BS30 8XP",
+        "UK Overseas Company Number",
+        "BR020803",
+        "Registered Office",
+        "3rd Floor, 44 Esplanade, St Helier, JE4 9WG",
+        "Jersey Registered Company Number",
+        "126984",
+        "Australian Registered Body Number",
+        "ARBN: 630 385 278",
+        "41,000",
+        "$14.7 billion",
+        "218",
+        "41"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides contact numbers for different regions, company details including annual sales of $14.7 billion, employee count of 41,000, and operational locations in 218 sites across 41 countries.",
+      "chunk_id": "chunk_0005",
+      "chunk_index": 5,
+      "page_range": [
+        6,
+        6
+      ]
+    },
+    {
+      "section_title": "Company Information and Forward-Looking Statements",
+      "key_topics": [
+        "Forward-Looking Statements",
+        "Risk Factors",
+        "Non-GAAP Financial Measures"
+      ],
+      "entities": [
+        "Citadel-MAGNUS",
+        "Amcor",
+        "+61 448 881 174",
+        "+41 78 698 69 40",
+        "+1 847 204 2319",
+        "jstrong@citadelmagnus.com",
+        "ernesto.duran@amcor.com",
+        "julie.liedtke@amcor.com",
+        "Amcor plc UK Establishment",
+        "83 Tower Road North, Warmley, Bristol, England, BS30 8XP, United Kingdom",
+        "UK Overseas Company Number: BR020803",
+        "Registered Office: 3rd Floor, 44 Esplanade, St Helier, JE4 9WG, Jersey",
+        "Jersey Registered Company Number: 126984",
+        "Australian Registered Body Number (ARBN): 630 385 278",
+        "U.S. Private Securities Litigation Reform Act of 1995",
+        "SEC",
+        "www.sec.gov",
+        "adjusted EBITDA",
+        "EBITDA",
+        "adjusted EBIT",
+        "EBIT",
+        "adjusted net income",
+        "adjusted earnings per share",
+        "adjusted free cash flow",
+        "net debt"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides company contact information, legal registration details, and a detailed list of risks that could affect Amcor's performance, including specific financial measures like adjusted EBITDA and EBITDA.",
+      "chunk_id": "chunk_0006",
+      "chunk_index": 6,
+      "page_range": [
+        7,
+        7
+      ]
+    },
+    {
+      "section_title": "Tax Related Events and Financial Performance",
+      "key_topics": [
+        "Tax Related Events",
+        "Financial Statements",
+        "Dividends",
+        "GAAP Earnings",
+        "Currency Exchange Rates",
+        "Income Statements"
+      ],
+      "entities": [
+        "Amcor",
+        "ASX",
+        "September 6, 2023",
+        "September 7, 2023",
+        "USD:EUR average FX rate",
+        "2022",
+        "2023",
+        "June 30"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains U.S. GAAP financial data for Amcor, including net sales, income, and earnings per share for the periods ending June 30, 2022, and June 30, 2023, as well as details about a tax-related event involving a dividend waiver.",
+      "chunk_id": "chunk_0007",
+      "chunk_index": 7,
+      "page_range": [
+        8,
+        8
+      ]
+    },
+    {
+      "section_title": "Financial Statements and Sales Growth Analysis",
+      "key_topics": [
+        "Financial Statements",
+        "Cash Flow",
+        "Earnings Per Share",
+        "Sales Growth Analysis",
+        "Balance Sheets",
+        "Foreign Exchange Rates"
+      ],
+      "entities": [
+        "Amcor plc",
+        "USD:EUR average FX rate",
+        "2022",
+        "2023",
+        "June 30"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides financial data including net income, earnings per share, cash flow details, balance sheets, and sales growth analysis for fiscal years 2022 and 2023, with specific values such as net income of $1,058 million for 2023 and a USD:EUR average FX rate of 0.9561.",
+      "chunk_id": "chunk_0008",
+      "chunk_index": 8,
+      "page_range": [
+        9,
+        10
+      ]
+    },
+    {
+      "section_title": "Financial Performance and Reconciliation of Non-GAAP Measures",
+      "key_topics": [
+        "Net Sales",
+        "Growth Metrics",
+        "Non-GAAP Financials",
+        "Currency Impact",
+        "EBITDA",
+        "Free Cash Flow"
+      ],
+      "entities": [
+        "Amcor",
+        "Bemis Integration Plan",
+        "Russia-Ukraine conflict",
+        "South Africa",
+        "2022",
+        "2023",
+        "June 30",
+        "USD",
+        "EBITDA",
+        "EPS",
+        "Free Cash Flow"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data including net sales figures for fiscal years 2022 and 2023, growth percentages, EBITDA, EPS, and Free Cash Flow values for the three months ended June 30, 2022 and 2023.",
+      "chunk_id": "chunk_0009",
+      "chunk_index": 9,
+      "page_range": [
+        11,
+        11
+      ]
+    },
+    {
+      "section_title": "Financial Data and Adjustments for Amcor",
+      "key_topics": [
+        "EBITDA",
+        "Net Income",
+        "Restructuring Costs",
+        "Impairment Charges",
+        "Currency Impact",
+        "Free Cash Flow"
+      ],
+      "entities": [
+        "Durban, South Africa",
+        "July 2021",
+        "June 30, 2022",
+        "June 30, 2023",
+        "Russia-Ukraine conflict",
+        "Amcor",
+        "Bemis Integration Plan",
+        "South Africa facility",
+        "Russian business"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides detailed financial data including EBITDA, Net Income, and EPS figures for the twelve months ended June 30, 2022, and June 30, 2023, along with specific numeric values such as $805 million net income for 2022 and $1,048 million for 2023.",
+      "chunk_id": "chunk_0010",
+      "chunk_index": 10,
+      "page_range": [
+        12,
+        12
+      ]
+    },
+    {
+      "section_title": "Reconciliation of Adjusted EBIT by Reporting Segment",
+      "key_topics": [
+        "EBIT Reconciliation",
+        "Business Segments",
+        "Financial Adjustments",
+        "Currency Impact",
+        "Restructuring Costs",
+        "Impairment Charges"
+      ],
+      "entities": [
+        "Amcor",
+        "Bemis Integration Plan",
+        "Russia-Ukraine conflict",
+        "South Africa",
+        "June 30, 2022",
+        "June 30, 2023",
+        "2019",
+        "2022",
+        "2023"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk provides a reconciliation of adjusted EBIT by reporting segment for the three months ended June 30, 2022 and June 30, 2023, including specific figures such as $109 million for Flexibles in 2022 and $387 million for Flexibles in 2023.",
+      "chunk_id": "chunk_0011",
+      "chunk_index": 11,
+      "page_range": [
+        13,
+        13
+      ]
+    },
+    {
+      "section_title": "Financial Reconciliation and Adjustments",
+      "key_topics": [
+        "Financial Reconciliation",
+        "Business Disposals",
+        "Restructuring Costs",
+        "Currency Impact",
+        "EBIT Analysis"
+      ],
+      "entities": [
+        "Durban, South Africa",
+        "July 2021",
+        "Russia-Ukraine conflict",
+        "Bemis Integration Plan",
+        "South Africa facility",
+        "Amcor",
+        "Fiscal year 2022",
+        "Fiscal year 2023",
+        "June 30, 2022",
+        "June 30, 2023"
+      ],
+      "has_numeric_data": true,
+      "relevance_hints": "This chunk contains numeric data on EBIT, net debt, and specific financial impacts such as the destruction of the Durban, South Africa facility in July 2021, and the Russia-Ukraine conflict impacts.",
+      "chunk_id": "chunk_0012",
+      "chunk_index": 12,
+      "page_range": [
+        14,
+        14
+      ]
+    }
+  ],
+  "_chunk_texts": {
+    "chunk_0000": "Amcor reports fiscal 2023 results and provides outlook for fiscal 2024\nJune 2023 quarter:\nGAAP diluted EPS of 12.3 cps; Adjusted EPS of 19.3 cps\nFiscal 2023 Full Year Highlights\n• Net sales of $14,694 million, in line with the prior year on a comparable constant currency basis;\n• GAAP Net Income of $1,048 million; GAAP diluted earnings per share (EPS) of 70.5 cps;\n• Adjusted EPS of 73.3 cps and Adjusted Free Cash Flow of $848 million, in line with guidance provided in\nMay. Adjusted EBIT of $1,608 million;\n• Strong total cash returns to shareholders of $1.2 billion: annual dividend increased to 49.0 cents per\nshare; $431 million of shares repurchased (approximately 3% of outstanding shares); and\n• Fiscal 2024 outlook: Adjusted EPS of 67-71 cents per share. Adjusted Free Cash Flow of $850-950\nmillion.\nAmcor CEO Ron Delia said: “Throughout fiscal 2023, our teams did an excellent job proactively recovering\ninflation and reducing costs in a highly challenging environment. Adjusted EBIT grew modestly in comparable\nconstant currency terms and we returned $1.2 billion of cash to shareholders. After delivering earnings growth\nof 8% in the first half, demand softened considerably and customer destocking persisted through the last two\nquarters of the year.\nWhile we expect current market conditions to continue in the near-term, we have visibility to a number of\ncontrollable factors we believe will support a return to solid earnings growth in the second half of fiscal 2024 and\nleave us well placed to grow at our long term trend of high-single digit rates thereafter. We are pricing to\ncompensate for inflation and we expect benefits from our cost reduction and productivity initiatives will have a\nfavorable and sustainable impact on operating leverage. In addition, we expect the headwinds from the sale of\nour Russian plants and higher interest expense will be largely limited to the first half.\nWe remain focused on our long-term growth strategy and will continue to pursue opportunities to invest in the\nbusiness, particularly through innovation and sustainability initiatives in faster growing, higher value markets.\nWe will also continue pursuing value-creating M&A and returning cash to shareholders through share\nrepurchases and a compelling and growing dividend.”\nKey Financials(1)\nTwelve Months Ended June 30,\nGAAP results 2022 $ million 2023 $ million\nNet sales 14,544 14,694\nNet income 805 1,048\nEPS (diluted US cents) 52.9 70.5\nTwelve Months Ended June 30,\nReported ∆%\nComparable\nconstant\nAdjusted non-GAAP results 2022 $ million 2023 $ million currency ∆%\nNet sales 14,544 14,694 1 —\nEBITDA 2,117 2,018 (5) 1\nEBIT 1,701 1,608 (5) 1\nNet income 1,224 1,089 (11) (4)\nEPS (diluted US cents) 80.5 73.3 (9) (2)\nFree Cash Flow 1,066 848\n(1) Adjusted non-GAAP results exclude items which are not considered representative of ongoing operations. Comparable constant currency ∆%\nexcludes the impact of movements in foreign exchange rates and items affecting comparability. Further details related to non-GAAP measures and\nreconciliations to GAAP measures can be found under \"Presentation of non-GAAP information” in this release.\nNote: All amounts referenced throughout this document are in US dollars unless otherwise indicated and numbers may not add up precisely to the\ntotals provided due to rounding.\n1\n\n---",
+    "chunk_0001": "\nexcludes the impact of movements in foreign exchange rates and items affecting comparability. Further details related to non-GAAP measures and\nreconciliations to GAAP measures can be found under \"Presentation of non-GAAP information” in this release.\nNote: All amounts referenced throughout this document are in US dollars unless otherwise indicated and numbers may not add up precisely to the\ntotals provided due to rounding.\n1\n\n---Cash Returns to Shareholders\nAmcor generates significant annual cash flow, maintains strong credit metrics, and is committed to an investment\ngrade credit rating. The Company's strong annual cash flow and balance sheet provide substantial capacity to reinvest\nin the business for organic growth, pursue acquisitions, and return cash to shareholders through a compelling and\ngrowing dividend as well as regular share repurchases.\nDuring fiscal 2023, the Company returned approximately $1.2 billion to shareholders through cash dividends and share\nrepurchases in addition to completing three bolt-on acquisitions.\nDividend\nThe Amcor Board of Directors today declared a quarterly cash dividend of 12.25 cents per share (compared with 12.0\ncents per share in the same quarter last year). Combined with the last three quarterly dividends, this increases the\nannual dividend for fiscal 2023 to 49.0 cents per share. The quarterly dividend declared today will be paid in US\ndollars to holders of Amcor’s ordinary shares trading on the NYSE. Holders of CDIs trading on the ASX will receive an\nunfranked dividend of 18.77 Australian cents per share, which reflects the quarterly dividend of 12.25 cents per share\nconverted at an average AUD:USD exchange rate of 0.6526 over the five trading days ended August 14, 2023.\nThe ex-dividend date will be September 6, 2023, the record date will be September 7, 2023, and the payment date will\nbe September 27, 2023.\nShare repurchases\nAmcor repurchased approximately 41 million shares (approximately 3% of total shares issued and outstanding) during\nfiscal 2023 for a total cost of $431 million.\nAmcor expects to allocate approximately $70 million of cash towards share repurchases in fiscal 2024, as part of the\nprogram previously announced in fiscal 2023.\n2023 financial results\nSegment Information\nTwelve Months Ended June 30, 2022 Twelve Months Ended June 30, 2023\nAdjusted non-GAAP\nresults\nNet sales\n$ million\nEBIT\n$ million\nEBIT /\nSales %\nEBIT / Average\nfunds employed\n%\n(1)\nNet sales\n$ million\nEBIT\n$ million\nEBIT /\nSales %\nEBIT / Average\nfunds employed\n%\n(1)\nFlexibles 11,151 1,517 13.6 11,154 1,429 12.8\nRigid Packaging 3,393 289 8.5 3,540 265 7.5\nOther(2) — (105) — (86)\nTotal Amcor 14,544 1,701 11.7 16.3 14,694 1,608 10.9 15.4\n(1) Return on average funds employed includes shareholders' equity and net debt, calculated using a four quarter average and Last Twelve Months\nadjusted EBIT.\n(2) Represents corporate expenses.\nTwelve months ended June 30, 2023\nNet sales for the Amcor Group increased by 1% on a reported basis, which includes an unfavorable impact of\napproximately 3% related to movements in foreign exchange rates, an unfavorable impact of approximately 1% related\nto items affecting comparability, and price increases of approximately $775 million (representing 5% growth) related to\nthe pass through of higher raw material costs.\nNet sales on a comparable constant currency basis were in line with the prior year, largely reflecting price/mix benefits\nof approximately 3%. Full year volumes were approximately 3% lower than last year.\nGAAP Net Income was $1,048 million and includes a $215 million gain on the sale of Amcor's business in Russia on\nDecember 23, 2022. Adjusted EBIT of $1,608 million was 1% higher than last year on a comparable constant currency\nbasis. Adjusted EBIT margin of 10.9% includes an adverse impact of approximately 90 basis points related to\nincreased sales dollars associated with passing through higher raw material costs and general inflation.\n2\n\n---",
+    "chunk_0002": "\nGAAP Net Income was $1,048 million and includes a $215 million gain on the sale of Amcor's business in Russia on\nDecember 23, 2022. Adjusted EBIT of $1,608 million was 1% higher than last year on a comparable constant currency\nbasis. Adjusted EBIT margin of 10.9% includes an adverse impact of approximately 90 basis points related to\nincreased sales dollars associated with passing through higher raw material costs and general inflation.\n2\n\n---June 2023 quarter\nNet sales for the Amcor Group of $3,673 million were 6% lower than last year on a reported basis. This includes an\nunfavorable impact of approximately 2% related to items affecting comparability and price increases of approximately\n$25 million (representing 1% growth) related to the pass through of higher raw material costs. Movements in foreign\nexchange rates had no material impact on net sales for the quarter.\nNet sales on a comparable constant currency basis were approximately 5% lower than the same period last year.\nVolumes were approximately 7% lower than last year. This was partly offset by price/mix benefits of approximately\n2%.\nGAAP Net Income was $181 million. Adjusted EBIT of $436 million was approximately 7% lower than last year on a\ncomparable constant currency basis.\nFlexibles Twelve Months Ended June 30,\nReported\n∆%\nComparable\nconstant\n2022 $ million 2023 $ million currency ∆%\nNet sales 11,151 11,154 — 1\nAdjusted EBIT 1,517 1,429 (6) 1\nAdjusted EBIT / Sales % 13.6 12.8\nTwelve months ended June 30, 2023\nNet sales of $11,154 million were in line with last year on a reported basis, including an unfavorable impact of\napproximately 4% related to movements in foreign exchange rates, an unfavorable impact of approximately 2% related\nto items affecting comparability, and price increases of approximately $515 million (representing 5% growth) related to\nthe pass through of higher raw material costs. On a comparable constant currency basis, net sales were\napproximately 1% higher than last year reflecting price/mix benefits of 4%, partly offset by approximately 3% lower\nvolumes.\nIn North America, net sales were marginally lower than the prior year driven by lower volumes, partly offset by price/\nmix benefits. Volumes were higher in the healthcare, pet care, cheese, and home and personal care categories, and\nthis was more than offset by lower volumes in categories including condiments, meat, and ready meals.\nIn Europe, net sales grew in the low single digit range driven by price/mix benefits, partly offset by lower volumes.\nVolumes were lower in the coffee, home and personal care, yogurt and confectionary categories. This was partly offset\nby higher volumes in the pet care and pharmaceutical categories.\nNet sales were in line with the prior year across the Asia Pacific region, with price/mix benefits offset by lower volumes.\nVolumes were lower in China where demand was unfavorably impacted by COVID-19 related lockdowns. Sales\ngrowth remained strong in India, Australia, and the pan-Asian healthcare and meat end markets. In Latin America, net\nsales declined in the low single digit range driven by lower volumes, partly offset by price/mix benefits.\nAdjusted EBIT of $1,429 million was 1% higher than in the prior period on a comparable constant currency basis,\nreflecting favorable operating cost performance, partly offset by the impact of lower volumes and unfavorable mix\ntrends.\nAdjusted EBIT margin of 12.8% includes an adverse impact of approximately 100 basis points related to the increased\nsales dollars associated with passing through higher raw material costs and general inflation.\nJune 2023 quarter\nNet sales of $2,777 million were 6% lower than last year on a reported basis, including a favorable impact of\napproximately 1% related to movements in foreign exchange rates, an unfavorable impact of approximately 3% related\nto items affecting comparability, and price increases of approximately $25 million (representing 1% growth) related to\nthe pass through of higher raw material costs. On a comparable constant currency basis, net sales were approximately\n5% lower than last year reflecting approximately 7% lower volumes, partly offset by price/mix benefits of 2%.\n3\n\n---",
+    "chunk_0003": "\napproximately 1% related to movements in foreign exchange rates, an unfavorable impact of approximately 3% related\nto items affecting comparability, and price increases of approximately $25 million (representing 1% growth) related to\nthe pass through of higher raw material costs. On a comparable constant currency basis, net sales were approximately\n5% lower than last year reflecting approximately 7% lower volumes, partly offset by price/mix benefits of 2%.\n3\n\n---Volume weakness was broad based with high single digit declines across the European and North American markets,\nand a mid single digit decline in Latin America. The volume decline in these regions reflects soft consumer demand as\nwell as customer destocking. In Asia, overall volumes were in line with the same quarter last year.\nAdjusted EBIT of $387 million was lower than the same quarter last year on a comparable constant currency basis,\nreflecting lower volumes and heightened volatility in customer order patterns, unfavorable mix trends, and ongoing cost\ninflation. These unfavorable impacts were partly offset by benefits from price and cost reduction initiatives.\nRigid Packaging Twelve Months Ended June 30, Reported\n∆%\nComparable\nconstant\n2022 $ million 2023 $ million currency ∆%\nNet sales 3,393 3,540 4 (3)\nAdjusted EBIT 289 265 (8) (7)\nAdjusted EBIT / Sales % 8.5 7.5\nTwelve months ended June 30, 2023\nNet sales of $3,540 million were 4% higher than last year on a reported basis, including an unfavorable impact of\napproximately 1% related to movements in foreign exchange rates and price increases of approximately $260 million\n(representing 8% growth) related to the pass through of higher raw material costs. On a comparable constant currency\nbasis, net sales were approximately 3% lower than last year, reflecting price/mix benefits of approximately 1% offset by\napproximately 4% lower volumes.\nIn North America, overall beverage volumes were 6% lower than last year. Hot fill beverage container volumes were in\nline with the prior year as new business wins in key categories offset unfavorable consumer demand and customer\ndestocking. Combined preform and cold fill container volumes were lower than the prior year. Overall specialty\ncontainer volumes were lower than the prior year with growth in the healthcare, dairy and nutrition categories offset by\nweaker volumes in the food and home and personal care categories.\nIn Latin America, volumes declined at low single digit rates which reflects challenging economic conditions across the\nregion.\nAdjusted EBIT of $265 million was lower than the prior year on a comparable constant currency basis, reflecting lower\nvolumes and unfavorable mix trends, partly offset by favorable operating cost performance.\nAdjusted EBIT margin of 7.5% includes an adverse impact of approximately 80 basis points related to the increased\nsales dollars associated with passing through higher raw material costs and general inflation.\nJune 2023 quarter\nNet sales of $897 million were 5% lower than the same quarter last year on a reported basis including an unfavorable\nimpact of 1% related to movements in foreign exchange rates. On a comparable constant currency basis, net sales\nwere 4% lower than last year reflecting approximately 6% lower volumes, partly offset by price/mix benefits of\napproximately 2%.\nIn North America, overall beverage volumes were 8% lower than the same quarter last year as a result of lower\nconsumer demand and customer destocking more than offsetting new business wins. June 2023 quarter hot fill\nbeverage container volumes were 6% lower than last year, broadly in line with the market.\nAdjusted EBIT of $73 million was lower than the same quarter last year on a comparable constant currency basis,\nreflecting lower volumes and heightened volatility in customer order patterns, unfavorable mix trends, and ongoing cost\ninflation. These unfavorable impacts were partly offset by benefits from price and cost reduction initiatives.\nNet interest and income tax expense\nFor the year ended June 30, 2023, net interest expense of $259 million was $124 million higher than the same period\nlast year, reflecting higher interest rates. GAAP income tax expense was $193 million compared with $300 million last\nyear. Excluding amounts related to non-GAAP adjustments, adjusted tax expense for the year ended June 30, 2023\nwas $250 million compared with $332 million in the prior year. Adjusted tax expense represents an effective tax rate of\n18.5% which is lower than 21.2% last year, primarily due to differences in the mix of taxable income and discrete items\nin both periods.\n4\n\n---",
+    "chunk_0004": "\nlast year, reflecting higher interest rates. GAAP income tax expense was $193 million compared with $300 million last\nyear. Excluding amounts related to non-GAAP adjustments, adjusted tax expense for the year ended June 30, 2023\nwas $250 million compared with $332 million in the prior year. Adjusted tax expense represents an effective tax rate of\n18.5% which is lower than 21.2% last year, primarily due to differences in the mix of taxable income and discrete items\nin both periods.\n4\n\n---Adjusted Free Cash Flow\nAdjusted Free Cash Flow for fiscal 2023 was $848 million and compares with $1,066 million last year. The year over\nyear variance largely reflects higher interest payments and lower accounts payable balances resulting from moderated\npurchasing activities due to lower demand and inventory reduction initiatives. June 2023 quarter Adjusted Free Cash\nFlow of $834 million compares with $803 million in the same quarter last year.\nNet debt was $6,057 million at June 30, 2023. Leverage, measured as net debt divided by adjusted trailing twelve\nmonth EBITDA, was 3.0 times and in line with the Company's expectations.\nFiscal 2024 Guidance\nFor the twelve-month period ending June 30, 2024, the Company expects:\n• Adjusted EPS of 67 to 71 cents per share which includes:\n• Comparable constant currency earnings which includes underlying business performance down low single\ndigit % to up low single digit %, a benefit of approximately 2% from share repurchases, and a negative\nimpact of approximately 6% related to higher estimated net interest and tax expense;\n• A negative impact of approximately 3% related to the sale of the Company's three plants in Russia on\nDecember 23, 2022; and\n• A benefit of approximately 2% related to currency translation, assuming current rates prevail through the\nbalance of fiscal 2024.\n• The Company expects adjusted EPS on a reported basis in the first half of fiscal 2024 to be down in the\nmid-teens % compared with the first half of fiscal 2023, primarily due to lower volumes and the residual\nheadwinds related to the sale of the Russia plants and higher interest expense. In the second half of fiscal\n2024, adjusted EPS is expected to be up mid-single digits % compared with the second half of fiscal 2023,\nbenefiting in-part from structural cost saving initiatives and increased earnings leverage resulting from\nprice and cost actions taken in fiscal 2023 and 2024.\n• Adjusted Free Cash Flow of approximately $850 million to $950 million, representing solid growth over fiscal\n2023.\n• Approximately $70 million of cash to be allocated towards share repurchases as part of the program previously\nannounced in fiscal 2023.\nAmcor's guidance contemplates a range of factors which create a degree of uncertainty and additional complexity\nwhen estimating future financial results. Further information can be found under 'Cautionary Statement Regarding\nForward-Looking Statements' in this release.\nConference Call\nAmcor is hosting a conference call with investors and analysts to discuss these results on Wednesday August 16, 2023\nat 5:30pm US Eastern Daylight Time / Thursday August 17, 2023 at 7:30am Australian Eastern Standard Time.\nInvestors are invited to listen to a live webcast of the conference call at our website, www.amcor.com, in the “Investors”\nsection.\nThose wishing to access the call should use the following toll-free numbers, with the Conference ID : 8080870\n• US & Canada – 888 440 4149 (toll free), 646 960 0661 (local)\n• Australia – 1800 519 630 (toll free), 02 9133 7103 (local)\n• United Kingdom – 0800 358 0970 (toll free), 020 3433 3846 (local)\n• Singapore – +65 3159 5133 (local number)\n• Hong Kong – +852 3002 3410 (local number)\nFrom all other countries, the call can be accessed by dialing +1 646 960 0661 (toll).\nA replay of the webcast will also be available on www.amcor.com following the call.\n5\n\n---",
+    "chunk_0005": "\n• US & Canada – 888 440 4149 (toll free), 646 960 0661 (local)\n• Australia – 1800 519 630 (toll free), 02 9133 7103 (local)\n• United Kingdom – 0800 358 0970 (toll free), 020 3433 3846 (local)\n• Singapore – +65 3159 5133 (local number)\n• Hong Kong – +852 3002 3410 (local number)\nFrom all other countries, the call can be accessed by dialing +1 646 960 0661 (toll).\nA replay of the webcast will also be available on www.amcor.com following the call.\n5\n\n---About Amcor\nAmcor is a global leader in developing and producing responsible packaging solutions for food, beverage,\npharmaceutical, medical, home and personal-care, and other products. Amcor works with leading companies around\nthe world to protect their products, differentiate brands, and improve supply chains through a range of flexible and rigid\npackaging, specialty cartons, closures and services. The company is focused on making packaging that is increasingly\nlight-weighted, recyclable and reusable, and made using an increasing amount of recycled content. In fiscal year 2023,\n41,000 Amcor people generated $14.7 billion in annual sales from operations that span 218 locations in 41 countries.\nNYSE: AMCR; ASX: AMC\nwww.amcor.com I LinkedIn I Facebook I Twitter I YouTube\nContact Information\nInvestors\nTracey Whitehead Damien Bird Damon Wright\nHead of Investor Relations Vice President Investor Relations Vice President Investor Relations\nAmcor Amcor Amcor\n+61 3 9226 9028 +61 3 9226 9070 +1 224 313 7141\ntracey.whitehead@amcor.com damien.bird@amcor.com damon.wright@amcor.com\nMedia - Australia Media - Europe Media - North America\nJames Strong Ernesto Duran Julie Liedtke\nHead of Global Communications Director, Media Relations\nCitadel-MAGNUS Amcor Amcor\n+61 448 881 174 +41 78 698 69 40 +1 847 204 2319\njstrong@citadelmagnus.com ernesto.duran@amcor.com julie.liedtke@amcor.com\nAmcor plc UK Establishment Address: 83 Tower Road North, Warmley, Bristol, England, BS30 8XP, United Kingdom\nUK Overseas Company Number: BR020803\nRegistered Office: 3rd Floor, 44 Esplanade, St Helier, JE4 9WG, Jersey\nJersey Registered Company Number: 126984, Australian Registered Body Number (ARBN): 630 385 278\n6\n\n---",
+    "chunk_0006": "\nCitadel-MAGNUS Amcor Amcor\n+61 448 881 174 +41 78 698 69 40 +1 847 204 2319\njstrong@citadelmagnus.com ernesto.duran@amcor.com julie.liedtke@amcor.com\nAmcor plc UK Establishment Address: 83 Tower Road North, Warmley, Bristol, England, BS30 8XP, United Kingdom\nUK Overseas Company Number: BR020803\nRegistered Office: 3rd Floor, 44 Esplanade, St Helier, JE4 9WG, Jersey\nJersey Registered Company Number: 126984, Australian Registered Body Number (ARBN): 630 385 278\n6\n\n---Cautionary Statement Regarding Forward-Looking Statements\nThis document contains certain statements that are “forward-looking statements” within the meaning of the safe harbor provisions of the U.S. Private\nSecurities Litigation Reform Act of 1995. Forward-looking statements are generally identified with words like “believe,” “expect,” “target,” “project,”\n“may,” “could,” “would,” “approximately,” “possible,” “will,” “should,” “intend,” “plan,” “anticipate,” \"commit,\" “estimate,” “potential,” \"ambitions,\" “outlook,”\nor “continue,” the negative of these words, other terms of similar meaning, or the use of future dates. Such statements are based on the current\nexpectations of the management of Amcor and are qualified by the inherent risks and uncertainties surrounding future expectations generally. Actual\nresults could differ materially from those currently anticipated due to a number of risks and uncertainties. None of Amcor or any of its respective\ndirectors, executive officers, or advisors provide any representation, assurance, or guarantee that the occurrence of the events expressed or implied\nin any forward-looking statements will actually occur. Risks and uncertainties that could cause actual results to differ from expectations include, but\nare not limited to: changes in consumer demand patterns and customer requirements; the loss of key customers, a reduction in production\nrequirements of key customers; significant competition in the industries and regions in which Amcor operates; failure by Amcor to expand its business;\nchallenging current and future global economic conditions, including the Russia-Ukraine conflict and inflation; impact of operating internationally; price\nfluctuations or shortages in the availability of raw materials, energy, and other inputs; disruptions to production, supply, and commercial risks,\nincluding counterparty credit risks, which may be exacerbated in times of economic volatility; pandemics, epidemics, or other disease outbreaks; an\ninability to attract and retain our global executive management team and our skilled workforce; costs and liabilities related to environment, health, and\nsafety (\"EHS\") laws and regulations as well as changes in the global climate; labor disputes and an inability to renew collective bargaining agreements\nat acceptable terms; risks related to climate change; cybersecurity risks; failures or disruptions in information technology systems; rising interest rates;\na significant increase in indebtedness or a downgrade in the credit rating; foreign exchange rate risk; a significant write-down of goodwill and/or other\nintangible assets; failure to maintain an effective system of internal control over financial reporting; inability of Amcor's insurance policies to provide\nadequate protections; challenges to or the loss of intellectual property rights; litigation, including product liability claims or regulatory developments;\nincreasing scrutiny and changing expectations from investors, customers, and governments with respect to Amcor's Environmental, Social and\nGovernance practices and commitments resulting in increased costs; changing government regulations in environmental, health, and safety matters;\nchanges in tax laws or changes in our geographic mix of earnings; and other risks and uncertainties identified from time to time in Amcor’s filings with\nthe U.S. Securities and Exchange Commission (the “SEC”), including without limitation, those described under Item 1A. “Risk Factors” of Amcor’s\nannual report on Form 10-K for the fiscal year ended June 30, 2022 and any subsequent quarterly reports on Form 10-Q. You can obtain copies of\nAmcor’s filings with the SEC for free at the SEC’s website (www.sec.gov). Forward-looking statements included herein are made only as of the date\nhereof and Amcor does not undertake any obligation to update any forward-looking statements, or any other information in this communication, as a\nresult of new information, future developments or otherwise, or to correct any inaccuracies or omissions in them which become apparent, except as\nexpressly required by law. All forward-looking statements in this communication are qualified in their entirety by this cautionary statement.\nPresentation of non-GAAP information\nIncluded in this release are measures of financial performance that are not calculated in accordance with U.S. GAAP. These measures include\nadjusted EBITDA and EBITDA (calculated as earnings before interest and tax and depreciation and amortization), adjusted EBIT and EBIT (calculated\nas earnings before interest and tax), adjusted net income, adjusted earnings per share, adjusted free cash flow and net debt. In arriving at these non￾GAAP measures, we exclude items that either have a non-recurring impact on the income statement or which, in the judgment of our management,\nare items that, either as a result of their nature or size, could, were they not singled out, potentially cause investors to extrapolate future performance\nfrom an improper base. Note that while amortization of acquired intangible assets is excluded from non-GAAP adjusted financial measures, the\nrevenue of the acquired entities and all other expenses unless otherwise stated, are reflected in our non-GAAP financial performance earnings\nmeasures. While not all inclusive, examples of these items include:\n• material restructuring programs, including associated costs such as employee severance, pension and related benefits, impairment of\nproperty and equipment and other assets, accelerated depreciation, termination payments for contracts and leases, contractual obligations,\nand any other qualifying costs related to restructuring plans;\n• material sales and earnings from disposed or ceased operations and any associated profit or loss on sale of businesses or subsidiaries;\n• changes in the fair value of economic hedging instruments on commercial paper;\n• significant pension settlements;\n• impairments in goodwill and equity method investments;\n• material acquisition compensation and transaction costs such as due diligence expenses, professional and legal fees, and integration costs;\n• material purchase accounting adjustments for inventory;\n• amortization of acquired intangible assets from business combination;\n• gains or losses on significant property and divestitures and significant property and other impairments, net of insurance recovery;\n• certain regulatory and legal matters;\n• impacts from hyperinflation accounting; and\n• impacts related to the Russia-Ukraine conflict.\nAmcor also evaluates performance on a comparable constant currency basis, which measures financial results assuming constant foreign currency\nexchange rates used for translation based on the average rates in effect for the comparable prior year period. In order to compute comparable\nconstant currency results, we multiply or divide, as appropriate, current-year U.S. dollar results by the current year average foreign exchange rates\nand then multiply or divide, as appropriate, those amounts by the prior-year average foreign exchange rates. We then adjust for other items affecting\ncomparability. While not all inclusive, examples of items affecting comparability include the difference between sales or earnings in the current period\nand the prior period related to acquired, disposed, or ceased operations. Comparable constant currency net sales performance also excludes the\nimpact from passing through movements in raw material costs.\nManagement has used and uses these measures internally for planning, forecasting and evaluating the performance of the Company’s reporting\nsegments and certain of the measures are used as a component of Amcor’s Board of Directors’ measurement of Amcor’s performance for incentive\ncompensation purposes. Amcor believes that these non-GAAP measures are useful to enable investors to perform comparisons of current and\nhistorical performance of the Company. For each of these non-GAAP financial measures, a reconciliation to the most directly comparable U.S. GAAP\nfinancial measure has been provided herein. These non-GAAP financial measures should not be construed as an alternative to results determined in\naccordance with U.S. GAAP. The Company provides guidance on a non-GAAP basis as we are unable to predict with reasonable certainty the\nultimate outcome and timing of certain significant forward-looking items without unreasonable effort. These items include but are not limited to the\nimpact of foreign exchange translation, restructuring program costs, asset impairments, possible gains and losses on the sale of assets, and certain\ntax related events. These items are uncertain, depend on various factors, and could have a material impact on U.S. GAAP earnings and cash flow\nmeasures for the guidance period.\nDividends\nAmcor has received a waiver from the ASX’s settlement operating rules, which will allow the Company to defer processing conversions between its\nordinary share and CDI registers from September 6, 2023 to September 7, 2023 inclusive.\n7\n\n---",
+    "chunk_0007": "\ntax related events. These items are uncertain, depend on various factors, and could have a material impact on U.S. GAAP earnings and cash flow\nmeasures for the guidance period.\nDividends\nAmcor has received a waiver from the ASX’s settlement operating rules, which will allow the Company to defer processing conversions between its\nordinary share and CDI registers from September 6, 2023 to September 7, 2023 inclusive.\n7\n\n---U.S. GAAP Condensed Consolidated Statements of Income (Unaudited)\nThree Months Ended June 30, Twelve Months Ended June 30,\n($ million, except per share amounts) 2022 2023 2022 2023\nNet sales 3,909 3,673 14,544 14,694\nCost of sales (3,115) (2,951) (11,724) (11,969)\nGross profit 794 722 2,820 2,725\nSelling, general, and administrative expenses (342) (329) (1,284) (1,246)\nResearch and development expenses (24) (25) (96) (101)\nRestructuring, impairment and other related activities, net (207) (59) (234) 104\nOther income, net 31 16 33 26\nOperating income 252 325 1,239 1,508\nInterest expense, net (35) (70) (135) (259)\nOther non-operating income/(expense), net (1) (3) 11 2\nIncome before income taxes 216 252 1,115 1,251\nIncome tax expense (104) (68) (300) (193)\nNet income 112 184 815 1,058\nNet income attributable to non-controlling interests (3) (4) (10) (10)\nNet income attributable to Amcor plc 109 181 805 1,048\nUSD:EUR average FX rate 0.9391 0.9185 0.8881 0.9561\nBasic earnings per share attributable to Amcor 0.074 0.124 0.532 0.709\nDiluted earnings per share attributable to Amcor 0.073 0.123 0.529 0.705\nWeighted average number of shares outstanding – Basic 1,487 1,452 1,509 1,468\nWeighted average number of shares outstanding – Diluted 1,499 1,456 1,516 1,476\n8\n\n---",
+    "chunk_0008": "\nNet income 112 184 815 1,058\nNet income attributable to non-controlling interests (3) (4) (10) (10)\nNet income attributable to Amcor plc 109 181 805 1,048\nUSD:EUR average FX rate 0.9391 0.9185 0.8881 0.9561\nBasic earnings per share attributable to Amcor 0.074 0.124 0.532 0.709\nDiluted earnings per share attributable to Amcor 0.073 0.123 0.529 0.705\nWeighted average number of shares outstanding – Basic 1,487 1,452 1,509 1,468\nWeighted average number of shares outstanding – Diluted 1,499 1,456 1,516 1,476\n8\n\n---U.S. GAAP Condensed Consolidated Statements of Cash Flows (Unaudited)\nTwelve Months Ended June 30,\n($ million) 2022 2023\nNet income 815 1,058\nDepreciation, amortization, and impairment 625 586\nRussia and Ukraine impairment 138 —\nNet gain on disposal of businesses and investments — (220)\nChanges in operating assets and liabilities, excluding effect of acquisitions, divestitures, and\ncurrency (207) (265)\nOther non-cash items 155 102\nNet cash provided by operating activities 1,526 1,261\nPurchase of property, plant, and equipment and other intangible assets (527) (526)\nProceeds from sales of property, plant, and equipment and other intangible assets 18 30\nBusiness acquisitions and Investments in affiliated companies, and other (12) (177)\nProceeds/(payments) from divestitures (1) 365\nNet debt proceeds 476 228\nDividends paid (732) (723)\nShare buy-back/cancellations (601) (432)\nTreasury shares purchases, net (29) (87)\nCash and cash equivalents classified as held for sale (75) —\nOther, including effects of exchange rate on cash and cash equivalents (118) (100)\nNet decrease in cash and cash equivalents (75) (161)\nCash and cash equivalents at the beginning of the year(1) 850 850\nCash and cash equivalents at the end of the period 775 689\n(1) Cash and cash equivalents at the beginning of fiscal 2023 includes $75 million of cash and cash equivalents as held for sale.\nU.S. GAAP Condensed Consolidated Balance Sheets (Unaudited)\n($ million) June 30, 2022 June 30, 2023\nCash and cash equivalents 775 689\nTrade receivables, net 1,935 1,875\nInventories, net 2,439 2,213\nProperty, plant and equipment, net 3,646 3,762\nGoodwill and other intangible assets, net 6,942 6,890\nOther assets 1,689 1,574\nTotal assets 17,426 17,003\nTrade payables 3,073 2,690\nShort-term debt and current portion of long-term debt 150 93\nLong-term debt, less current portion 6,340 6,653\nAccruals and other liabilities 3,722 3,477\nShareholders' equity 4,141 4,090\nTotal liabilities and shareholders' equity 17,426 17,003\n9\n\n---\nComponents of Fiscal 2023 Net Sales growth\nThree Months Ended June 30 Twelve Months Ended June 30\n($ million) Flexibles Rigid\nPackaging Total Flexibles Rigid\nPackaging Total\nNet sales fiscal year 2023 2,777 897 3,673 11,154 3,540 14,694\nNet sales fiscal year 2022 2,967 942 3,909 11,151 3,393 14,544\nReported Growth % (6) (5) (6) — 4 1\nFX % 1 (1) — (4) (1) (3)\nConstant Currency Growth % (7) (4) (6) 4 5 4\nRaw Material Pass Through % 1 — 1 5 8 5\nItems affecting comparability % (3) — (2) (2) — (1)\nComparable Constant Currency\nGrowth % (5) (4) (5) 1 (3) —\nVolume % (7) (6) (7) (3) (4) (3)\nPrice/Mix % 2 2 2 4 1 3\n10\n\n---",
+    "chunk_0009": "\n($ million) Flexibles Rigid\nPackaging Total Flexibles Rigid\nPackaging Total\nNet sales fiscal year 2023 2,777 897 3,673 11,154 3,540 14,694\nNet sales fiscal year 2022 2,967 942 3,909 11,151 3,393 14,544\nReported Growth % (6) (5) (6) — 4 1\nFX % 1 (1) — (4) (1) (3)\nConstant Currency Growth % (7) (4) (6) 4 5 4\nRaw Material Pass Through % 1 — 1 5 8 5\nItems affecting comparability % (3) — (2) (2) — (1)\nComparable Constant Currency\nGrowth % (5) (4) (5) 1 (3) —\nVolume % (7) (6) (7) (3) (4) (3)\nPrice/Mix % 2 2 2 4 1 3\n10\n\n---Reconciliation of Non-GAAP Measures\nReconciliation of adjusted Earnings before interest, tax, depreciation and amortization (EBITDA), Earnings before interest\nand tax (EBIT), Net income, Earnings per share (EPS) and Free Cash Flow\nThree Months Ended June 30, 2022 Three Months Ended June 30, 2023\n($ million) EBITDA EBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1) EBITDA EBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor 109 109 109 7.3 181 181 181 12.3\nNet income attributable to non-controlling\ninterests 3 3 4 4\nTax expense 103 103 68 68\nInterest expense, net 35 35 70 70\nDepreciation and amortization 145 144\nEBITDA, EBIT, Net income and EPS 395 250 109 7.3 467 323 181 12.3\n2019 Bemis Integration Plan 11 11 11 0.7 — — — —\nNet loss on disposals 1 1 1 — — — — —\nImpact of hyperinflation 6 6 6 0.4 5 5 5 0.4\nProperty and other (gains)/losses,net(2) (10) (10) (10) (0.6) 2 2 2 0.1\nRussia-Ukraine conflict impacts(3) 200 200 200 13.3 66 66 66 4.5\nPension settlements 5 5 5 0.3 5 5 5 0.3\nOther — — — — — (5) (5) (5) (0.4)\nAmortization of acquired intangibles(4) 42 42 2.7 40 40 2.9\nTax effect of above items 4 0.3 (12) (0.8)\nAdjusted EBITDA, EBIT, Net income, and EPS 609 505 368 24.4 540 436 282 19.3\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBITDA, EBIT, Net income and EPS (11) (14) (23) (21)\n% items affecting comparability(5) 5 6 7 7\n% currency impact — 1 — —\n% comparable constant currency growth (6) (7) (16) (14)\nAdjusted EBITDA 609 540\nInterest paid, net (47) (79)\nIncome tax paid (93) (95)\nPurchase of property, plant and equipment and\nother intangible assets (154) (144)\nProceeds from sales of property, plant and\nequipment and other intangible assets 11 18\nMovement in working capital 493 572\nOther (16) 22\nAdjusted Free Cash Flow 803 834\n(1) Calculation of diluted EPS for the three months ended June 30, 2023 excludes net income attributable to shares to be repurchased under forward\ncontracts of $1 million, and $1 million for the three months ended June 30, 2022.\n(2) Property and other (gains)/losses, net for the three months ended June 30, 2023 includes property claims and losses, net of insurance recovery\nrelated to the closure of our business in South Africa. The three months ended June 30, 2022 include insurance recovery primarily associated with\nthe destruction of our Durban, South Africa facility during general civil unrest in July 2021, net of business losses.\n(3) Includes incremental restructuring and other costs attributable to group wide initiatives to offset divested earnings from the Russian business. The\nthree months ended June 30, 2022 include impairment charges and restructuring and related expenses.\n(4) Amortization of acquired intangible assets from business combinations.\n(5) Reflects the impact of acquired, disposed, and ceased operations.\n11\n\n---",
+    "chunk_0010": "\nthe destruction of our Durban, South Africa facility during general civil unrest in July 2021, net of business losses.\n(3) Includes incremental restructuring and other costs attributable to group wide initiatives to offset divested earnings from the Russian business. The\nthree months ended June 30, 2022 include impairment charges and restructuring and related expenses.\n(4) Amortization of acquired intangible assets from business combinations.\n(5) Reflects the impact of acquired, disposed, and ceased operations.\n11\n\n---Twelve Months Ended June 30, 2022 Twelve Months Ended June 30, 2023\n($ million) EBITDA EBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1) EBITDA EBIT\nNet\nIncome\nEPS\n(Diluted\nUS\ncents)(1)\nNet income attributable to Amcor 805 805 805 52.9 1,048 1,048 1,048 70.5\nNet income attributable to non-controlling\ninterests 10 10 10 10\nTax expense 300 300 193 193\nInterest expense, net 135 135 259 259\nDepreciation and amortization 579 569\nEBITDA, EBIT, Net income and EPS 1,829 1,250 805 52.9 2,080 1,510 1,048 70.5\n2019 Bemis Integration Plan 37 37 37 2.5 — — — —\nNet loss on disposals(2) 10 10 10 0.7 — — — —\nImpact of hyperinflation 16 16 16 1.0 24 24 24 1.9\nProperty and other losses, net(3) 13 13 13 0.8 2 2 2 0.1\nRussia-Ukraine conflict impacts(4) 200 200 200 13.2 (90) (90) (90) (6.0)\nPension settlements 8 8 8 0.5 5 5 5 0.3\nOther 4 4 4 0.3 (3) (3) (3) (0.3)\nAmortization of acquired intangibles (5) 163 163 10.7 160 160 10.8\nTax effect of above items (32) (2.1) (57) (4.0)\nAdjusted EBITDA, EBIT, Net income and EPS 2,117 1,701 1,224 80.5 2,018 1,608 1,089 73.3\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBITDA, EBIT, Net income, and EPS (5) (5) (11) (9)\n% items affecting comparability(6) 3 4 4 4\n% currency impact 3 2 3 3\n% comparable constant currency growth 1 1 (4) (2)\nAdjusted EBITDA 2,117 2,018\nInterest paid, net (119) (248)\nIncome tax paid (256) (225)\nPurchase of property, plant and equipment and\nother intangible assets (527) (526)\nProceeds from sales of property, plant and\nequipment and other intangible assets 18 30\nMovement in working capital (154) (229)\nOther (13) 28\nAdjusted Free Cash Flow 1,066 848\n(1) Calculation of diluted EPS for the twelve months ended June 30, 2023 excludes net income attributable to shares to be repurchased under\nforward contracts of $7 million, and $3 million for the twelve months ended June 30, 2022.\n(2) Includes losses on disposal of non-core businesses in fiscal year 2022.\n(3) Property and other losses, net for fiscal year 2023 includes property claims and losses, net of insurance recovery related to the closure of our\nbusiness in South Africa. Fiscal year 2022 includes business losses primarily associated with the destruction of our Durban, South Africa facility\nduring general civil unrest in July 2021, net of insurance recovery.\n(4) Includes the net gain on disposal of the Russian business in December 2022 and incremental restructuring and other costs attributable to group\nwide initiatives to offset divested earnings from the Russian business. Fiscal year 2022 includes impairment charges and restructuring and related\nexpenses.\n(5) Amortization of acquired intangible assets from business combinations.\n(6) Reflects the impact of acquired, disposed, and ceased operations.\n12\n\n---",
+    "chunk_0011": "\n(4) Includes the net gain on disposal of the Russian business in December 2022 and incremental restructuring and other costs attributable to group\nwide initiatives to offset divested earnings from the Russian business. Fiscal year 2022 includes impairment charges and restructuring and related\nexpenses.\n(5) Amortization of acquired intangible assets from business combinations.\n(6) Reflects the impact of acquired, disposed, and ceased operations.\n12\n\n---Reconciliation of adjusted EBIT by reporting segment\nThree Months Ended June 30, 2022 Three Months Ended June 30, 2023\n($ million) Flexibles\nRigid\nPackaging Other Total Flexibles\nRigid\nPackaging Other Total\nNet income attributable to Amcor 109 181\nNet income attributable to non￾controlling interests 3 4\nTax expense 103 68\nInterest expense, net 35 70\nEBIT 210 87 (46) 250 283 62 (22) 323\n2019 Bemis Integration Plan 12 — (1) 11 — — — —\nNet loss on disposals 1 — — 1 — — — —\nImpact of hyperinflation — 6 — 6 — 5 — 5\nProperty and other (gains)/losses,\nnet(1) (14) — 4 (10) — — 2 2\nRussia-Ukraine conflict impacts(2) 200 — — 200 62 2 2 66\nPension settlements — 1 4 5 3 2 — 5\nOther\n— — — — — 1 (6) (5)\nAmortization of acquired intangibles(3) 40 2 — 42 39 1 — 40\nAdjusted EBIT 449 96 (39) 505 387 73 (24) 436\nAdjusted EBIT / sales % 15.1 % 10.1 % 12.9 % 13.9 % 8.1 % 11.9 %\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBIT (14) (24) — (14)\n% items affecting comparability(4) 7 — — 6\n% currency impact — 1 — 1\n% comparable constant currency (7) (23) — (7)\n(1) Property and other (gains)/losses, net for the three months ended June 30, 2023 includes property claims and losses, net of insurance recovery\nrelated to the closure of our business in South Africa. The three months ended June 30, 2022 include insurance recovery primarily associated with\nthe destruction of our Durban, South Africa facility during general civil unrest in July 2021, net of business losses.\n(2) Includes incremental restructuring and other costs attributable to group wide initiatives to offset divested earnings from the Russian business. The\nthree months ended June 30, 2022 include impairment charges and restructuring and related expenses.\n(3) Amortization of acquired intangible assets from business combinations.\n(4) Reflects the impact of acquired, disposed, and ceased operations.\n13\n\n---",
+    "chunk_0012": "\nthe destruction of our Durban, South Africa facility during general civil unrest in July 2021, net of business losses.\n(2) Includes incremental restructuring and other costs attributable to group wide initiatives to offset divested earnings from the Russian business. The\nthree months ended June 30, 2022 include impairment charges and restructuring and related expenses.\n(3) Amortization of acquired intangible assets from business combinations.\n(4) Reflects the impact of acquired, disposed, and ceased operations.\n13\n\n---Twelve Months Ended June 30, 2022 Twelve Months Ended June 30, 2023\n($ million) Flexibles\nRigid\nPackaging Other Total Flexibles\nRigid\nPackaging Other Total\nNet income attributable to Amcor 805 1,048\nNet income attributable to non￾controlling interests 10 10\nTax expense 300 193\nInterest expense, net 135 259\nEBIT 1,101 265 (116) 1,250 1,357 225 (72) 1,510\n2019 Bemis Integration Plan 38 — (1) 37 — — — —\nNet loss on disposals(1) 10 — — 10 — — — —\nImpact of hyperinflation — 16 — 16 — 24 — 24\nProperty and other losses, net(2) 9 — 4 13 — — 2 2\nRussia-Ukraine conflict impacts(3) 200 — — 200 (100) 8 2 (90)\nPension settlements — 3 5 8 3 2 — 5\nOther 2 — 2 4 14 1 (18) (3)\nAmortization of acquired intangibles (4) 158 5 — 163 155 5 — 160\nAdjusted EBIT 1,517 289 (105) 1,701 1,429 265 (86) 1,608\nAdjusted EBIT / sales % 13.6 % 8.5 % 11.7 % 12.8 % 7.5 % 10.9 %\nReconciliation of adjusted growth to comparable constant currency growth\n% growth - Adjusted EBIT (6) (8) (5)\n% items affecting comparability(5) 4 — 4\n% currency impact 3 1 2\n% comparable constant currency\ngrowth 1 (7) 1\n(1) Includes losses on disposal of non-core businesses in fiscal year 2022.\n(2) Property and other (gains)/losses, net for fiscal year 2023 includes property claims and losses, net of insurance recovery related to the closure of\nour business in South Africa. Fiscal year 2022 includes business losses primarily associated with the destruction of our Durban, South Africa facility\nduring general civil unrest in July 2021, net of insurance recovery.\n(3) Includes the net gain on the sale of the Russian business and incremental restructuring and other costs attributable to group wide initiatives to\noffset divested earnings from the Russian business. Fiscal year 2022 includes impairment charges and restructuring and related expenses.\n(4) Amortization of acquired intangible assets from business combinations.\n(5) Reflects the impact of acquired, disposed, and ceased operations.\nReconciliation of net debt\n($ million) June 30, 2022 June 30, 2023\nCash and cash equivalents (775) (689)\nShort-term debt 136 80\nCurrent portion of long-term debt 14 13\nLong-term debt excluding current portion 6,340 6,653\nNet debt 5,715 6,057\n14"
+  }
+}

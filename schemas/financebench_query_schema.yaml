@@ -1,0 +1,10 @@
+# Query schema for financebench_open_source.jsonl
+# doc_name field is used directly (no expected_md)
+
+question_field: "question"
+doc_field:       "doc_name"
+answer_field:    "answer"
+id_field:        "financebench_id"
+
+extra_context_fields:
+  - "question_type"

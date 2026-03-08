@@ -1,0 +1,56 @@
+# GraphIndex Default Judge Schema
+# Configures LLM-based answer evaluation: prompt template and scoring rules.
+# Edit prompt_template to change evaluation criteria for your domain.
+# Adjust numeric_tolerance_pct to set the acceptable error margin for numeric answers.
+
+system_prompt: |
+  You are evaluating whether a predicted answer is correct for a question-answering benchmark.
+  Be fair and precise. Focus on factual equivalence, not surface wording.
+
+# Prompt template for each individual judgment call.
+# Available placeholders:
+#   {question}                — the original question
+#   {expected}                — the ground truth answer
+#   {predicted}               — the system's predicted answer
+#   {numeric_tolerance_pct}   — filled from numeric_tolerance_pct below
+prompt_template: |
+  Question: {question}
+  Expected answer: {expected}
+  Predicted answer: {predicted}
+
+  Evaluation criteria:
+  - Factual equivalence matters, not exact wording
+  - For numbers: allow ±{numeric_tolerance_pct}% tolerance; treat equivalent units as equal
+    ($1.5B = $1,500M = $1500 million; 4.2% = 0.042 if context makes it clear)
+  - For yes/no questions: the yes/no decision must be correct AND key supporting evidence must be present
+  - For narrative answers: all key facts must be present, even if worded differently
+  - If predicted says "cannot determine" but expected has a clear answer: INCORRECT
+
+  Respond with exactly this format (two lines, nothing else):
+  CORRECT or INCORRECT
+  Reasoning: <one concise sentence explaining why>
+
+# Acceptable error margin for numeric answers (percentage)
+numeric_tolerance_pct: 2
+
+# Response parsing configuration (used by JudgeSchema.parse_response)
+correct_prefix: "CORRECT"
+incorrect_prefix: "INCORRECT"
+reasoning_prefix: "Reasoning:"
+
+# --- Domain-specific examples (commented out) ---
+# Strict judge (zero tolerance):
+#   numeric_tolerance_pct: 0
+#
+# Lenient judge (5% tolerance, for rough estimates):
+#   numeric_tolerance_pct: 5
+#
+# Custom criteria for legal domain:
+#   prompt_template: |
+#     Question: {question}
+#     Expected: {expected}
+#     Predicted: {predicted}
+#     Is the predicted answer legally equivalent to the expected answer?
+#     Consider statutory references, case citations, and legal conclusions.
+#     CORRECT or INCORRECT
+#     Reasoning: <one sentence>
