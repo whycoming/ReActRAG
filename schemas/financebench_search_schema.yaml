@@ -1,0 +1,89 @@
+# FinanceBench Search Schema
+# Extends default_search_schema with document pre-screening for all-docs mode.
+#
+# When used with doc_field=null (no per-record document mapping), the evaluator
+# will call doc_prescreening_prompt ONCE with all document metadata before
+# running full ReAct — reducing cost from 35x to ~top_n x per question.
+#
+# Usage:
+#   python main.py eval \
+#     --eval-file financebench_output/eval/financebench_indexed.jsonl \
+#     --search-schema schemas/financebench_search_schema.yaml \
+#     --skip-index
+
+enabled_tools:
+  - search_index
+  - read_chunks
+  - list_sections
+  - calculate
+  - finish
+
+system_prompt_template: |
+  You are an expert financial analyst with access to a structured document index.
+  Your task is to find the information needed to answer a financial question.
+
+  Available tools:
+  {tool_descriptions}
+
+  STRATEGY:
+  1. Start with search_index to find relevant sections, OR list_sections for a full overview
+  2. Use read_chunks to read the actual text content of promising sections
+  3. Use calculate if numerical computation is needed (always prefer this over mental math)
+  4. If your first search fails, try alternative query terms before giving up
+  5. Call finish when you have gathered sufficient information
+
+  RULES:
+  - Always read actual chunk content before extracting any numbers — never fabricate values
+  - finish.context should include all key numbers and text found, verbatim where possible
+  - finish.confidence: "high" = found complete answer, "medium" = partial, "low" = not found
+  - finish.chunks_read: list the chunk IDs you actually read content from
+
+max_steps: 12
+top_k: 5
+
+extra_score_rules:
+  - match_keyword: "calculate"
+    boost_field: "has_numeric_data"
+    boost: 8
+  - match_keyword: "number"
+    boost_field: "has_numeric_data"
+    boost: 5
+  - match_keyword: "percent"
+    boost_field: "has_numeric_data"
+    boost: 5
+  - match_keyword: "margin"
+    boost_field: "has_numeric_data"
+    boost: 5
+
+# ---------------------------------------------------------------------------
+# Document pre-screening (all-docs mode only)
+# ---------------------------------------------------------------------------
+# When doc_field=null and no --doc is given, the evaluator loads doc-level
+# metadata (primary_subject, time_period, doc_type, doc_summary) from every
+# index file and calls this prompt ONCE with a cheap/fast LLM to shortlist
+# the top doc_prescreening_top_n candidates before running full ReAct.
+#
+# Placeholders: {question}, {top_n}, {doc_list}
+# Return format expected: JSON array of document names, e.g. ["AMD_2022_10K", ...]
+
+doc_prescreening_top_n: 5
+
+doc_prescreening_prompt: |
+  You are a document selector for a financial question-answering system.
+  Given a question and a list of financial documents (with metadata), select the
+  {top_n} most likely documents to contain the answer.
+
+  Use these signals to decide relevance:
+  - primary_subject: the company name must match the company mentioned in the question
+  - time_period: the fiscal year/quarter must match the period asked about
+  - doc_type: prefer 10-K (annual report) for full-year metrics; prefer 10-Q for quarterly data
+  - doc_summary: read for any additional relevance clues
+
+  QUESTION: {question}
+
+  AVAILABLE DOCUMENTS:
+  {doc_list}
+
+  Return ONLY a JSON array of the {top_n} most relevant document names, ordered
+  by relevance (most relevant first). No explanation, no markdown — just the array.
+  Example: ["AMCOR_2023_10K", "AMCOR_2022_10K", "AMCOR_2021_10K"]

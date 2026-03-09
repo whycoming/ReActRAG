@@ -12,12 +12,13 @@ Works with all supported providers:
 """
 
 from __future__ import annotations
+import re
 from dataclasses import dataclass
 
 import config as cfg
 from src.llm_client import LLMClient
 from src.schema import IndexSchema, SearchSchema
-from src.tools import ToolRegistry
+from src.tools import ToolRegistry, _score_section
 
 
 # ---------------------------------------------------------------------------
@@ -207,6 +208,16 @@ class ReActSearcher:
         total_chunks = doc_index.get("total_chunks", 0)
 
         sections = doc_index.get("sections", [])
+
+        # Sort sections by relevance to the question so the agent sees the most
+        # promising chunks first, reducing the number of search_index calls needed.
+        query_terms = re.findall(r"\w+", question)
+        if query_terms and sections:
+            sections = sorted(
+                sections,
+                key=lambda s: _score_section(s, query_terms, self.index_schema, self.search_schema),
+                reverse=True,
+            )
         preview_sections = sections[:20]
         toc_lines = [
             f"{'chunk_id':<12} {'pages':<10} {'has_nums':<10} section_title",

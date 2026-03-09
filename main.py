@@ -223,6 +223,13 @@ def cmd_eval(args):
         print(f"ERROR: Eval file not found: {eval_path}")
         sys.exit(1)
 
+    # Validate: need either doc_field in schema or --doc on CLI
+    fixed_doc = getattr(args, "doc", None)
+    search_all_docs = (query_schema.doc_field is None and fixed_doc is None)
+    if search_all_docs:
+        print("Note: no doc_field in query schema and no --doc provided.")
+        print("      Will search ALL documents in indexes/ for each question (slow).")
+
     evaluator = Evaluator(
         index_schema=index_schema,
         query_schema=query_schema,
@@ -231,6 +238,8 @@ def cmd_eval(args):
         searcher=searcher,
         answerer=answerer,
         judge_client=client,
+        fixed_doc=fixed_doc,
+        search_all_docs=search_all_docs,
     )
 
     evaluator.evaluate(
@@ -323,6 +332,8 @@ def main():
     # ── eval ───────────────────────────────────────────────────────────
     p_eval = subparsers.add_parser("eval", help="Run evaluation")
     _add_schema_args(p_eval)
+    p_eval.add_argument("--doc", default=None, metavar="DOC_NAME",
+                        help="Fixed document for all records (required when query schema has no doc_field)")
     p_eval.add_argument("--split", default="validation",
                         choices=["test", "validation"],
                         help="Built-in eval split to use (default: validation)")

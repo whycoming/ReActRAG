@@ -7,7 +7,9 @@ with unified criteria. This avoids brittle regex matching and handles paraphrasi
 
 from __future__ import annotations
 import json
+import re
 import time
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from pathlib import Path
@@ -71,6 +73,8 @@ class Evaluator:
         searcher: ReActSearcher | None = None,
         answerer: Answerer | None = None,
         judge_client: LLMClient | None = None,
+        fixed_doc: str | None = None,
+        search_all_docs: bool = False,
     ):
         self.index_schema = index_schema
         self.query_schema = query_schema
@@ -80,6 +84,8 @@ class Evaluator:
         self.answerer = answerer
         self.judge_client = judge_client or LLMClient()
         self.judge_model = cfg.get_model("judge")
+        self.fixed_doc = fixed_doc
+        self.search_all_docs = search_all_docs
 
     # ------------------------------------------------------------------
     # Main evaluation entry point
@@ -114,22 +120,47 @@ class Evaluator:
         print(f"Evaluating: {split_name} ({len(records)} questions)")
         print(f"{'='*60}\n")
 
+        # Step A: index all unique documents sequentially (avoids concurrent write conflicts)
+        if not skip_index:
+            unique_docs: set[str] = set()
+            for record in records:
+                try:
+                    doc_name = self.query_schema.extract_doc_name(record, override_doc=self.fixed_doc)
+                    unique_docs.add(doc_name)
+                except (ValueError, KeyError):
+                    pass  # all-docs mode or missing field — handled per-question
+            if unique_docs:
+                print(f"Pre-indexing {len(unique_docs)} document(s)...")
+                for doc_name in sorted(unique_docs):
+                    self.indexer.index_document(doc_name)
+                print()
+
+        # Step B: run search + answer + judge in parallel
+        parallelism = cfg.EVAL_PARALLELISM
+        ordered_results: list[QuestionResult | None] = [None] * len(records)
+
+        with ThreadPoolExecutor(max_workers=parallelism) as pool:
+            futures = {
+                pool.submit(
+                    self._run_one, record, True, self.fixed_doc
+                ): i
+                for i, record in enumerate(records)
+            }
+            for future in tqdm(as_completed(futures), total=len(records), desc="Evaluating"):
+                i = futures[future]
+                ordered_results[i] = future.result()
+
         question_results: list[QuestionResult] = []
-
-        for i, record in enumerate(tqdm(records, desc="Evaluating")):
-            print(f"\n[{i+1}/{len(records)}] {self.query_schema.extract_id(record) or ''}")
-            result = self._run_one(record, skip_index=skip_index)
-            question_results.append(result)
+        for i, result in enumerate(ordered_results):
+            print(f"\n[{i+1}/{len(records)}] {self.query_schema.extract_id(records[i]) or ''}")
             self._print_result(result)
+            question_results.append(result)
 
-        # Aggregate
+        # Aggregate and save
         eval_results = self._aggregate(split_name, question_results)
-
-        # Save results
         ts = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S")
         out_path = results_dir / f"eval_{split_name}_{ts}.jsonl"
         self._save_results(eval_results, out_path)
-
         self._print_summary(eval_results)
         return eval_results
 
@@ -137,33 +168,45 @@ class Evaluator:
     # Single-question pipeline
     # ------------------------------------------------------------------
 
-    def _run_one(self, record: dict, skip_index: bool) -> QuestionResult:
+    def _run_one(self, record: dict, skip_index: bool, fixed_doc: str | None = None) -> QuestionResult:
         record_id = self.query_schema.extract_id(record)
         start = time.time()
 
         try:
             question = self.query_schema.extract_question(record)
-            doc_name = self.query_schema.extract_doc_name(record)
-            expected = self.query_schema.extract_answer(record)
             extra_context = self.query_schema.extract_extra_context(record)
+            expected = self.query_schema.extract_answer(record)
+
+            try:
+                doc_name = self.query_schema.extract_doc_name(record, override_doc=fixed_doc)
+                presearched = False
+            except ValueError:
+                if self.search_all_docs:
+                    print(f"  No doc_field — searching all indexed documents...")
+                    doc_name, search_result = self._search_all_docs(question, extra_context)
+                    presearched = True
+                else:
+                    raise
 
             print(f"  Q: {question[:80]}...")
             print(f"  Doc: {doc_name}")
 
             # Step 1: index
-            if not skip_index:
-                doc_index = self.indexer.index_document(doc_name)
-            else:
-                doc_index = self.indexer.load_index(doc_name)
-                if doc_index is None:
-                    raise FileNotFoundError(f"Index not found for {doc_name}. Run without --skip-index first.")
+            if not presearched:
+                if not skip_index:
+                    doc_index = self.indexer.index_document(doc_name)
+                else:
+                    doc_index = self.indexer.load_index(doc_name)
+                    if doc_index is None:
+                        raise FileNotFoundError(f"Index not found for {doc_name}. Run without --skip-index first.")
 
-            # Step 2: search
-            search_result = self.searcher.search(
-                question=question,
-                doc_index=doc_index,
-                extra_context=extra_context,
-            )
+                # Step 2: search
+                search_result = self.searcher.search(
+                    question=question,
+                    doc_index=doc_index,
+                    extra_context=extra_context,
+                )
+
             self._print_trace(search_result.reasoning_trace)
             print(f"  Search: {search_result.react_steps} steps, confidence={search_result.confidence}, "
                   f"chunks_read={len(search_result.chunks_read)}")
@@ -205,7 +248,7 @@ class Evaluator:
             return QuestionResult(
                 record_id=record_id,
                 question=record.get(self.query_schema.question_field, ""),
-                doc_name=record.get(self.query_schema.doc_field, ""),
+                doc_name=record.get(self.query_schema.doc_field, "") if self.query_schema.doc_field else (fixed_doc or ""),
                 predicted="ERROR",
                 expected=self.query_schema.extract_answer(record),
                 is_correct=False,
@@ -216,6 +259,190 @@ class Evaluator:
                 latency_seconds=round(time.time() - start, 2),
                 error=str(e),
             )
+
+    # ------------------------------------------------------------------
+    # All-docs brute-force search
+    # ------------------------------------------------------------------
+
+    def _search_all_docs(self, question: str, extra_context: dict):
+        """Search every indexed document and return (doc_name, best_search_result).
+
+        If the search schema has a doc_prescreening_prompt, first runs a cheap LLM
+        call to rank documents by their metadata (primary_subject, time_period,
+        doc_summary), then runs full ReAct only on the top-N candidates.
+        """
+        CONF_RANK = {"high": 2, "medium": 1, "low": 0}
+        index_files = sorted(cfg.INDEX_DIR.glob("*.json"))
+        if not index_files:
+            raise FileNotFoundError(f"No index files found in {cfg.INDEX_DIR}. Run indexing first.")
+
+        # Load all doc-level metadata (no LLM call, just JSON reads)
+        all_docs: list[tuple] = []
+        for path in index_files:
+            with open(path, encoding="utf-8") as fh:
+                doc_index = json.load(fh)
+            all_docs.append((path, doc_index))
+
+        # Keyword pre-sort: rank docs by how well their metadata matches the question.
+        # This runs before LLM pre-screening so the LLM sees the most relevant docs first,
+        # and the fallback path (first top_n) also picks the right candidates.
+        keyword_scores = {
+            d.get("doc_name", p.stem): self._score_doc_meta(question, d)
+            for p, d in all_docs
+        }
+
+        # Semantic scoring: single LLM batch call on doc_summary
+        print(f"  Semantic scoring {len(all_docs)} doc summaries ...", flush=True)
+        semantic_scores = self._semantic_score_summaries(question, all_docs)
+
+        def _combined_score(item: tuple) -> float:
+            path, doc_index = item
+            name = doc_index.get("doc_name", path.stem)
+            return keyword_scores.get(name, 0.0) + semantic_scores.get(name, 0.0)
+
+        all_docs.sort(key=_combined_score, reverse=True)
+
+        # Pre-screening: use doc-level metadata to shortlist candidates
+        search_schema = self.searcher.search_schema
+        if search_schema.doc_prescreening_prompt:
+            candidate_names = self._prescreen_docs(question, all_docs)
+            all_docs = [(p, d) for p, d in all_docs
+                        if d.get("doc_name", p.stem) in candidate_names]
+            print(f"  Pre-screened: {[d.get('doc_name', p.stem) for p, d in all_docs]}")
+        else:
+            print(f"  No pre-screening — will try all {len(all_docs)} documents")
+
+        best_doc: str | None = None
+        best_result = None
+
+        for i, (path, doc_index) in enumerate(all_docs, 1):
+            doc_name = doc_index.get("doc_name", path.stem)
+            print(f"  [{i}/{len(all_docs)}] Trying: {doc_name} ...", flush=True)
+            result = self.searcher.search(question, doc_index, extra_context)
+            if best_result is None or \
+               CONF_RANK.get(result.confidence, 0) > CONF_RANK.get(best_result.confidence, 0):
+                best_doc, best_result = doc_name, result
+            if best_result.confidence == "high":
+                print(f"  → High-confidence match found: {best_doc}")
+                break
+
+        return best_doc, best_result
+
+    @staticmethod
+    def _score_doc_meta(question: str, doc_index: dict) -> float:
+        """Keyword score of doc_name and doc_meta fields against the question.
+
+        Year-aware: extracts 4-digit years from compound tokens so that
+        "FY2022" in a question matches "2022" in "3M_2022_10K", and
+        "2023Q2" in a doc_name matches "2023" in "Q2 FY2023" queries.
+
+        Weights:
+        - doc_name (company + year encoded in filename): 3x
+        - doc_meta fields (time_period, primary_subject, doc_type): 2x
+        """
+        _year_pat = re.compile(r"\d{4}")
+
+        def _expand(text: str) -> set[str]:
+            tokens = set(re.findall(r"\w+", text.lower()))
+            for t in list(tokens):
+                tokens.update(_year_pat.findall(t))
+            return tokens
+
+        query_terms = _expand(question)
+        if not query_terms:
+            return 0.0
+
+        score = 0.0
+        score += len(query_terms & _expand(doc_index.get("doc_name", ""))) * 3.0
+        for value in doc_index.get("doc_meta", {}).values():
+            score += len(query_terms & _expand(str(value))) * 2.0
+        return score
+
+    def _semantic_score_summaries(self, question: str, all_docs: list[tuple]) -> dict[str, float]:
+        """Single LLM batch call: score each document's summary for relevance to the question.
+
+        Returns a dict mapping doc_name → float score (0–10).
+        Falls back to all-zeros on parse failure (keyword score still applies).
+        """
+        lines = []
+        for i, (path, doc_index) in enumerate(all_docs, 1):
+            doc_name = doc_index.get("doc_name", path.stem)
+            summary = (doc_index.get("doc_summary") or "")[:300]
+            lines.append(f"{i}. {doc_name}: {summary}")
+
+        prompt = (
+            "You are a document relevance ranker.\n"
+            f"Question: {question}\n\n"
+            "Rate each document's summary for how likely it contains the answer, "
+            "on a scale of 0 (irrelevant) to 10 (highly relevant).\n\n"
+            "Documents:\n"
+            + "\n".join(lines)
+            + "\n\nReturn ONLY a JSON object mapping each document name to its integer score. "
+            'Example: {"3M_2022_10K": 9, "3M_2019_10K": 1}'
+        )
+
+        response = self.judge_client.chat(
+            messages=[{"role": "user", "content": prompt}],
+            model=self.judge_model,
+            temperature=0,
+            max_tokens=1024,
+        )
+
+        match = re.search(r"\{.*?\}", response.content, re.DOTALL)
+        if match:
+            try:
+                scores = json.loads(match.group())
+                return {k: float(v) for k, v in scores.items() if isinstance(v, (int, float))}
+            except (json.JSONDecodeError, ValueError):
+                pass
+        print("  WARNING: could not parse semantic scoring response, using keyword scores only")
+        return {}
+
+    def _prescreen_docs(self, question: str, all_docs: list[tuple]) -> list[str]:
+        """Use a cheap LLM call to shortlist candidate documents by metadata."""
+        top_n = self.searcher.search_schema.doc_prescreening_top_n
+        prompt_template = self.searcher.search_schema.doc_prescreening_prompt
+
+        doc_lines = []
+        for i, (path, doc_index) in enumerate(all_docs, 1):
+            doc_name = doc_index.get("doc_name", path.stem)
+            meta = doc_index.get("doc_meta", {})
+            subject  = meta.get("primary_subject", "")
+            period   = meta.get("time_period", "")
+            doc_type = meta.get("doc_type", "")
+            summary  = (doc_index.get("doc_summary") or meta.get("doc_summary", ""))[:200]
+            doc_lines.append(
+                f"{i:2d}. {doc_name} | {subject} | {period} | {doc_type}\n"
+                f"    {summary}"
+            )
+        doc_list_str = "\n".join(doc_lines)
+
+        prompt = prompt_template.format(
+            question=question,
+            top_n=top_n,
+            doc_list=doc_list_str,
+        )
+        print(f"  Pre-screening {len(all_docs)} docs → top {top_n} ...", flush=True)
+        response = self.judge_client.chat(
+            messages=[{"role": "user", "content": prompt}],
+            model=self.judge_model,
+            temperature=0,
+            max_tokens=512,
+        )
+
+        # Parse JSON array from response
+        text = response.content
+        match = re.search(r"\[.*?\]", text, re.DOTALL)
+        if match:
+            try:
+                names = json.loads(match.group())
+                if isinstance(names, list) and names:
+                    return [str(n) for n in names]
+            except json.JSONDecodeError:
+                pass
+        # Fallback: return top_n by original order
+        print("  WARNING: could not parse pre-screening response, using first top_n docs")
+        return [d.get("doc_name", p.stem) for p, d in all_docs[:top_n]]
 
     # ------------------------------------------------------------------
     # LLM Judge

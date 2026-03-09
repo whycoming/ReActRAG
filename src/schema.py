@@ -144,7 +144,7 @@ def load_index_schema(path: str | Path) -> IndexSchema:
 @dataclass
 class QuerySchema(BaseSchema):
     question_field: str
-    doc_field: str
+    doc_field: str | None
     answer_field: str | None
     id_field: str | None
     extra_context_fields: list[str]
@@ -157,13 +157,20 @@ class QuerySchema(BaseSchema):
             )
         return str(val)
 
-    def extract_doc_name(self, record: dict) -> str:
-        val = record.get(self.doc_field)
-        if val is None:
-            raise KeyError(
-                f"Doc field '{self.doc_field}' not found in record: {list(record.keys())}"
-            )
-        return str(val).removesuffix(".md")
+    def extract_doc_name(self, record: dict, override_doc: str | None = None) -> str:
+        if self.doc_field is not None:
+            val = record.get(self.doc_field)
+            if val is None:
+                raise KeyError(
+                    f"Doc field '{self.doc_field}' not found in record: {list(record.keys())}"
+                )
+            return str(val).removesuffix(".md")
+        if override_doc is not None:
+            return override_doc.removesuffix(".md")
+        raise ValueError(
+            "doc_field is not set in query schema and no --doc was provided. "
+            "Either set doc_field in your query schema YAML or pass --doc <DOC_NAME> on the CLI."
+        )
 
     def extract_answer(self, record: dict) -> str | None:
         if self.answer_field is None:
@@ -189,7 +196,7 @@ class QuerySchema(BaseSchema):
             data = yaml.safe_load(fh)
         return cls(
             question_field=data["question_field"],
-            doc_field=data["doc_field"],
+            doc_field=data.get("doc_field"),
             answer_field=data.get("answer_field"),
             id_field=data.get("id_field"),
             extra_context_fields=data.get("extra_context_fields", []),
@@ -218,6 +225,10 @@ class SearchSchema(BaseSchema):
     max_steps: int
     top_k: int
     extra_score_rules: list[ExtraScoreRule]
+    # Optional: pre-screening for all-docs mode (doc_field=null)
+    # When set, a cheap LLM call filters to top-N candidates before full ReAct.
+    doc_prescreening_prompt: str | None = None
+    doc_prescreening_top_n: int = 5
 
     def render_system_prompt(self, tool_descriptions: str = "") -> str:
         """Fill {tool_descriptions} placeholder in the system prompt template."""
@@ -253,6 +264,8 @@ class SearchSchema(BaseSchema):
             max_steps=int(data.get("max_steps", 12)),
             top_k=int(data.get("top_k", 5)),
             extra_score_rules=rules,
+            doc_prescreening_prompt=data.get("doc_prescreening_prompt"),
+            doc_prescreening_top_n=int(data.get("doc_prescreening_top_n", 5)),
         )
 
 

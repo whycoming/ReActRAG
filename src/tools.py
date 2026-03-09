@@ -26,38 +26,51 @@ from src.schema import IndexSchema, SearchSchema
 # Schema-aware keyword scoring
 # ---------------------------------------------------------------------------
 
+def _bigrams(words: list[str]) -> set[str]:
+    """Return all adjacent word pairs as 'word1_word2' tokens."""
+    return {f"{words[i]}_{words[i+1]}" for i in range(len(words) - 1)}
+
+
 def _score_section(section: dict, query_terms: list[str],
                    index_schema: IndexSchema,
                    search_schema: SearchSchema | None = None) -> float:
     """
     Score a section against query terms using:
-    1. Field weights from IndexSchema (base scoring)
-    2. Extra boost rules from SearchSchema (domain-specific overrides)
+    1. Unigram field weights from IndexSchema (base scoring)
+    2. Bigram bonus (1.5x field weight) for matching adjacent word pairs
+    3. Extra boost rules from SearchSchema (domain-specific overrides)
     Higher = more relevant.
     """
     score = 0.0
-    query_lower = {t.lower() for t in query_terms}
+    query_lower = [t.lower() for t in query_terms]   # ordered list for bigrams
+    query_set = set(query_lower)
+    query_bi = _bigrams(query_lower)
 
-    # Base scoring: IndexSchema field weights
+    # Base scoring: IndexSchema field weights (unigram + bigram)
     for field_def in index_schema.scored_fields():
         value = section.get(field_def.name)
         if value is None:
             continue
 
         if isinstance(value, list):
-            field_tokens = set()
+            all_words: list[str] = []
             for item in value:
-                field_tokens.update(re.findall(r"\w+", str(item).lower()))
+                all_words += re.findall(r"\w+", str(item).lower())
         else:
-            field_tokens = set(re.findall(r"\w+", str(value).lower()))
+            all_words = re.findall(r"\w+", str(value).lower())
 
-        hits = len(query_lower & field_tokens)
-        score += hits * field_def.search_weight
+        field_tokens = set(all_words)
+        field_bi = _bigrams(all_words)
+
+        # Unigram hits
+        score += len(query_set & field_tokens) * field_def.search_weight
+        # Bigram hits — reward complete phrase matches over partial word overlap
+        score += len(query_bi & field_bi) * field_def.search_weight * 1.5
 
     # Extra scoring: SearchSchema.extra_score_rules
     if search_schema:
         for rule in search_schema.extra_score_rules:
-            if rule.match_keyword.lower() in query_lower:
+            if rule.match_keyword.lower() in query_set:
                 field_val = section.get(rule.boost_field)
                 if field_val:  # truthy: non-empty string/list, True boolean
                     score += rule.boost

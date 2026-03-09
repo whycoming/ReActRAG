@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(grep '\"\"is_correct\"\": false' -A 0)",
+      "Read(//tmp/**)"
+    ]
+  }
+}
