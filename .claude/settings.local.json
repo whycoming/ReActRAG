@@ -1,8 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Read(//c/Users/12062/Desktop/code_base/graphIndex/{s+=$1; c++} END {printf \"\"\"\"Avg steps: %.1f/n\"\"\"\", s/**)",
-      "Read(//c/Users/12062/Desktop/code_base/graphIndex/{s+=$1; c++} END {printf \"\"\"\"Avg latency: %.1f sec, Total: %.0f sec/n\"\"\"\", s/**)"
-    ]
-  }
-}
