@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:medium.com)",
+      "WebFetch(domain:www.ibm.com)",
+      "Bash(python -c \"import config; import src.indexer; import main; print\\(''OK''\\)\")",
+      "Bash(python -c \"import src.indexer; print\\(''OK''\\)\")",
+      "Read(//c/Users/12062/.claude/projects/c--Users-12062-Desktop-code-base-graphIndex/7282188e-9e28-40b9-8b60-6ae14f976513/tool-results/**)",
+      "Bash(python main.py index --docs-from financebench_output/eval/mini_markdown/ --agentic --force)",
+      "Bash(ls indexes/*.json)",
+      "Bash(xargs -I{} basename {} .json)",
+      "Bash(ls financebench_output/eval/mini_markdown/*.md)",
+      "Bash(xargs -I{} basename {} .md)",
+      "Bash(ls -lt indexes/*.json)",
+      "Bash(python -c \":*)",
+      "Bash(python main.py eval --eval-file financebench_output/eval/financebench_pipeline_errors.jsonl --skip-index)"
+    ]
+  }
+}

@@ -8,6 +8,7 @@ MARKDOWN_DIR = BASE_DIR / "financebench_output" / "markdown"
 MINI_MARKDOWN_DIR = BASE_DIR / "financebench_output" / "eval" / "mini_markdown"
 EVAL_DIR = BASE_DIR / "financebench_output" / "eval"
 INDEX_DIR = BASE_DIR / "indexes"
+INDEX_DB  = INDEX_DIR / "graphindex.db"   # SQLite index database
 RESULTS_DIR = BASE_DIR / "results"
 SCHEMAS_DIR = BASE_DIR / "schemas"
 
@@ -30,10 +31,10 @@ DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 # Model names per provider and role
 MODELS = {
     "anthropic": {
-        "indexer": "claude-haiku-4-5-20251001",
+        "indexer": "claude-sonnet-4-6",
         "searcher": "claude-sonnet-4-6",
         "answerer": "claude-sonnet-4-6",
-        "judge": "claude-haiku-4-5-20251001",
+        "judge": "claude-sonnet-4-6",
     },
     "qwen": {
         "indexer": "qwen-turbo",
@@ -56,6 +57,11 @@ def get_model(role: str) -> str:
 CHUNK_TOKENS = 800
 OVERLAP_TOKENS = 150
 APPROX_CHARS_PER_TOKEN = 3.5  # fast estimation without tokenizer
+
+# Agentic chunking (opt-in, replaces token-based chunking when enabled)
+AGENTIC_CHUNKING = False       # set True via --agentic flag or environment
+AGENTIC_MIN_TOKENS = 200       # don't ask LLM until chunk has at least this many tokens
+AGENTIC_MAX_TOKENS = 1200      # hard token cap per chunk (can be larger than CHUNK_TOKENS)
 
 # ReAct agent
 MAX_REACT_STEPS = 12

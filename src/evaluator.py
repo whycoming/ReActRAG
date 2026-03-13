@@ -244,7 +244,7 @@ class Evaluator:
         except Exception as e:
             import traceback
             err = traceback.format_exc()
-            print(f"  ERROR: {e}")
+            print(f"  ERROR: {e}\n{err}")
             return QuestionResult(
                 record_id=record_id,
                 question=record.get(self.query_schema.question_field, ""),
@@ -257,7 +257,7 @@ class Evaluator:
                 react_steps=0,
                 confidence="low",
                 latency_seconds=round(time.time() - start, 2),
-                error=str(e),
+                error=err,
             )
 
     # ------------------------------------------------------------------
@@ -272,23 +272,23 @@ class Evaluator:
         doc_summary), then runs full ReAct only on the top-N candidates.
         """
         CONF_RANK = {"high": 2, "medium": 1, "low": 0}
-        index_files = sorted(cfg.INDEX_DIR.glob("*.json"))
-        if not index_files:
-            raise FileNotFoundError(f"No index files found in {cfg.INDEX_DIR}. Run indexing first.")
+        doc_names = self.indexer.list_indexed_docs()
+        if not doc_names:
+            raise FileNotFoundError(f"No indexed documents found in {cfg.INDEX_DIR}. Run indexing first.")
 
-        # Load all doc-level metadata (no LLM call, just JSON reads)
+        # Load all doc-level metadata (DB reads, no LLM)
         all_docs: list[tuple] = []
-        for path in index_files:
-            with open(path, encoding="utf-8") as fh:
-                doc_index = json.load(fh)
-            all_docs.append((path, doc_index))
+        for doc_name in doc_names:
+            doc_index = self.indexer.load_index(doc_name)
+            if doc_index is not None:
+                all_docs.append((doc_name, doc_index))
 
         # Keyword pre-sort: rank docs by how well their metadata matches the question.
         # This runs before LLM pre-screening so the LLM sees the most relevant docs first,
         # and the fallback path (first top_n) also picks the right candidates.
         keyword_scores = {
-            d.get("doc_name", p.stem): self._score_doc_meta(question, d)
-            for p, d in all_docs
+            d.get("doc_name", name): self._score_doc_meta(question, d)
+            for name, d in all_docs
         }
 
         # Semantic scoring: single LLM batch call on doc_summary
@@ -296,9 +296,8 @@ class Evaluator:
         semantic_scores = self._semantic_score_summaries(question, all_docs)
 
         def _combined_score(item: tuple) -> float:
-            path, doc_index = item
-            name = doc_index.get("doc_name", path.stem)
-            return keyword_scores.get(name, 0.0) + semantic_scores.get(name, 0.0)
+            name, doc_index = item
+            return keyword_scores.get(doc_index.get("doc_name", name), 0.0) + semantic_scores.get(doc_index.get("doc_name", name), 0.0)
 
         all_docs.sort(key=_combined_score, reverse=True)
 
@@ -306,17 +305,17 @@ class Evaluator:
         search_schema = self.searcher.search_schema
         if search_schema.doc_prescreening_prompt:
             candidate_names = self._prescreen_docs(question, all_docs)
-            all_docs = [(p, d) for p, d in all_docs
-                        if d.get("doc_name", p.stem) in candidate_names]
-            print(f"  Pre-screened: {[d.get('doc_name', p.stem) for p, d in all_docs]}")
+            all_docs = [(name, d) for name, d in all_docs
+                        if d.get("doc_name", name) in candidate_names]
+            print(f"  Pre-screened: {[d.get('doc_name', name) for name, d in all_docs]}")
         else:
             print(f"  No pre-screening — will try all {len(all_docs)} documents")
 
         best_doc: str | None = None
         best_result = None
 
-        for i, (path, doc_index) in enumerate(all_docs, 1):
-            doc_name = doc_index.get("doc_name", path.stem)
+        for i, (name, doc_index) in enumerate(all_docs, 1):
+            doc_name = doc_index.get("doc_name", name)
             print(f"  [{i}/{len(all_docs)}] Trying: {doc_name} ...", flush=True)
             result = self.searcher.search(question, doc_index, extra_context)
             if best_result is None or \
@@ -365,8 +364,8 @@ class Evaluator:
         Falls back to all-zeros on parse failure (keyword score still applies).
         """
         lines = []
-        for i, (path, doc_index) in enumerate(all_docs, 1):
-            doc_name = doc_index.get("doc_name", path.stem)
+        for i, (name, doc_index) in enumerate(all_docs, 1):
+            doc_name = doc_index.get("doc_name", name)
             summary = (doc_index.get("doc_summary") or "")[:300]
             lines.append(f"{i}. {doc_name}: {summary}")
 
@@ -404,8 +403,8 @@ class Evaluator:
         prompt_template = self.searcher.search_schema.doc_prescreening_prompt
 
         doc_lines = []
-        for i, (path, doc_index) in enumerate(all_docs, 1):
-            doc_name = doc_index.get("doc_name", path.stem)
+        for i, (name, doc_index) in enumerate(all_docs, 1):
+            doc_name = doc_index.get("doc_name", name)
             meta = doc_index.get("doc_meta", {})
             subject  = meta.get("primary_subject", "")
             period   = meta.get("time_period", "")
@@ -442,7 +441,7 @@ class Evaluator:
                 pass
         # Fallback: return top_n by original order
         print("  WARNING: could not parse pre-screening response, using first top_n docs")
-        return [d.get("doc_name", p.stem) for p, d in all_docs[:top_n]]
+        return [d.get("doc_name", name) for name, d in all_docs[:top_n]]
 
     # ------------------------------------------------------------------
     # LLM Judge
@@ -556,7 +555,7 @@ class Evaluator:
     @staticmethod
     def _print_result(r: QuestionResult) -> None:
         if r.error:
-            print(f"  ❌ ERROR: {r.error}")
+            print(f"  ERROR: {r.error}")
 
     @staticmethod
     def _print_summary(eval_results: EvalResults) -> None:

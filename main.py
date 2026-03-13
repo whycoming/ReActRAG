@@ -98,6 +98,9 @@ def build_components(
 # ---------------------------------------------------------------------------
 
 def cmd_index(args):
+    if getattr(args, "agentic", False):
+        cfg.AGENTIC_CHUNKING = True
+
     index_schema, _, _, _, _, indexer, _, _, _ = build_components(
         index_schema_path=args.index_schema,
         pipeline_schema_path=args.pipeline_schema,
@@ -128,9 +131,9 @@ def cmd_index(args):
         print(f"Document: {name}")
         try:
             idx = indexer.index_document(name, force=args.force)
-            print(f"  ✓ {idx['total_chunks']} chunks indexed → indexes/{name}.json")
+            print(f"  OK {idx['total_chunks']} chunks indexed -> indexes/{name}.db")
         except Exception as e:
-            print(f"  ✗ Error: {e}")
+            print(f"  ERROR: {e}")
 
     print("\nIndexing complete.")
 
@@ -316,6 +319,8 @@ def main():
                        help="Index all documents in MARKDOWN_DIR")
     p_index.add_argument("--force", action="store_true",
                          help="Re-index even if cached index exists")
+    p_index.add_argument("--agentic", action="store_true",
+                         help="Use agentic chunking (LLM-guided boundaries) instead of token-based chunking")
     p_index.set_defaults(func=cmd_index)
 
     # ── ask ────────────────────────────────────────────────────────────
